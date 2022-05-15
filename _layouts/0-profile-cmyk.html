@@ -1,0 +1,16 @@
+---
+layout: 0-profile
+---
+<p id="summary">{{page.summary}}</p>
+
+<section id="stats"><h2>stats</h2><ul>
+	<li>age: {{page.age}}</li>
+	<li>height: {{page.height}}</li>
+</ul></section>
+
+<section id="info"><h2>info</h2>{{content}}</section>
+
+<section id="songs">
+	<h2>songs</h2>
+	<ul>{%for song in site.data.songs%}<li>{{song.why}}: <a href="{{song.url}}">“{{song.title}}” – {{song.artist}}</a>{%endfor%}</ul>
+</section>

@@ -12,17 +12,24 @@
        url('fonts/lato-v23-latin-regular.svg#Lato') format('svg'); /* Legacy iOS */
 }
 
+/*core*/
 *{margin:0; padding:0; box-sizing:border-box; font-size:100%;}
 body{overflow-x:hidden; word-wrap:break-word;}
 a{color:inherit; text-decoration:0;}
 img{max-width:100%; height:auto;}
-header,main,footer,nav{display:block;}
+header,main,section,footer,nav{display:block;}
+main ul{margin-left:1em;}
 
+/*sitewide layout*/
+footer{font-size:.85em;}
+footer ul,footer li{display:inline;} footer li:before{content:"·"; margin:0 .5em 0 .25em; font-weight:bold;}
+
+/*OOC*/
 .ooc{background:#b7b7b7; font-family:verdana,sans-serif; font-size:115%; line-height:150%; padding:1em;}
 .ooc .wrap,.ooc hr{max-width:30em; margin:0 auto;} .ooc footer .wrap{max-width:35.15em;}
 .ooc a{background:#c9c9c9; padding:0 .25em; margin:0 -.15em;} .ooc a:focus,.ooc a:active,.ooc a:hover{background:#dbdbdb;} .ooc header a{margin-left:0;}
 .ooc hr{height:1px; border:0; background:#606060;}
-.ooc ::selection{background:#9c9c9c; background:rgba(0,0,0,.15);}
+.ooc ::selection{background:#9c9c9c;}
 .ooc header{padding-top:1em;}
 .ooc h1{font-size:2em; padding-top:.15em;}
 .ooc h2{font-size:1.15em; margin-top:1.25em; margin-bottom:-.25em;}
@@ -30,8 +37,12 @@ header,main,footer,nav{display:block;}
 .ooc #line{margin:2em auto 1em; background:#9c9c9c;}
 .ooc footer{padding-bottom:1em; line-height:135%; color:#606060;} .ooc .list{margin:.5em 0;} .ooc footer b{font-size:.85em; text-transform:uppercase; letter-spacing:.05em;}
 
+/*IC*/
 .ic{font-family:lato,verdana,sans-serif; font-size:125%; line-height:135%;}
 .ic .ooc{font-size:1em;}
 
-footer{font-size:.85em;}
-footer ul,footer li{display:inline;} footer li:before{content:"·"; margin:0 .5em 0 .25em; font-weight:bold;}
+.cmyk{background:#000; color:#fff; line-height:165%;} .cmyk .ooc{font-size:.85em; background:#404040;}
+.cmyk ::selection{background:#404040; background:rgba(255,255,255,0.25);}
+.cmyk a{text-decoration:underline dotted;} .cmyk a:hover,.cmyk a:focus,.cmyk a:active{text-decoration:underline solid; text-decoration-thickness:.05em;}
+.cmyk .ooc{line-height:165%; max-width:35em; margin:0 auto;} .cmyk .ooc h2{margin:-1.85em 0 .5em .85em; font-size:1.25em;}
+.cmyk #line,.cmyk .list:first-of-type{display:none;} .cmyk footer{color:#c0c0c0; line-height:150%;}

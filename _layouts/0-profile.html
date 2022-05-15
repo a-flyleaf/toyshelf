@@ -2,5 +2,9 @@
 layout: "0"
 class: ic
 ---
-{{content}}
+<header>{%if page.img%}
+	<figure><img src="{%include url.html%}/assets/img/{{page.img}}" alt=""/></figure>{%endif%}
+	<h1>{{page.title}}</h1>
+</header>
+<main>{{content}}</main>
 {%include 0-footer.html%}

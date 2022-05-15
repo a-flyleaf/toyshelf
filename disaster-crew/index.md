@@ -1,3 +1,7 @@
+---
+layout: "0"
+title: disaster crew
+---
 ## Who are these people?
 It started in 2012 with Nico and Ivy, originally my "headcanon" versions of *Pokémon Black 2 & White 2* protagonists Nate and Rosa. I screwed around with the plot and ended up with a vague idea of where they'd end up as adults, and then I got sucked into *XY* headcanon hell (which eventually turned into [<i>The Firebird Effect</i>].
 

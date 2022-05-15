@@ -6,10 +6,11 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		
 		<title>{%if page.title%}{{page.title}} | {%endif%}a-flyleaf’s toyshelf</title>
-		<link rel="stylesheet" type="text/css" href="{%include url.html%}/assets/0.css"/>
+		<link rel="stylesheet" type="text/css" href="{%include url.html%}/assets/0.css"/>{%if page.css%}
+		<style>{{page.css}}</style>{%endif%}
 	</head>
 	
-	<body{%if layout.class%} class="{{layout.class}}"{%endif%}>
+	<body{%if layout.class%} class="{{layout.class}}{%if page.class%} {{page.class}}{%endif%}"{%endif%}>
 		{{content}}
 	</body>
 </html>
