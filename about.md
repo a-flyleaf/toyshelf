@@ -1,3 +1,7 @@
+---
+layout: 0-ooc
+title: about
+---
 ## Why "Toyshelf"?
 A riff on the Toyhouse name, and more relevant to me personally. All these characters are effectively "shelved"; they're kinda just Sitting There, Existing, not taking part in any ongoing or previously-certain story.
 

@@ -1,5 +1,7 @@
-# Nico Sylvester
-
+---
+layout: 0-profile
+title: Nico Sylvester
+---
 ## stats
 - age 13 (2012), 19 (2017)
 - 5\'00\"/XXXcm (2012), 5\'05\"/XXXcm (2017)

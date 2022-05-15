@@ -9,7 +9,7 @@
 		<link rel="stylesheet" type="text/css" href="{%include url.html%}/assets/0.css"/>
 	</head>
 	
-	<body>
+	<body{%if layout.class%} class="{{layout.class}}"{%endif%}>
 		{{content}}
 	</body>
 </html>
