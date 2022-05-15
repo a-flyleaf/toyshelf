@@ -1,4 +1,4 @@
-/*https://google-webfonts-helper.herokuapp.com/fonts*/
+/*https://google-webfonts-helper.herokuapp.comfonts*/
 @font-face {
   font-family: 'Lato';
   font-style: normal;
@@ -11,6 +11,31 @@
        url('fonts/lato-v23-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
        url('fonts/lato-v23-latin-regular.svg#Lato') format('svg'); /* Legacy iOS */
 }
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 400;
+  src: url('fonts/lato-v23-latin-italic.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('fonts/lato-v23-latin-italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('fonts/lato-v23-latin-italic.woff2') format('woff2'), /* Super Modern Browsers */
+       url('fonts/lato-v23-latin-italic.woff') format('woff'), /* Modern Browsers */
+       url('fonts/lato-v23-latin-italic.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('fonts/lato-v23-latin-italic.svg#Lato') format('svg'); /* Legacy iOS */
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 900;
+  src: url('fonts/lato-v23-latin-900.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('fonts/lato-v23-latin-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('fonts/lato-v23-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+       url('fonts/lato-v23-latin-900.woff') format('woff'), /* Modern Browsers */
+       url('fonts/lato-v23-latin-900.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('fonts/lato-v23-latin-900.svg#Lato') format('svg'); /* Legacy iOS */
+}
+
 
 /*core*/
 *{margin:0; padding:0; box-sizing:border-box; font-size:100%;}
@@ -39,10 +64,15 @@ footer ul,footer li{display:inline;} footer li:before{content:"·"; margin:0 .5e
 
 /*IC*/
 .ic{font-family:lato,verdana,sans-serif; font-size:125%; line-height:135%;}
-.ic .ooc{font-size:1em;}
 
-.cmyk{background:#000; color:#fff; line-height:165%;} .cmyk .ooc{font-size:.85em; background:#404040;}
+.cmyk{background:#000; color:#fff; line-height:165%; padding:0 1em;}
 .cmyk ::selection{background:#404040; background:rgba(255,255,255,0.25);}
 .cmyk a{text-decoration:underline dotted;} .cmyk a:hover,.cmyk a:focus,.cmyk a:active{text-decoration:underline solid; text-decoration-thickness:.05em;}
-.cmyk .ooc{line-height:165%; max-width:35em; margin:0 auto;} .cmyk .ooc h2{margin:-1.85em 0 .5em .85em; font-size:1.25em;}
+.cmyk nav{font-size:.75em; padding:.5em 0; color:#c0c0c0;} .cmyk nav a{text-decoration:none;} .cmyk nav a:hover,.cmyk nav a:focus,.cmyk nav a:active{color:#fff;}
+.cmyk header{text-align:center;} .cmyk h1{font-size:2em; line-height:100%; padding:.5em; font-weight:normal;}
+.cmyk #stats{padding:0 1.5em; text-align:center; margin-top:1em; color:#c0c0c0;} .cmyk #stats h2{font-size:.85em;}
+.cmyk #main section{background:#202020; margin:2em 0; padding:.5em 1em .5em .5em; border:1px solid #808080;}
+.cmyk h2{text-transform:uppercase; font-weight:bold; letter-spacing:.05em; font-size:1.15em; color:#c0c0c0;} .cmyk #main h2{padding-left:.85em; margin-top:-1.55em;}
+.cmyk h3{margin:.5em 0 0 1em;}
+.cmyk #songs ul a{text-decoration-color:#a0a0a0;} .cmyk #songs ul{list-style-type:none;} .cmyk #songs li:before{content:"𝅘𝅥𝅮"; margin-left:-1em; padding-right:.5em;}
 .cmyk #line,.cmyk .list:first-of-type{display:none;} .cmyk footer{color:#c0c0c0; line-height:150%;}
