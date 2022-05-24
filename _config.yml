@@ -1,2 +1,5 @@
 name: a-flyleaf’s toyshelf
 markdown: kramdown
+collections:
+    art:
+        output: true
