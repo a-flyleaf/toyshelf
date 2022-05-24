@@ -76,3 +76,7 @@ footer ul,footer li{display:inline;} footer li:before{content:"·"; margin:0 .5e
 .cmyk h3{margin:.5em 0 0 1em;}
 .cmyk #songs ul a{text-decoration-color:#a0a0a0;} .cmyk #songs ul{list-style-type:none;} .cmyk #songs li:before{content:"𝅘𝅥𝅮"; margin-left:-1em; padding-right:.5em;}
 .cmyk #line,.cmyk .list:first-of-type{display:none;} .cmyk footer{color:#c0c0c0; line-height:150%;}
+
+@media only screen and (min-width:50em){
+	.cmyk header{background:red;}
+}
