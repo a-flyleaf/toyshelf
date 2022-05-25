@@ -22,8 +22,13 @@ h3{font-size:.9em; text-transform:uppercase; letter-spacing:0.05em; color:#60606
 p,ul{margin:.5em 0;} li>ul{margin:0 0 0 1em;}
 ul{margin-left:1em;}
 
-.profile #main{display:block; margin:0 auto;}
+.profile #main{display:block; margin:1em auto;}
 .profile h1{text-align:center; border:0;}
-#stats{font-size:.85em; background:#efefef; border:1px solid #dfdfdf; margin:1em auto; width:75%;}
+.box{background:#efefef; border:1px solid #dfdfdf; border-radius:2px;}
+#stats{font-size:.85em;}
 #stats th,#stats td{padding:.25em .5em; vertical-align:top;}
 th{text-align:right;}
+#stats,#summary{width:75%; margin:1em auto;}
+#summary{text-align:center;}
+#songs ul{list-style-type:none; margin-left:0;} #songs li:before{content:"𝅘𝅥𝅮"; margin-right:.5em;}
+#all{padding:.25em .5em; font-size:.85em; text-align:right; text-decoration:none; float:right;} #all:hover,#all:focus,#all:active{background:#dfdfdf;}

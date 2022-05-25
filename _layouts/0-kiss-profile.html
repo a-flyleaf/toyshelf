@@ -1,0 +1,29 @@
+---
+layout: 0-kiss
+class: profile
+---
+<img src="{%include url.html%}/assets/img/{{page.nm}}.png" alt="" id="main"/>
+{%if page.stats%}<table id="stats" class="box">
+	{%if page.age%}<tr><th>age</th><td>{{page.age}}</td></tr>{%endif%}
+	{%if page.height%}<tr><th>height</th><td>{{page.height}}</td></tr>{%endif%}
+</table>{%endif%}
+<p id="summary">{{page.summary}}</p>
+
+<h2>info</h2>
+{{page.info|markdownify}}
+
+<h3>design notes</h3>
+{{page.design|markdownify}}
+
+<h2>songs</h2>
+<div id="songs">{{page.songs|markdownify}}</div>
+
+<h2>voiceclaim(s)</h2>
+{{page.voice|markdownify}}
+
+<h2>trivia</h2>
+{{page.trivia|markdownify}}
+
+<h2>gallery</h2>
+{{content}}
+<a href="{%include url.html%}{{page.dir}}{{page.nm}}/gallery" class="box" id="all">see all →</a>
