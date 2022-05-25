@@ -7,7 +7,7 @@ class: profile
 	{%if page.age%}<tr><th>age</th><td>{{page.age}}</td></tr>{%endif%}
 	{%if page.height%}<tr><th>height</th><td>{{page.height}}</td></tr>{%endif%}
 </table>{%endif%}
-<p id="summary">{{page.summary}}</p>
+<div id="summary">{{page.summary|markdownify}}</div>
 
 <h2>info</h2>
 {{page.info|markdownify}}
