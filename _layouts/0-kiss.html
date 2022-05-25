@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		<title>{%if page.title%}{{page.title}} | {%endif%}a-flyleaf’s toyshelf</title>
+		<link rel="stylesheet" type="text/css" href="{%include url.html%}/assets/0-kiss.css"/>{%if page.css%}
+		<style>{{page.css}}</style>{%endif%}
+	</head>
+	
+	<body{%if page.class%} class="{{page.class}}"{%endif%}>
+		<header><div class="wrap bar"><a href="{%include url.html%}">a-flyleaf’s toyshelf</a></div></header>
+		<main><div class="wrap"><!--will probably need to "unwrap" art pages? or use fancybox-->
+			<h1>{{page.title}}</h1>
+			{{content}}
+		</div></main>
+		<footer><div class="wrap bar">all code and art by <a href="https://a-flyleaf.github.io/">a-flyleaf</a> unless otherwise noted</div></footer>
+	</body>
+</html>
