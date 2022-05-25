@@ -1,14 +1,13 @@
 ---
 layout: 0-kiss
 title: Nico Sylvester
+class: profile
+nm: nico
+
+summary: Half of the “disaster duo.” Former adventure kid, current depressed shut-in.
+age: 13 (2012), 19 (2017)
+height: 5'00"/152.4cm (2012), 5'05"/165.1cm (2017)
 ---
-## stats
-- age 13 (2012), 19 (2017)
-- 5'00"/152.4cm (2012), 5'05"/165.1cm (2017)
-
-## summary
-Half of the “disaster duo.” Former adventure kid, current depressed shut-in.
-
 ## info
 - 2012: gregarious, showy with a troublemaking streak, had anger issues.<br/>2017: pretty much #done with life, occasional jokester, still has anger issues.
 - It all started when his parents divorced...

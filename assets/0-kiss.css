@@ -21,3 +21,9 @@ h1,h2{border-bottom:1px solid #c0c0c0;}
 h3{font-size:.9em; text-transform:uppercase; letter-spacing:0.05em; color:#606060; margin:1em 0 -.5em;}
 p,ul{margin:.5em 0;} li>ul{margin:0 0 0 1em;}
 ul{margin-left:1em;}
+
+.profile #main{display:block; margin:0 auto;}
+.profile h1{text-align:center; border:0;}
+#stats{font-size:.85em; background:#efefef; border:1px solid #dfdfdf; margin:1em auto; width:75%;}
+#stats th,#stats td{padding:.25em .5em; vertical-align:top;}
+th{text-align:right;}

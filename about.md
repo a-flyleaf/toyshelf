@@ -8,7 +8,7 @@ A riff on the Toyhouse name, and more relevant to me personally. All these chara
 ## Why not use Toyhouse?
 The cool and friendly reason is that I like how GitHub keeps track of dates and changes automatically, and coding everything from scratch offers me maximum customization.
 
-The snooty reason is that I have an elitist ideological aversion to treating characters like "toys." Which, to be crystal clear, isn't a judgment of the site itself or its users; Toyhouse looks like a wonderfully convenient thing, and I would probably have used it myself if I'd discovered it a few years' sooner. This is just as important (read: not much at all) as avoiding writing "Mary Sues."
+The snooty reason is that I have an elitist ideological aversion to treating characters like "toys." Which, to be crystal clear, isn't a judgment of the site itself or its users; Toyhouse looks like a wonderfully convenient thing, and I would probably have used it myself if I'd discovered it a few years' sooner.
 
 That said, I often tell myself I don't see the ~point~ in having characters devoid of story. Which means that I don't (didn't) feel the need to have character profiles that spell out everything like a wiki, since I would prefer to convey characterization through, y'know, story.
 
