@@ -2,7 +2,7 @@
 layout: "1"
 class: profile
 ---
-<img src="{%include url.html%}/assets/img/{{page.nm}}.png" alt="" id="main"/>
+<div id="main"><a href="{%include url.html%}/art/{{page.imgsrc}}"><img src="{%include url.html%}/assets/img/{{page.nm}}.png" alt="{{page.nm}}"/></a></div>
 {%if page.stats%}<table id="stats" class="box">
 	{%if page.age%}<tr><th>age</th><td>{{page.age}}</td></tr>{%endif%}
 	{%if page.height%}<tr><th>height</th><td>{{page.height}}</td></tr>{%endif%}

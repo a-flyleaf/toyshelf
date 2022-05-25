@@ -19,7 +19,7 @@ The "story" timeline has two distinct phases, 5 years apart: 2012 and 2017. It's
 Anyway, all instances of years in profiles are 100% **in-universe** unless otherwise noted.
 
 ## relevant links
-- deviantArt tags: [disaster duo](https://www.deviantart.com/a-flyleaf/gallery?q=%23disasterduo) + [disaster duo and pals](https://www.deviantart.com/a-flyleaf/gallery?q=%23disasterduoandpals) (pardon the overlap)
+- deviantArt tag: [disaster crew](https://www.deviantart.com/a-flyleaf/gallery?q=%23disastercrew)
 - tumblr tag (archived\*): [#coniferous vines](https://aflyleaf3.wordpress.com/tag/coniferous-vines)
 	- \*The photo post formatting is weird and the tags are out of order. Apologies for the inconvenience!
 - other pages on my site:

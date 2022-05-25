@@ -22,7 +22,7 @@ h3{font-size:.9em; text-transform:uppercase; letter-spacing:0.05em; color:#60606
 p,ul{margin:.5em 0;} li>ul{margin:0 0 0 1em;}
 ul{margin-left:1em;}
 
-.profile #main{display:block; margin:1em auto;}
+#main{text-align:center; margin:1em 0;} #main a{display:inline-block; border:1px solid transparent;} #main a:hover,#main a:focus,#main a:active{border:1px solid #dfdfdf; border-radius:2px;} #main img{display:block;}
 .profile h1{text-align:center; border:0;}
 .box{background:#efefef; border:1px solid #dfdfdf; border-radius:2px;}
 #stats{font-size:.85em;}
@@ -34,3 +34,8 @@ th{text-align:right;}
 #all{padding:.25em .5em; font-size:.85em; text-align:right; text-decoration:none; float:right;} #all:hover,#all:focus,#all:active{background:#dfdfdf;}
 
 #date{color:#808080; margin:.75em 0 1em;}
+#art {margin:0 1em;} #art img{display:block; margin:1em auto .75em; border:1px solid #dfdfdf;}
+#art figcaption{color:#808080; font-size:.85em; line-height:135%; margin-bottom:2em;} #art figcaption.wrap{max-width:37.25em;}
+#info{font-size:.85em; padding:.5em 1em; color:#808080; margin-top:2em;} #info ul{list-style-type:none; margin:0;} .info-li{display:inline-block; width:49.5%;}
+#info a{font-weight:bold; text-decoration:none;} #info a:hover,#info a:active,#info a:focus{color:#000;}
+#tags,#tags li{display:inline-block;} #tags li{margin-right:.5em;} #tags a{font-weight:normal; font-style:italic;}
