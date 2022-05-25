@@ -3,6 +3,7 @@ layout: 1-profile
 title: Conor “Dodder” Haus
 nm: dodder
 
+imgsrc: stylenotes
 stats: y
 age: late 40s (2012), mid-50s (2017)
 height: 6'00"/182.88cm
@@ -10,9 +11,9 @@ height: 6'00"/182.88cm
 summary: Charming head of independent investigations, whether as an interrogator in a missing person case or (five years later) a self-help guru with a near-death testimony.
 
 info: |-
-  - Thinks he could sell ethics to the president. Romanticizes romanticism, and prides himself on his ability to make the most miserable people smile.
-  - High school football sweetheart, still riding that high. Has changed lives in the span of a night; his own was transformed after a memorable one in 2013, after which he fell into a multi-year coma.
-  - Once made a college documentary about a local gated community that he considered a cult. Long-term story relation to the other characters is shaky at best, but he definitely had a heavy influence on at least one of them.
+  - Thinks he could sell ethics to the president. Romanticizes romanticism, and prides himself on his determination to make the most miserable people smile.
+  - High school football sweetheart, still riding that high. Has changed lives in the span of a night; his own was transformed after a memorable evening in 2013, which directly preceded a multi-year coma.
+  - In college, made a documentary about a local gated community that he considered a cult. Long-term story relation to the other characters is shaky at best, but he definitely had a heavy influence on at least one of them.
   - Nickname "Dodder" was originally derogatory, given his "clingy" nature and stringy yellow hair. Has since embraced it.
 
 design: |-

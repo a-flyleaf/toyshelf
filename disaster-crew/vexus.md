@@ -3,6 +3,7 @@ layout: 1-profile
 title: “Vexus” Caine
 nm: vexus
 
+imgsrc: 2021-05-11-vexus
 stats: y
 age: 15 (2017)
 height: 4'04"/132.08cm
@@ -10,10 +11,11 @@ height: 4'04"/132.08cm
 summary: <abbr title="sad-mad">Smad</abbr> little dude. [Tara](tara)'s sibling, best friend of [Levi](levi)'s.
 
 info: |-
-  - Selectively mute (*not* deaf), which applies to 99%\* of situations; to avoid people making a fuss over it, avoids everyone wholesale. (\*The 1% used to be reserved for family. It's nearly 0% nowadays.) Doesn't go out of his way to be a jerk, usually.
-  - Sister's dead, shit sucks, moved house, outta luck; now what? Story status somewhat uncertain, but probably involves revisiting Tara's old friends ([Nico](nico) & [Ivy](ivy)) and dealing with his *new* friend Levi.
+  - Selectively mute (*not* deaf), which applies 99%\* of the time; to avoid people making a fuss over it, avoids everyone whenever possible. (\*The 1% used to be reserved for family. It's nearly 0% nowadays.) Doesn't go out of his way to be a jerk, usually.
+  - Sister's dead, shit sucks, moved house, outta luck; now what? Story status somewhat uncertain, but probably involves revisiting Tara's old friends ([Nico](nico) & [Ivy](ivy)), dealing with his *new* friend Levi, and meeting some version of [Ava](ava).
   - Possibly vaguely aware of [Dodder](dodder), if the latter is story-relevant, in a "stop using my dead sister for your stupid culty self-help bullshit" way.
-  - Used to have a long-wanted kitten, but let her out by accident and never saw her alive again. Keeps at least one venus flytrap in his room, along with the only displayed evidence of Tara's existence in the whole new house.
+  - Used to have a long-wanted kitten, but let her out by accident and never saw her alive again.
+  - Keeps a venus flytrap in his post-move bedroom, as well as photos and mementos of Tar---the only traces of her existence on display in the whole house.
 
 design: |-
   - <b>main shape</b>: Rounded octagon.
@@ -22,13 +24,13 @@ design: |-
   - Wears Tara's hourglass necklace (which is now cracked), usually tucked safely between his clothing layers.
 
 songs: |-
-  - ["Good Grief" – Bastille](https://www.youtube.com/watch?v=Gye6eWUMmeA)
+  - ["Good Grief" – Bastille](https://www.youtube.com/watch?v=LDY4Bf8Zwn8)
 
 voice: |-
-  - Cavetown, in this one song that I don't remember and will have to dig for again
+  - Cavetown, in this one song that I don't remember. Don't thiiink it applied as much in general?
   - "Joshua Talbott" in [a fake commercial](https://www.youtube.com/watch?v=BHPOZJe0Inc) (<i>The Onion</i>)
 
 trivia: |-
-  - I have no idea where I got his name from. It... sounded cool...? especially for an edgy teen??
+  - I have no idea where I got his moniker from. It... sounded cool...? especially for an edgy tween??
 ---
 choice thumbnails go here
