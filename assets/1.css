@@ -34,6 +34,10 @@ th{text-align:right;}
 #songs ul{list-style-type:none; margin-left:0;} #songs li:before{content:"𝅘𝅥𝅮"; margin-right:.5em;}
 #all{padding:.25em .5em; font-size:.85em; text-align:right; text-decoration:none; float:right;} #all:hover,#all:focus,#all:active{background:#dfdfdf;}
 
+#gallery a{border:1px solid #dfdfdf; display:inline-block; padding:5px; border-radius:2px; width:30%; margin:1em 1.5%;}
+#gallery a:hover,#gallery a:focus,#gallery a:active{border: 1px solid #c0c0c0; background:#efefef;}
+#gallery img{display:block; width:100%;}
+
 #date{color:#808080; margin:.75em 0 1em;}
 #art {margin:0 1em;} #art img{display:block; margin:1em auto .75em; border:1px solid #dfdfdf;}
 #art figcaption{color:#808080; font-size:.85em; line-height:135%; margin-bottom:2em;} #art figcaption.wrap{max-width:37.25em;} #art figcaption p,#art figcaption ul{margin:.25em 0;} #art figcaption ul{margin-left:1em;} #art figcaption li>ul{margin-top:0;}

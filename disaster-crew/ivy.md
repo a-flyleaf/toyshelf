@@ -34,4 +34,4 @@ voice: |-
 trivia: |-
   - "Ivy" is based on "Ivory," one of the pre-English-release names people gave the <i>Pokémon Black2/White2</i> [girl protag](https://bulbapedia.bulbagarden.net/wiki/Rosa). The plant correlation ended up, ahem, *clinging*.
 ---
-choice thumbnails go here
+<div id="gallery">{%for art in site.art%}{%if art.tags contains "ivy"%}<a href="{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn-{{page.nm}}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>

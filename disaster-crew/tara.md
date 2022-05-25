@@ -37,4 +37,4 @@ trivia: |-
   - Name is derived from <i>Taraxacum officinal</i>\* and... I forgot the surname origin tbh.
     - \*If she has a plant association, it's a pitcher plant, not a dandelion.
 ---	
-choice thumbnails go here
+<div id="gallery">{%for art in site.art%}{%if art.tags contains "tara"%}<a href="{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn-{{page.nm}}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>

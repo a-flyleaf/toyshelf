@@ -35,4 +35,4 @@ trivia: |-
   - Name is derived from <i>Sarrcenia flava</i>\* (FL + ava) and a loose association with Fleischer Studios (see song above).
      - \*If she has a plant association, it's a dandelion, not a pitcher plant.
 ---
-choice thumbnails go here
+<div id="gallery">{%for art in site.art%}{%if art.tags contains "ava"%}<a href="{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn-{{page.nm}}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>

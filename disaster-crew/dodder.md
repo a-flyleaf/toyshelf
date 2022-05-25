@@ -28,4 +28,4 @@ voice: \[Or one of these :V]
 trivia: >-
   - Surname derived from [haustorium](https://en.wikipedia.org/wiki/Haustorium).
 ---
-choice thumbnails go here
+<div id="gallery">{%for art in site.art%}{%if art.tags contains "dodder"%}<a href="{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn-{{page.nm}}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
