@@ -34,7 +34,7 @@ th{text-align:right;}
 #songs ul{list-style-type:none; margin-left:0;} #songs li:before{content:"𝅘𝅥𝅮"; margin-right:.5em;}
 #all{padding:.25em .5em; font-size:.85em; text-align:right; text-decoration:none; float:right;} #all:hover,#all:focus,#all:active{background:#dfdfdf;}
 
-#gallery a{border:1px solid #dfdfdf; display:inline-block; padding:5px; border-radius:2px; width:30%; margin:1em 1.5%;}
+#gallery a{border:1px solid #dfdfdf; display:inline-block; padding:5px; border-radius:2px; width:31%; margin:.15em 1%;}
 #gallery a:hover,#gallery a:focus,#gallery a:active{border: 1px solid #c0c0c0; background:#efefef;}
 #gallery img{display:block; width:100%;}
 

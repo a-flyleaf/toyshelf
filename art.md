@@ -1,19 +1,9 @@
 ---
 layout: 1
 title: art feed
+css: "#art{display:none;}"
 ---
-## all/basic loop
-{%for art in site.art%}
-- title: <b>{{art.title}}</b>
-- content: {{art.content}}
-- category: {{art.categories}}
-- tags: {%for tag in art.tags%}#{{tag}} {%endfor%}
-{%endfor%}
+Everything, chronologically.
+<!--200x200 JPG90%-->
 
-## specific tags
-{%for art in site.art%}{%if art.tags contains "two"%}
-- title: <b>{{art.title}}</b>
-- content: {{art.content}}
-- category: {{art.categories}}
-- tags: {%for tag in art.tags%}#{{tag}} {%endfor%}
-{%endif%}{%endfor%}
+<div id="gallery">{%for art in site.art%}<a href="{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn.jpg" alt="{{art.title}}"/></a>{%endfor%}</div>
