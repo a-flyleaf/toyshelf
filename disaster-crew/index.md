@@ -1,5 +1,5 @@
 ---
-layout: 0-kiss
+layout: 1
 title: disaster crew
 ---
 ## the losers

@@ -1,5 +1,5 @@
 ---
-layout: 0-ooc
+layout: 1
 title: art feed
 ---
 ## all/basic loop

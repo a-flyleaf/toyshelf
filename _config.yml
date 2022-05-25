@@ -1,5 +1,4 @@
 name: a-flyleaf’s toyshelf
 markdown: kramdown
-collections:
-    art:
-        output: true
+permalink: /art/:slug
+excerpt_separator: <!--more-->

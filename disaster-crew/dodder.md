@@ -1,5 +1,5 @@
 ---
-layout: 0-kiss-profile
+layout: 1-profile
 title: Conor “Dodder” Haus
 nm: dodder
 
