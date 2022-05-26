@@ -5,7 +5,8 @@ title: "style notes"
 permalink: art/stylenotes
 
 categories: disaster-crew
-tags: dodder deviantart
+tags: dodder
+site: deviantart
 
 caption: |-
   "<b>character design + art style are my passions</b>", musings & character by NightAuctor/a-flyleaf

@@ -5,7 +5,8 @@ title: matching shirts
 permalink: art/matching-shirts
 
 categories: disaster-crew
-tags: nico ivy tumblr
+tags: nico ivy
+site: deviantart
 
 caption: Nico and Ivy stand with one arm around each other, glancing sideways at the other. Nico's making an unsure thumbs-up with his free hand; his shirt reads "If sad return to Ivy." Ivy's other hand is on her hip; her shirt reads "Matching shirts are overrated."
 ---

@@ -21,7 +21,7 @@ h1,h2{border-bottom:1px solid #c0c0c0;}
 h3{font-size:.9em; text-transform:uppercase; letter-spacing:0.05em; color:#606060; margin:1em 0 -.5em;}
 p,ul{margin:.5em 0;} li>ul{margin:0 0 0 1em;}
 ul{margin-left:1em;}
-blockquote{border-left:.25em solid #dfdfdf; padding-left:.75em; margin:1em 0;}
+blockquote{border-left:.25em solid #dfdfdf; padding-left:.75em; margin:.5em 0;}
 
 #main{text-align:center; margin:1em 0;} #main a{display:inline-block; border:1px solid transparent;} #main a:hover,#main a:focus,#main a:active{border:1px solid #dfdfdf; border-radius:2px;} #main img{display:block;}
 .profile h1{text-align:center; border:0;}
@@ -34,14 +34,15 @@ th{text-align:right;}
 #songs ul{list-style-type:none; margin-left:0;} #songs li:before{content:"𝅘𝅥𝅮"; margin-right:.5em;}
 #all{padding:.25em .5em; font-size:.85em; text-align:right; text-decoration:none; float:right;} #all:hover,#all:focus,#all:active{background:#dfdfdf;}
 
+#gallery{margin:1em 0;}
 #gallery a{border:1px solid #dfdfdf; display:inline-block; padding:5px; border-radius:2px; width:31%; margin:.15em 1%;}
 #gallery a:hover,#gallery a:focus,#gallery a:active{border: 1px solid #c0c0c0; background:#efefef;}
 #gallery img{display:block; width:100%;}
 
-#date{color:#808080; margin:.75em 0 1em;}
+#date{color:#808080; margin:.5em 0 1em;}
 #art {margin:0 1em;} #art img{display:block; margin:1em auto .75em; border:1px solid #dfdfdf;}
 #art figcaption{color:#808080; font-size:.85em; line-height:135%; margin-bottom:2em;} #art figcaption.wrap{max-width:37.25em;} #art figcaption p,#art figcaption ul{margin:.25em 0;} #art figcaption ul{margin-left:1em;} #art figcaption li>ul{margin-top:0;}
-#info{font-size:.85em; padding:.5em 1em; color:#808080; margin-top:2em;} #info ul{list-style-type:none; margin:0;} .info-li{display:inline-block; width:49.5%;}
+#info{font-size:.85em; padding:.5em 1em; color:#808080; margin-top:2em;} #info ul{list-style-type:none; margin:0;} .info-li{display:inline-block; width:37.5%;} .info-li:last-child{width:61.5%;}
 #info a{font-weight:bold; text-decoration:none;}
 #tags,#tags li{display:inline-block;} #tags li{margin-right:.5em;} #tags a{font-weight:normal; font-style:italic;}
 
