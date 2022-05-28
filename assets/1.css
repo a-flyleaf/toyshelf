@@ -4,14 +4,16 @@
 *{margin:0; padding:0; box-sizing:border-box; font-size:100%;}
 body{overflow-x:hidden; word-wrap:break-word; font-family:lato,verdana,sans-serif; font-size:1.15em; line-height:150%;}
 img{max-width:100%; height:auto;}
-header,main,footer{display:block;}
+header,nav,main,footer{display:block;}
 .wrap{max-width:32em; margin:0 auto; padding:0 1em;}
 ::selection{background:#dfdfdf; background:rgba(0,0,0,.15);}
 a{color:#808080;} /*hover at bottom to ensure override*/
 
-header,#footer{background:#dfdfdf; padding:.25em 0; color:#808080;}
+header,nav,#footer{padding:.25em 0; color:#808080;}
+header,#footer{background:#dfdfdf;} nav{background:#efefef;}
 .bar{font-size:.85em; max-width:37.25em;}
 .bar a{color:inherit; text-decoration:none; font-weight:bold;}
+nav{line-height:125%; padding:.5em 0;} #title{font-weight:normal;} nav ul{display:inline; margin:0;} nav li{display:inline-block; margin-left:.35em;} nav li:before{content:"·"; font-weight:bold; padding-right:.35em;}
 
 main{padding:1em 0 5em;}
 
