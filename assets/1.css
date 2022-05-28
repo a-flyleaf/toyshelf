@@ -40,10 +40,14 @@ th{text-align:right;}
 #gallery a{border:1px solid #dfdfdf; display:inline-block; padding:5px; border-radius:2px; width:31%; margin:.15em 1%;}
 #gallery a:hover,#gallery a:focus,#gallery a:active{border: 1px solid #c0c0c0; background:#efefef;}
 #gallery img{display:block; width:100%;}
+@media only screen and (min-width:1100px){
+	#gallery{width:1050px; margin-left:-225px;} /*there's a better way to do this and it involves re-applying the wrap everywhere. this works for now tho*/
+	#gallery a{width:200px; margin:2.5px 5px;}
+}
 
 #date{color:#808080; margin:.5em 0 1em;}
 #art {margin:0 1em;} #art img{display:block; margin:1em auto .75em; border:1px solid #dfdfdf;}
-#art figcaption{color:#808080; font-size:.85em; line-height:135%; margin-bottom:2em;} #art figcaption.wrap{max-width:37.25em;} #art figcaption p,#art figcaption ul{margin:.25em 0;} #art figcaption ul{margin-left:1em;} #art figcaption li>ul{margin-top:0;}
+#art figcaption{color:#808080; font-size:.85em; line-height:135%; margin-bottom:2em;} #art figcaption.wrap{max-width:37.25em;} #art figcaption p,#art figcaption ul{margin:.35em 0;} #art figcaption ul{margin-left:1em;} #art figcaption li>ul{margin-top:0;}
 #info{font-size:.85em; padding:.5em 1em; color:#808080; margin-top:2em;} #info ul{list-style-type:none; margin:0;} .info-li{display:inline-block; width:37.5%;} .info-li:last-child{width:61.5%;}
 #info a{font-weight:bold; text-decoration:none;}
 #tags,#tags li{display:inline-block;} #tags li{margin-right:.5em;} #tags a{font-weight:normal; font-style:italic;}
