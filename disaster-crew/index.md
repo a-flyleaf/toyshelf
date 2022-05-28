@@ -19,11 +19,16 @@ The "story" timeline has two distinct phases, 5 years apart: 2012 and 2017. It's
 Anyway, all instances of years in profiles are 100% **in-universe** unless otherwise noted.
 
 ## relevant links
+
+### all (publicly-shared) art
 - deviantArt tag: [disaster crew](https://www.deviantart.com/a-flyleaf/gallery?q=%23disastercrew)
 - tumblr tag (archived\*): [#coniferous vines](https://aflyleaf3.wordpress.com/tag/coniferous-vines)
 	- \*The photo post formatting is weird and the tags are out of order. Apologies for the inconvenience!
-- other pages on my site:
-	- [2018 height chart](https://a-flyleaf.github.io/shriblets/2018-08-heighthell/) + [2022 revisitening](https://a-flyleaf.github.io/shriblets/2022-04-1617-draggable/)
-	- [2018 headshots](https://a-flyleaf.github.io/shriblets/2018-12-14-headshots/)
-	- [2021 HTML experiment](https://a-flyleaf.github.io/shriblets/2021-04-29-split/)
-	- 2021 original version of these writeups [link TBA]
+
+Some of these are [copied over here]({%include url.html%}/art/disaster-crew); most isn't, either because I don't like it enough to back up or just haven't gotten around to it.
+
+### other pages on my site
+- [2018 height chart](https://a-flyleaf.github.io/shriblets/2018-08-heighthell/) + [2022 revisitening](https://a-flyleaf.github.io/shriblets/2022-04-1617-draggable/)
+- [2018 headshots](https://a-flyleaf.github.io/shriblets/2018-12-14-headshots/)
+- [2021 HTML experiment](https://a-flyleaf.github.io/shriblets/2021-04-29-split/)
+- 2021 original version of these writeups [link TBA]
