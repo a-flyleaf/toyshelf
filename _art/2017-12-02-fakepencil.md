@@ -6,6 +6,7 @@ permalink: art/fakepencil
 
 categories: disaster-crew
 tags: nico ivy
+multi: y
 site: tumblr
 
 caption: Grayscale headshots of Nico and Ivy, rendered fully in a pencil-mimicking brush.

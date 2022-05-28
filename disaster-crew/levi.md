@@ -37,4 +37,4 @@ voice: Doesn't have any, to memory?
 trivia: >-
   - No clue where this name came from! Just sounded neat.
 ---
-<div id="gallery">{%for art in site.art%}{%if art.tags contains "levi"%}<a href="{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn-{{page.nm}}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
+<div id="gallery">{%for art in site.art%}{%if art.tags contains "levi"%}<a href="{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-{{page.nm}}{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>

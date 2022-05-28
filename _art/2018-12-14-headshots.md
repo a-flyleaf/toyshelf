@@ -6,6 +6,7 @@ permalink: art/headshots
 
 categories: disaster-crew
 tags: nico ivy ava tara vexus levi dodder
+multi: y
 
 caption: Three-fourths headshots of the whole disaster crew.
 ---
