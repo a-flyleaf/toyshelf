@@ -2,7 +2,7 @@
 layout: 1
 date: 2017-08-11
 title: matching shirts
-permalink: art/matchingshirts
+permalink: art/matching-shirts
 
 categories: disaster-crew
 tags: nico ivy
