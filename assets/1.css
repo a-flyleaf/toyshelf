@@ -47,7 +47,7 @@ th{text-align:right;}
 
 #date{color:#808080; margin:.5em 0 1em;}
 #art {margin:0 1em;} #art img{display:block; margin:1em auto .75em; border:1px solid #dfdfdf;}
-#art figcaption{color:#808080; font-size:.85em; line-height:135%; margin-bottom:2em;} #art figcaption.wrap{max-width:37.25em;} #art figcaption p,#art figcaption ul{margin:.35em 0;} #art figcaption ul{margin-left:1em;} #art figcaption li>ul{margin-top:0;}
+#art figcaption{color:#808080; font-size:.85em; line-height:135%; margin-bottom:2em;} #art figcaption.wrap{max-width:37.25em;} #art figcaption p,#art figcaption ul{margin:.35em 0;} #art figcaption ul{margin-left:1em;} #art figcaption li>ul{margin-top:0;} #art figcaption a{text-decoration-color:#c0c0c0;}
 #info{font-size:.85em; padding:.5em 1em; color:#808080; margin-top:2em;} #info ul{list-style-type:none; margin:0;} .info-li{display:inline-block; width:37.5%;} .info-li:last-child{width:61.5%;}
 #info a{font-weight:bold; text-decoration:none;}
 #tags,#tags li{display:inline-block;} #tags li{margin-right:.5em;} #tags a{font-weight:normal; font-style:italic;}
