@@ -31,6 +31,7 @@ voice: |-
   - "Joshua Talbott" in [a fake commercial](https://www.youtube.com/watch?v=BHPOZJe0Inc) (<i>The Onion</i>)
 
 trivia: |-
-  - I have no idea where I got his moniker from. It... sounded cool...? especially for an edgy tween??
+  - I have no idea where I got his moniker from. It... sounded cool...? especially for an edgy tween?? Surname, meanwhile, is an anagram of "-cenia," from [<i>Sarracenia flava</i>](https://en.wikipedia.org/wiki/Sarracenia_flava).
+    - If he has a plant association, it's a venus flytrap, not a pitcher plant.
 ---
 <div id="gallery">{%for art in site.art%}{%if art.tags contains "vexus"%}<a href="{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-{{page.nm}}{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>

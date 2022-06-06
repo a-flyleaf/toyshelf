@@ -26,6 +26,6 @@ songs: \[Doesn't have any, to memory.}
 voice: \[Or one of these :V]
 
 trivia: >-
-  - Surname derived from [haustorium](https://en.wikipedia.org/wiki/Haustorium).
+  - Surname derived from [haustorium](https://en.wikipedia.org/wiki/Haustorium), part of [the dodder plant](https://en.wikipedia.org/wiki/Cuscuta). "Conor" just sounded nice and had [a relevant meaning](https://www.behindthename.com/name/conor): it's derived from names meaning "hound, dog, wolf" and "desiring."
 ---
 <div id="gallery">{%for art in site.art%}{%if art.tags contains "dodder"%}<a href="{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-{{page.nm}}{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
