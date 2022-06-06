@@ -14,9 +14,9 @@ summary: |-
   (Side note: Uses both he/him and she/her pronouns. It alternates in the notes below.)
 
 info: |-
-  - Horrifically underappreciated, in her own opinion; doesn't bother with most people. Often mistaken for a shy, quiet nerd; the masses misunderstand her motive.
+  - Horrifically underappreciated, in her own opinion; doesn't bother with most people. Often mistaken for a shy, quiet nerd; the masses, she's convinced, misunderstand her motive.
   - His kid-baby siblings drive him up a wall but he patiently takes care of them anyway, like a good obedient child who doesn't deserve to be yelled at. *Hates* sucking up to adults like this, but desperate times...
-  - May already know Vexus when "the story" starts, if their meeting isn't some type of catalyst. One day Vexus played hooky, which Levi assumed proved his rebel credentials; subsequently, Levi bestowed upon him an introduction in the name of friendship. Alas, some first impressions were not meant to be.
+  - May already know Vexus when "the story" starts, or they meet early on. One day Vexus played hooky, which Levi assumed proved his rebel credentials; subsequently, Levi bestowed upon him an introduction in the name of friendship. Alas, some first impressions were not meant to be.
   - Wants to be a dentist when he grows up, because the damn dummies who worked on *his* teeth didn't do it right and now he's *gotta* show them how it's done. Med school sounds like a pain in the ass, though; he just wants to skip to scum-scraping.
 
 design: |-
@@ -32,7 +32,7 @@ songs: |-
   - ["Good Time Girl" – Sofi Tukker](https://www.youtube.com/watch?v=B1vDFDAWlQg)
   - ["Everybody Likes You" – Lemon Demon](https://www.youtube.com/watch?v=4xElp-lYnyE)
 
-voice: Doesn't have any, to memory?
+voice: Doesn't have any, to memory? Should sound androgynous.
 
 trivia: >-
   - No clue where this name came from! Just sounded neat.

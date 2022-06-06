@@ -20,12 +20,12 @@ design: |-
   - <b>main shape</b>: Abrupt curves and zigzags.
   - <b>color association(s)</b>: Gold-yellow-orange-ish, saturated (2012) and/or faded (2017).
   - Lost significant weight between 2012 and 2017.
-  - 2017's haggard appearance is very intentional, and somewhat manufactured.
+  - 2017's haggard appearance is very intentional in-universe, and somewhat manufactured.
 
-songs: \[Doesn't have any, to memory.}
-voice: \[Or one of these :V]
+songs: Doesn't have any, to memory? Maybe ["For the Love of Life" (David Sylvan)](https://www.youtube.com/watch?v=qhPGbr51jfc), or something with similar vibes...
+voice: Also <abbr title="not available">n/a</abbr>.
 
 trivia: >-
-  - Surname derived from [haustorium](https://en.wikipedia.org/wiki/Haustorium), part of [the dodder plant](https://en.wikipedia.org/wiki/Cuscuta). "Conor" just sounded nice and had [a relevant meaning](https://www.behindthename.com/name/conor): it's derived from names meaning "hound, dog, wolf" and "desiring."
+  - Surname snipped from [haustorium](https://en.wikipedia.org/wiki/Haustorium), part of [the dodder plant](https://en.wikipedia.org/wiki/Cuscuta). "Conor" just sounded nice and had [a relevant meaning](https://www.behindthename.com/name/conor): it's derived from names meaning "hound, dog, wolf" and "desiring."
 ---
 <div id="gallery">{%for art in site.art%}{%if art.tags contains "dodder"%}<a href="{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-{{page.nm}}{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>

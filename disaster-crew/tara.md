@@ -13,10 +13,9 @@ summary: >-
 
 info: |-
   - Towers over most people, which is awkward, but tries to play nice with everyone. Evidently had some issues that weren't being addressed.
-  - Always let her sibling win at video games; against Nico, actually tried to win, but rarely succeeded. Often heard in the background of Nico's vines saying some variation of "dude, don't do it" (while filming and laughing).
+  - Always let her sibling win at video games; meanwhile, actually tried to beat Nico sometimes, but rarely succeeded. Often heard in the background of Nico's vines saying some variation of "dude, don't do it" (while filming and laughing).
   - Voted MVP of the local robotics club, subsequently dubbed by Nico "the nerdiest nerd of all the nerds" (playfully derogatory).
-  - Met [Ava](ava) in 2012.
-  - Went missing the same year; eventually presumed dead by suicide.
+  - Met [Ava](ava) in 2012. Went missing the same year; eventually presumed dead by suicide.
 
 design: |-
   - <b>main shape</b>: Vaguely crescent; generally *super* lanky.
