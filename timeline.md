@@ -17,7 +17,8 @@ Just for the heck of it, and also my own ease of reference.
 - 2016: earliest recorded appearances of "sawface"
 	- "named" on the spot for ArtFight 2021
 - 2017--8: revisited <b>disaster duo</b> (and Hugh/Tara and Sara/Vexus); Nico renamed, spawned Ava, Levi, Dodder
-- 2018: RP species, "sika" (order unsure)
+- 2018 January: RP species
+- mid-/late 2018: "sika" (sketches, have a google doc from April but cba to sketch-dig)
 - late 2018: <b><i>404</i></b> (then untitled; offshoot of <i>DDLC</i> obesssion that started earlier in the year)
 - 2018 December: permission granted to OC-ify Zero
 - 2020: ENA phase
