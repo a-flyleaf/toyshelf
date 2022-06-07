@@ -1,17 +1,17 @@
 ---
 layout: 1
 title: miscellaneous randos
+
+css: "#gallery{width:auto; margin-left:0;} #gallery a{width:31%; marin:.15em 1%;}"
 ---
 Assorted designs that I've remembered through the years. Most aren't Developed Characters with set personalities and backstories and all that jazz, they kinda just Exist and spark joy so here they are~
 
 Ordered [chronologically]({%include url.html%}/timeline) by creation, more or less.
 
-## doodle demon
-A funky lil figure that pops up throughout my school notebooks. [I drew it once for an art class]({%include url.html%}/art/3demons) and was told "This is your Garfield." I don't want to market it or myself in any substantial way, but if I *had* to, I guess this feller would make a nifty mascot? I'm thinking less Garfield and more [Dolossus]....
+<h2 id="demon">doodle demon</h2>
+A funky lil figure that pops up throughout my school notebooks. [I drew it once for an art class]({%include url.html%}/art/3demons) and was told "This is your Garfield." I don't want to market it or myself in any substantial way, but if I *had* to, I guess this feller would make a nifty mascot? I'm thinking less Garfield and more [Dolossus](https://www1.flightrising.com/forums/frd/3034277/4#post_48272006)....
 
-- doodle demon @ dA
-- ok maaaybe cropped versions of the art class triad
-- that one pixel art from the old blog?
+<div id="gallery">{%for art in site.art%}{%if art.tags contains "demon"%}<a href="{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-demon{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
 
 ## Nightpath
 - Back in my [<i>Warriors</i>](https://en.wikipedia.org/wiki/Warriors_(novel_series)) phase (c. 2009!!), the official warrior name generator dubbed me "Nightpath." I used this name around a few sites, including [Wolf-Haven](https://wolf-haven.com/).
@@ -25,7 +25,7 @@ A funky lil figure that pops up throughout my school notebooks. [I drew it once 
 - updated reference (in a roundup somewhere, 2021?)
 - Wolvden adopt
 
-## Slade Auctor
+<h2 id="slade">Slade Auctor</h2>
 A young ’yote made for ['Souls RPG](https://soulsrpg.com/forum/) in 2010 (first reference posted 2011), and essentially a self-insert. Like Nightpath, he got RP'd sometimes but I don't feel the need to do much else with him. He gets used a lot more often for random art, though.
 
 - anything I can find on archive.org or elsewhere in ancient files maybe
@@ -44,7 +44,8 @@ Scrapped characters from <i>The Firebird Effect</i> that got developed a whole l
 
 Flynn's whole-ass story, plus a mini gallery, is in [this shriblet](https://a-flyleaf.github.io/shriblets/2019-05-wiki/); Ren has no equivalent.
 
-- uhhh I don't feel like reposting all the wiki stuff unless they're gonna get their own pages.
+- uhhh I don't feel like reposting all the wiki stuff unless they're gonna get their own pages
+- although unless I wanna overhaul the tag system they *should* just have a disaster-crew page for ease of linking
 
 ## "sawface"
 I have no idea what the hell spawned this thing, or the human that sometimes appears with it for that matter, but they sure do exist all right (and have since 2016). Any semblance of a character bio is also beyond me, but they Look Cool and That's What Matters™.
@@ -62,7 +63,7 @@ Oh, and I guess it saves a kid?? Aforementioned semester topped off with a four-
 - has definitely been drawn sporadically on other dates (as have most of these really) but that's a LOT to sift through so. Nah Not Today
 - OH AND THE SCULPT can I even still open that file
 
-## scrapped species
+<h2 id="species">scrapped species</h2>
 Around early 2018 a couple friends invited me to build a RP with custom worlds and species. This is the thing I made up. I don't remember anything else about it, nor have I drawn it much since, but I figured I'd shelve it here anyway.
 
 - I think there are basically just like, Those Two Doodles, and maybe assorted headshots from around then
@@ -74,12 +75,12 @@ Anyway they're mostly here because the "typical straight-haired Asian + long fac
 
 - p much just sketchdump scribs, studies not included
 
-## cringetober duo
+<h2 id="cringetober">cringetober duo</h2>
 A couple designs that spawned in 2020 as part of [the cringetober challenge](https://www.deviantart.com/a-flyleaf/journal/hashtagCringetober2020-856778861). They got drawn a few times for ArtFight and I think that's pretty cool <span style="display:inline-block;">B)</span>
 
 - for lack of a complete dA archive i GUESS you can repost everything
 
-## <i>ENA</i>verse
+<h2 id="ena"><i>ENA</i>verse</h2>
 Fan characters based on [Joel Guerra's <i>ENA</i> webseries](https://www.youtube.com/playlist?list=PLhPaJURyApsoMQDaoft5t0l0iAwUOLtlM), which I was very intensely into for a few months in early 2021.
 
 - The duck-rabbit was going to be used for some animation tests, most of which weren't quite executed.
@@ -94,7 +95,7 @@ Awful, awful creature made as part of [<i>You're gonna be the death of me</i>](h
 
 Besides the above, all scoured from monthly roundups, there's a few finished pieces in [the project's gallery](https://a-flyleaf.github.io/ygbtdm/gallery).
 
-## "wolf-skull"
+<h2 id="wolf">“wolf-skull”</h2>
 Minor/side character in [<i>You're gonna be the death of me</i>](https://a-flyleaf.github.io/ygbtdm/) whose design I like too much because *of course I do, I gave them a wolf motif, I dug my own grave I'll lie in it.* Basically recycles Flynn's body type, yes---but besides both being showy ?brunettes, they're not terribly similar.
 
 - also scoured from roundups

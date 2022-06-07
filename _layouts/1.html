@@ -24,7 +24,7 @@
 				{%for tag in page.tumblr%}#{{tag}} {%endfor%}
 			{%endif%}<ul>
 				<li class="info-li">filed under: <a href="{%include url.html%}/{{category}}"><a href="{%include url.html%}/art/{{page.categories}}">{{page.categories}}</a></li>
-				<li class="info-li">tagged: <ul id="tags">{%for tag in page.tags%}<li><a href="{%include url.html%}/{{page.categories}}/{{tag}}">{{tag}}</a></li>{%endfor%}</ul></li>
+				<li class="info-li">tagged: <ul id="tags">{%for tag in page.tags%}<li><a href="{%include url.html%}/{{page.categories}}{%if page.categories contains 'disaster-crew'%}/{%else%}#{%endif%}{{tag}}">{{tag}}</a></li>{%endfor%}</ul></li>
 			</ul></footer>{%endif%}
 		</div></main>
 		<footer id="footer"><div class="wrap bar">all code and art by <a href="https://a-flyleaf.github.io/">a-flyleaf</a> unless otherwise noted</div></footer>
