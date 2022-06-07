@@ -8,4 +8,4 @@ title: changelog
 - 27--28: navigation, shitton of art
 
 ## June 2022
-- 6: start adding ~~random creachers~~ miscellaneous characters
+- 6--7: start adding ~~random creachers~~ miscellaneous characters

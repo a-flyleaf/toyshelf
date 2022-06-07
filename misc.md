@@ -8,6 +8,8 @@ Assorted designs that I've remembered through the years. Most aren't Developed C
 
 Ordered [chronologically]({%include url.html%}/timeline) by creation, more or less.
 
+\[menagerie goes here?]
+
 <nav>
 	<h3>skip to</h3><ul>
 	<li><a href="#demon">doodle demon</a></li>
@@ -36,11 +38,7 @@ A funky lil figure that pops up throughout my school notebooks. [I drew it once 
 - In 2020 I revisited the design, now with a little more hue contrast.
 - That's it! I don't really do much with her.
 
-&nbsp;
-
-- original design: [MSPaint](https://www.deviantart.com/a-flyleaf/art/Nightpath-Reference-245327636) & [GIMP](https://www.deviantart.com/a-flyleaf/art/Nightpath-Reference-v2-259953584)
-- updated reference (in a roundup somewhere, 2021?)
-- Wolvden adopt
+<div id="gallery">{%for art in site.art%}{%if art.tags contains "nightpath"%}<a href="{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-nightpath{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
 
 <h2 id="slade">Slade Auctor</h2>
 A young ’yote made for ['Souls RPG](https://soulsrpg.com/forum/) in 2010 (first reference posted 2011), and essentially a self-insert. Like Nightpath, he got RP'd sometimes but I don't feel the need to do much else with him. He gets used a lot more often for random art, though.
