@@ -2,11 +2,28 @@
 layout: 1
 title: miscellaneous randos
 
-css: "#gallery{width:auto; margin-left:0;} #gallery a{width:31%; marin:.15em 1%;}"
+css: "#gallery{width:auto; margin-left:0;} #gallery a{width:31%; marin:.15em 1%;} nav{padding:1em 1em 1.25em; font-size:.85em; margin-top:1.25em;} nav h3{margin-top:0; display:inline-block; font-size:.85em;} nav li a{text-decoration:none;}"
 ---
 Assorted designs that I've remembered through the years. Most aren't Developed Characters with set personalities and backstories and all that jazz, they kinda just Exist and spark joy so here they are~
 
 Ordered [chronologically]({%include url.html%}/timeline) by creation, more or less.
+
+<nav>
+	<h3>skip to</h3><ul>
+	<li><a href="#demon">doodle demon</a></li>
+	<li><a href="#nightpath">Nightpath</a></li>
+	<li><a href="#slade">Slade Auctor</a></li>
+	<li><a href="#zero">Zero</a></li>
+	<li><a href="#roommates">Flynn Smith & Ren Brandt</a></li>
+	<li><a href="#sawface">“sawface”</a></li>
+	<li><a href="#eel-horse-raptor">eel-horse-raptor</a></li>
+	<li><a href="#species">scrapped species</a></li>
+	<li><a href="#sika">“sika”</a></li>
+	<li><a href="#cringetober">cringetober duo</a></li>
+	<li><a href="#enaverse"><i>ENA</i> fan-characters</a></li>
+	<li><a href="#hellrabbit">hellrabbit</a></li>
+	<li><a href="#wolf">“wolf-skull”</a></li>
+</ul></nav>
 
 <h2 id="demon">doodle demon</h2>
 A funky lil figure that pops up throughout my school notebooks. [I drew it once for an art class]({%include url.html%}/art/3demons) and was told "This is your Garfield." I don't want to market it or myself in any substantial way, but if I *had* to, I guess this feller would make a nifty mascot? I'm thinking less Garfield and more [Dolossus](https://www1.flightrising.com/forums/frd/3034277/4#post_48272006)....
@@ -37,9 +54,11 @@ The first (and only) adoptable I got on deviantArt, 2012; originally an Isos by 
 He has a few crumbs of personality and history, and it has nothing to do with the bio I wrote on his original reference: he's some kind of chimera-experiment (escaped, maybe?), spawned in a test tube, and is essentially a big playful puppy. Also, his design is all over the place, but as long as it's somewhere in the realm of recognizable, s'all good.
 
 - has a dA tag
-- also check what I threw on ArtFight because some of that is definitely not on dA
+- also check what I threw on ArtFight because some of that might not be on dA
 
-## Flynn Smith & Ren Brandt
+Not shown: art by other people [courtesy ArtFight](https://a-flyleaf.github.io/artfight/for-me). Go check it out!
+
+<h2 id="roommates">Flynn Smith & Ren Brandt</h2>
 Scrapped characters from <i>The Firebird Effect</i> that got developed a whole lot more than their merged version. (They could probably have their own pages but, for lack of a better category, they're getting shoehorned here for now.) Both candidates for minor characters in the [disaster duo]({%include url.html%}/disaster-crew)'s storyline, Flynn primarily and Ren by extension.
 
 Flynn's whole-ass story, plus a mini gallery, is in [this shriblet](https://a-flyleaf.github.io/shriblets/2019-05-wiki/); Ren has no equivalent.
@@ -52,6 +71,8 @@ I have no idea what the hell spawned this thing, or the human that sometimes app
 
 - on dA and ArtFight (both onsite and folder, there were some extras)
 - also check tumblr? but ArtFight might cover that
+
+"sawface" is in quotes because it's a moniker I slapped on for [ArtFight](https://a-flyleaf.github.io/artfight/for-me) in 2021, not sure I'd call it a Proper Name. Speaking of ArtFight, check out that link for some art by other people!
 
 ## eel-horse-raptor
 Had a school assignment in 2017 that involved combining three random animals; I choose a moray eel, a horse, and a velociraptor. This thing happened, and got drawn throughout the semester (and sometimes elsewhere). Wouldn't be surprised if it broke out of the same amalgamation factory as Zero.
@@ -76,7 +97,7 @@ Anyway they're mostly here because the "typical straight-haired Asian + long fac
 - p much just sketchdump scribs, studies not included
 
 <h2 id="cringetober">cringetober duo</h2>
-A couple designs that spawned in 2020 as part of [the cringetober challenge](https://www.deviantart.com/a-flyleaf/journal/hashtagCringetober2020-856778861). They got drawn a few times for ArtFight and I think that's pretty cool <span style="display:inline-block;">B)</span>
+A couple designs that spawned in 2020 as part of [the cringetober challenge](https://www.deviantart.com/a-flyleaf/journal/hashtagCringetober2020-856778861). They got drawn a few times [for ArtFight](https://a-flyleaf.github.io/artfight/for-me) and I think that's pretty cool <span style="display:inline-block;">B)</span>
 
 - for lack of a complete dA archive i GUESS you can repost everything
 
@@ -93,9 +114,10 @@ Awful, awful creature made as part of [<i>You're gonna be the death of me</i>](h
 
 - scour sketches from the roundups
 
-Besides the above, all scoured from monthly roundups, there's a few finished pieces in [the project's gallery](https://a-flyleaf.github.io/ygbtdm/gallery).
+Besides the above, all scoured from [monthly roundups](https://a-flyleaf.github.io/ygbtdm/gallery/roundups), there's a few standalones in [the project's general gallery](https://a-flyleaf.github.io/ygbtdm/gallery).
 
 <h2 id="wolf">“wolf-skull”</h2>
 Minor/side character in [<i>You're gonna be the death of me</i>](https://a-flyleaf.github.io/ygbtdm/) whose design I like too much because *of course I do, I gave them a wolf motif, I dug my own grave I'll lie in it.* Basically recycles Flynn's body type, yes---but besides both being showy ?brunettes, they're not terribly similar.
 
 - also scoured from roundups
+- plus that one standalone comic-thign??
