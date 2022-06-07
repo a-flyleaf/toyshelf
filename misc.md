@@ -2,12 +2,12 @@
 layout: 1
 title: miscellaneous randos
 ---
-Assorted designs that have stuck through the years. Most aren't Developed Characters with set personalities and backstories and all that jazz, they kinda just Exist and spark joy so here they are~
+Assorted designs that I've remembered through the years. Most aren't Developed Characters with set personalities and backstories and all that jazz, they kinda just Exist and spark joy so here they are~
 
-Ordered chronologically by creation, more or less.
+Ordered [chronologically]({%include url.html%}/timeline) by creation, more or less.
 
 ## doodle demon
-A funky lil figure that pops up throughout my school notebooks. I drew it once for an art class (not shown here) and was told "This is your Garfield." I don't want to market it or myself in any substantial way, but if I *had* to, I guess this feller would make a nifty mascot?
+A funky lil figure that pops up throughout my school notebooks. [I drew it once for an art class]({%include url.html%}/art/3demons) and was told "This is your Garfield." I don't want to market it or myself in any substantial way, but if I *had* to, I guess this feller would make a nifty mascot? I'm thinking less Garfield and more [Dolossus]....
 
 - doodle demon @ dA
 - ok maaaybe cropped versions of the art class triad
