@@ -24,6 +24,7 @@ h3{font-size:.9em; text-transform:uppercase; letter-spacing:0.05em; color:#60606
 p,ul{margin:.5em 0;} li>ul{margin:0 0 0 1em;}
 ul{margin-left:1em;}
 blockquote{border-left:.25em solid #dfdfdf; padding-left:.75em; margin:.5em 0;}
+small{font-size:.85em;}
 
 #main{text-align:center; margin:1em 0;} #main a{display:inline-block; border:1px solid transparent;} #main a:hover,#main a:focus,#main a:active{border:1px solid #dfdfdf; border-radius:2px;} #main img{display:block;}
 .profile h1{text-align:center; border:0;}

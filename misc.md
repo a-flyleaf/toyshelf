@@ -43,8 +43,7 @@ A funky lil figure that pops up throughout my school notebooks. [I drew it once 
 <h2 id="slade">Slade Auctor</h2>
 A young ’yote made for ['Souls RPG](https://soulsrpg.com/forum/) in 2010 (first reference posted 2011), and essentially a self-insert. Like Nightpath, he got RP'd sometimes but I don't feel the need to do much else with him. He gets used a lot more often for random art, though.
 
-- anything I can find on archive.org or elsewhere in ancient files maybe
-- he has his own dA tag too
+<div id="gallery">{%for art in site.art%}{%if art.tags contains "slade"%}<a href="{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-slade{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
 
 ## Zero
 The first (and only) adoptable I got on deviantArt, 2012; originally an Isos by [Xeno-Ximen](https://www.deviantart.com/xeno-ximen). In 2018 I got permission to recycle him as an OC, which hasn't really changed much except that I don't credit his origins every time he shows up.
