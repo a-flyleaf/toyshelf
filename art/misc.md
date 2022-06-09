@@ -1,8 +1,8 @@
 ---
 layout: 1
 title: "art: miscellaneous characters"
-date: 2018-11-26
-css: "#date,#info{display:none;}"
+date: 2021-11-14
+css: "#date,#info{display:none;} #art img{border:0;}"
 ---
 All [art]({%include url.html%}/art) with one of [the miscellaneous characters]({%include url.html%}/misc).
 

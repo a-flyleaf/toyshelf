@@ -8,7 +8,7 @@ Assorted designs that I've remembered through the years. Most aren't Developed C
 
 Ordered [chronologically]({%include url.html%}/timeline) by creation, more or less.
 
-\[menagerie goes here?]
+<a href="{%include url.html%}/art/menagerie"><img src="{%include url.html%}/assets/img/art/2021-11-14.png" alt="a menagerie of some of the critters featured here"/></a>
 
 <nav>
 	<h3>skip to</h3><ul>
