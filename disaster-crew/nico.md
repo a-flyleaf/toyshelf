@@ -25,13 +25,19 @@ design: |-
   - By 2017, showers once every few weeks. Skin and bones.
 
 songs: |-
-  - ["Don't Mess With Me" - Temposhark](https://www.youtube.com/watch?v=uZOP_rP7aNg) (2012)  
+  ### 2012
+  - ["Whatever It Takes" -- Imagine Dragons](https://www.youtube.com/watch?v=rGlEZpOVjGo)
+  - ["Don't Mess With Me" - Temposhark](https://www.youtube.com/watch?v=uZOP_rP7aNg)
   - ["Pumped Up Kicks" -- Foster the People](https://www.youtube.com/watch?v=k_aQYP8rsgE)
+  
+  ### ~2013+/general
   - ["Monster" – Imagine Dragons](https://www.youtube.com/watch?v=hhSA9H9Iaqw)
   - ["Polarize" – Twenty One Pilots](https://www.youtube.com/watch?v=MiPBQJq49xk)
-  - ["Everybody Gets High" - Missio](https://www.youtube.com/watch?v=AHukwv_VX9A) (2013+)
-  - ["Snakes" – Bastille](https://www.youtube.com/watch?v=HfmQ7Be9D_k) (2017)
-  - ["Violence" – The Unlikely Candidates](https://www.youtube.com/watch?v=Ax3zbFs8qMU) (2017)
+  - ["Everybody Gets High" - Missio](https://www.youtube.com/watch?v=AHukwv_VX9A)
+
+  ### by 2017
+  - ["Snakes" – Bastille](https://www.youtube.com/watch?v=HfmQ7Be9D_k)
+  - ["Violence" – The Unlikely Candidates](https://www.youtube.com/watch?v=Ax3zbFs8qMU)
   
   ### with Ivy
   - ["Bitter and Sick" – One Two](https://www.youtube.com/watch?v=4NNjm_O_gJk)
