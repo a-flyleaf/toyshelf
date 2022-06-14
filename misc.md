@@ -18,7 +18,7 @@ Ordered [chronologically]({%include url.html%}/timeline) by creation, more or le
 	<li><a href="#zero">Zero</a></li>
 	<li><a href="#roommates">Flynn Smith & Ren Brandt</a></li>
 	<li><a href="#sawface">“sawface”</a></li>
-	<li><a href="#eel-horse-raptor">eel-horse-raptor</a></li>
+	<li><a href="#ehr">eel-horse-raptor</a></li>
 	<li><a href="#species">scrapped species</a></li>
 	<li><a href="#sika">“sika”</a></li>
 	<li><a href="#cringetober">cringetober duo</a></li>
@@ -50,8 +50,7 @@ The first (and only) adoptable I got on deviantArt, 2012; originally an Isos by 
 
 He has a few crumbs of personality and history, and it has nothing to do with the bio I wrote on his original reference: he's some kind of chimera-experiment (escaped, maybe?), spawned in a test tube, and is essentially a big playful puppy. Also, his design is all over the place, but as long as it's somewhere in the realm of recognizable, s'all good.
 
-- has a dA tag
-- also check what I threw on ArtFight because some of that might not be on dA
+<div id="gallery">{%for art in site.art%}{%if art.tags contains "zero"%}<a href="{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-zero{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
 
 Not shown: art by other people [courtesy ArtFight](https://a-flyleaf.github.io/artfight/for-me). Go check it out!
 
@@ -71,7 +70,7 @@ I have no idea what the hell spawned this thing, or the human that sometimes app
 
 "sawface" is in quotes because it's a moniker I slapped on for [ArtFight](https://a-flyleaf.github.io/artfight/for-me) in 2021, not sure I'd call it a Proper Name. Speaking of ArtFight, check out that link for some art by other people!
 
-## eel-horse-raptor
+<h2 id="ehr">eel-horse-raptor</h2>
 Had a school assignment in 2017 that involved combining three random animals; I choose a moray eel, a horse, and a velociraptor. This thing happened, and got drawn throughout the semester (and sometimes elsewhere). Wouldn't be surprised if it broke out of the same amalgamation factory as Zero.
 
 Oh, and I guess it saves a kid?? Aforementioned semester topped off with a four-page comic and that happened. I stuck a design-sketch for that here too, even though it's not actually the eel-horse-raptor itself.
