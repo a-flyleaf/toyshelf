@@ -107,10 +107,9 @@ Also, it has [a theme song](https://www.youtube.com/watch?v=WMOd6jz548Y).
 
 <div id="gallery">{%for art in site.art%}{%if art.tags contains "hellrabbit"%}<a href="{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-hellrabbit{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
 
-Besides the above, mostly snipped from [monthly roundups](https://a-flyleaf.github.io/ygbtdm/gallery/roundups), there's a few standalones (and other appearances) in [the project's general gallery](https://a-flyleaf.github.io/ygbtdm/gallery).
+Besides the above, mostly snipped from [monthly roundups](https://a-flyleaf.github.io/ygbtdm/gallery/roundups), there's a few standalones in [the project's general gallery](https://a-flyleaf.github.io/ygbtdm/gallery).
 
 <h2 id="wolf">“wolf-skull”</h2>
 Minor/side character in [<i>You're gonna be the death of me</i>](https://a-flyleaf.github.io/ygbtdm/) whose design I like too much because *of course I do, I gave them a wolf motif, I dug my own grave I'll lie in it.* Basically recycles Flynn's body type, yes---but besides both being showy ?brunettes, they're not terribly similar.
 
-- also scoured from roundups
-- plus that one standalone comic-thign??
+<div id="gallery">{%for art in site.art%}{%if art.tags contains "ws"%}<a href="{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-ws{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
