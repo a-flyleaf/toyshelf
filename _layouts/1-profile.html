@@ -2,27 +2,27 @@
 layout: "1"
 class: profile
 ---
-<div id="main"><a href="{%include url.html%}/art/{{page.imgsrc}}"><img src="{%include url.html%}/assets/img/{{page.nm}}.png" alt="{{page.nm}}"/></a></div>
-{%if page.stats%}<table id="stats" class="box">
-	{%if page.age%}<tr><th>age</th><td>{{page.age}}</td></tr>{%endif%}
-	{%if page.height%}<tr><th>height</th><td>{{page.height}}</td></tr>{%endif%}
-</table>{%endif%}
-<div id="summary">{{page.summary|markdownify}}</div>
+<div id="main"><a href="{%include url.html%}/art/{{page.imgsrc}}"><img src="{%include url.html%}/assets/img/{{page.nm}}.png" alt="{{page.nm}}"/></a></div>{%if page.stats%}
+<table id="stats" class="box{%if page.url contains 'misc'%} misc{%endif%}">{%if page.age%}
+	<tr><th>age</th><td>{{page.age}}</td></tr>{%endif%}{%if page.height%}
+	<tr><th>height</th><td>{{page.height}}</td></tr>{%endif%}
+</table>{%endif%}{%if page.summary%}
+<div id="summary">{{page.summary|markdownify}}</div>{%endif%}
 
 <h2>info</h2>
-{{page.info|markdownify}}
+{{page.info|markdownify}}{%if page.design%}
 
 <h3>design notes</h3>
-{{page.design|markdownify}}
+{{page.design|markdownify}}{%endif%}{%if page.songs%}
 
 <h2>songs</h2>
-<div id="songs">{{page.songs|markdownify}}</div>
+<div id="songs">{{page.songs|markdownify}}</div>{%endif%}{%if page.voice%}
 
 <h2>voiceclaim(s)</h2>
-{{page.voice|markdownify}}
+{{page.voice|markdownify}}{%endif%}{%if page.trivia%}
 
 <h2>trivia</h2>
-{{page.trivia|markdownify}}
+{{page.trivia|markdownify}}{%endif%}
 
 <h2>gallery</h2>
 {{content}}
