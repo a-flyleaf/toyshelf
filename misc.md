@@ -62,6 +62,8 @@ Flynn's whole-ass story, plus a mini gallery, is in [this shriblet](https://a-fl
 - uhhh I don't feel like reposting all the wiki stuff unless they're gonna get their own pages
 - although unless I wanna overhaul the tag system they *should* just have a disaster-crew page for ease of linking
 
+Notes to self aside, [here's the Flynn art]({%include url.html%}/art/flynnard) that made it here.
+
 ## "sawface"
 I have no idea what the hell spawned this thing, or the human that sometimes appears with it for that matter, but they sure do exist all right (and have since 2016). Any semblance of a character bio is also beyond me, but they Look Cool and That's What Matters™.
 
@@ -84,7 +86,7 @@ Around early 2018 a couple friends invited me to build a RP with custom worlds a
 <h2 id="cringetober">cringetober duo</h2>
 A couple designs that spawned in 2020 as part of [the cringetober challenge](https://www.deviantart.com/a-flyleaf/journal/hashtagCringetober2020-856778861). They got drawn a few times [for ArtFight](https://a-flyleaf.github.io/artfight/for-me) and I think that's pretty cool <span style="display:inline-block;">B)</span>
 
-- for lack of a complete dA archive i GUESS you can repost everything
+- All their art by yours truly is [on dA](https://www.deviantart.com/a-flyleaf/gallery?q=%23cringetober) and I do not feel like reuploading it <span style="display:inline-block;">\o/</span>
 
 <h2 id="ena"><i>ENA</i>verse</h2>
 Fan characters based on [Joel Guerra's <i>ENA</i> webseries](https://www.youtube.com/playlist?list=PLhPaJURyApsoMQDaoft5t0l0iAwUOLtlM), which I was very intensely into for a few months in early 2021.
@@ -93,6 +95,11 @@ Fan characters based on [Joel Guerra's <i>ENA</i> webseries](https://www.youtube
 - Fans of the series have taken to making their own polygon people, "enasonas," and I wanted in. It is totally not a self-insert with the crux of a recurring issue in my life, you guys.
 
 Other than sharing a "canon" they're not related, but they're not individually-defined enough to warrant separate subheaders either.
+
+- March sketchdump snippet, animation link in desc
+- April concepts + sketchdump snip
+- May sketchdump snip (looks better with bg) + unposted scribs
+- March 2022 roundup (+ unposted sketches?) + final
 
 ## hellrabbit
 Awful, awful creature made as part of [<i>You're gonna be the death of me</i>](https://a-flyleaf.github.io/ygbtdm/), but I draw it on its own sometimes so *what the heck* here it is.
