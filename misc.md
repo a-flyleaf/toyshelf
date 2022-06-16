@@ -79,8 +79,7 @@ Oh, and I guess it saves a kid?? Aforementioned semester topped off with a four-
 <h2 id="species">scrapped species</h2>
 Around early 2018 a couple friends invited me to build a RP with custom worlds and species. This is the thing I made up. I don't remember anything else about it, nor have I drawn it much since, but I figured I'd shelve it here anyway.
 
-- I think there are basically just like, Those Two Doodles, and maybe assorted headshots from around then
-- OH AND THE SCULPT can I even still open that file
+<div id="gallery">{%for art in site.art%}{%if art.tags contains "species"%}<a href="{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-species{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
 
 ## "sika"
 At one point in 2018 I read [Junji Ito's <i>Fragments of Horror</i>](https://en.wikipedia.org/wiki/Fragments_of_Horror) and got the idea of a story set in Japan with that kind of ~vibe. Something like that?? Shit, dude, it's been years, I don't remember much. I think it centered on this person who died and then reappeared as a deer-cryptid, slowly transforming over the course of the story until running off for good at the end. Something something grief metaphor. It was almost definitely based directly off the plotline in one of the <i>Fragments</i> stories.
