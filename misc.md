@@ -92,14 +92,13 @@ A couple designs that spawned in 2020 as part of [the cringetober challenge](htt
 Fan characters based on [Joel Guerra's <i>ENA</i> webseries](https://www.youtube.com/playlist?list=PLhPaJURyApsoMQDaoft5t0l0iAwUOLtlM), which I was very intensely into for a few months in early 2021.
 
 - The duck-rabbit was going to be used for some animation tests, most of which weren't quite executed.
-- Fans of the series have taken to making their own polygon people, "enasonas," and I wanted in. It is totally not a self-insert with the crux of a recurring issue in my life, you guys.
+- Fans of the series have taken to making their own polygon people, "enasonas," and I wanted in. It is totally not a self-insert based on a recurring issue in my life, you guys.
 
 Other than sharing a "canon" they're not related, but they're not individually-defined enough to warrant separate subheaders either.
 
-- March sketchdump snippet, animation link in desc
-- April concepts + sketchdump snip
-- May sketchdump snip (looks better with bg) + unposted scribs
-- March 2022 roundup (+ unposted sketches?) + final
+<div id="gallery">{%for art in site.art%}{%if art.tags contains "ena"%}<a href="{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-ena{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
+
+<p style="line-height:125%; color:#808080; margin-top:-1em;"><small>These thumbnails kind of look like ass because technicolor pixel art doesn't like JPEG compression. Fullsize images are high quality.</small></p>
 
 ## hellrabbit
 Awful, awful creature made as part of [<i>You're gonna be the death of me</i>](https://a-flyleaf.github.io/ygbtdm/), but I draw it on its own sometimes so *what the heck* here it is.
