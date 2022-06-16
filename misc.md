@@ -6,7 +6,7 @@ css: "#gallery{width:auto; margin-left:0;} #gallery a{width:31%; marin:.15em 1%;
 ---
 Assorted designs that I've remembered through the years. Most aren't Developed Characters with set personalities and backstories and all that jazz, they kinda just Exist and spark joy so here they are~
 
-Ordered [chronologically]({%include url.html%}/timeline) by creation, more or less.
+Ordered chronologically by creation, more or less.
 
 <a href="{%include url.html%}/art/menagerie"><img src="{%include url.html%}/assets/img/art/2021-11-14.png" alt="a menagerie of some of the critters featured here"/></a>
 
@@ -80,13 +80,6 @@ Oh, and I guess it saves a kid?? Aforementioned semester topped off with a four-
 Around early 2018 a couple friends invited me to build a RP with custom worlds and species. This is the thing I made up. I don't remember anything else about it, nor have I drawn it much since, but I figured I'd shelve it here anyway.
 
 <div id="gallery">{%for art in site.art%}{%if art.tags contains "species"%}<a href="{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-species{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
-
-## "sika"
-At one point in 2018 I read [Junji Ito's <i>Fragments of Horror</i>](https://en.wikipedia.org/wiki/Fragments_of_Horror) and got the idea of a story set in Japan with that kind of ~vibe. Something like that?? Shit, dude, it's been years, I don't remember much. I think it centered on this person who died and then reappeared as a deer-cryptid, slowly transforming over the course of the story until running off for good at the end. Something something grief metaphor. It was almost definitely based directly off the plotline in one of the <i>Fragments</i> stories.
-
-Anyway they're mostly here because the "typical straight-haired Asian + long face" vibe kinda reminded me of [a much more developed character from an actual Project™](https://a-flyleaf.github.io/ygbtdm/cast/kay-lin), which is a total coincidence but I thought that was funny. Also, I keep forgetting where the sketches are <span style="display:inline-block;">>:V</span>
-
-- p much just sketchdump scribs, studies not included
 
 <h2 id="cringetober">cringetober duo</h2>
 A couple designs that spawned in 2020 as part of [the cringetober challenge](https://www.deviantart.com/a-flyleaf/journal/hashtagCringetober2020-856778861). They got drawn a few times [for ArtFight](https://a-flyleaf.github.io/artfight/for-me) and I think that's pretty cool <span style="display:inline-block;">B)</span>

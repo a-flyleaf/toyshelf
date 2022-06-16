@@ -9,22 +9,21 @@ Just for the heck of it, and also my own ease of reference.
 - pre-2011: Nightpath; first reference posted January this year
 	- I *know* she preceded Slade but don't have a date on it :T
 - 2010 December: Slade Auctor
-	- <abbr title="if I remember correctly">iirc</abbr> I joined ’Souls and immediately went on vacation lmao, I associate him more with 2011. might not have had a Design™ until later anyway? that was posted in October 2011
+	- <abbr title="if I remember correctly">iirc</abbr> I joined ’Souls and immediately went on vacation lmao, I associate him more with 2011. might not have had a Design™ until later anyway? ref was posted in October 2011
 - 2012: <b>disaster duo</b> via poké-protags Alex/Nate/Nathan and Ivy (name never changed)
-	- Hugh and his sister later became Tara and Vexus
+	- Hugh and his sister also got some crumbs of development
 - 2012 August: Zero
 - 2013: earliest sparks of what would eventually become <b><i>The Firebird Effect</i></b>, incl. earliest incarnations of Flynn & Ren (then nameless Flare grunts A and B; there was probably a C but they didn't stick around story-development-wise)
 
-There was a big "creative hiatus" of sorts around here, where I drew mostly fanart and didn't write much (to memory, anyway). It's probably no coincidence that this is around when I was really into tumblr (social media! always a timesuck), was slogging through highschool (A Struggle), and other irl shit was going down too (the internet doesn't need to know).
+There was a big "creative hiatus" of sorts around here, where I drew mostly fanart and didn't write much (to memory, anyway). It's probably no coincidence that this is around when I was really into tumblr (social media! always a timesuck), was slogging through highschool (A Struggle), and other irl shit was going down too.
 
-Fortunately, at some point I picked up <i>TFE</i> again; possibly 2015-ish? It got redeveloped quite a bit before I started publishing the comic in mid-2016.
+At some point I picked up <i>TFE</i> again, possibly around 2015-ish? It got redeveloped quite a bit before I started publishing the comic in mid-2016.
 
 - 2016: earliest recorded appearances of "sawface"
 	- "named" on the spot for ArtFight 2021
-- 2017--8: revisited <b>disaster duo</b> (and Hugh/Tara and sister/Vexus); Nico renamed, spawned Ava, Levi, Dodder
-- 2018 January: RP species
-- mid-/late 2018: "sika" (sketches, have a google doc from April but <abbr title="can’t be assed">cba</abbr> to sketch-dig)
-- late 2018: <b><i>404</i></b> (then untitled; offshoot of <i>DDLC</i> obesssion that started earlier in the year)
+- 2017--8: revisited <b>disaster duo</b> (and Hugh/Tara & sister/Vexus); Nico renamed, spawned Ava, Levi, Dodder
+- 2018 January: RP species<!--*-->
+- late 2018: <b><i>404</i></b> (then-untitled; offshoot of <i>DDLC</i> obesssion that started earlier in the year)
 - 2018 December: permission granted to OC-ify Zero
 - 2020: ENA phase
 - 2020 October: cringetober
@@ -35,3 +34,16 @@ Fortunately, at some point I picked up <i>TFE</i> again; possibly 2015-ish? It g
 - 2021 December: wolf-skull (first posted sketches, existed prior)
 
 over a DECADE what the shit man.
+
+<!--
+- mid-/late 2018: "sika" (sketches, have a google doc from April but <abbr title="can’t be assed">cba</abbr> to sketch-dig)
+	- found in 4/27, 8/15, and 9/9
+	- after revisiting the doc (and reading [an overview of the story it's based on](https://junjiitomanga.fandom.com/wiki/Lingering_Farewell)) I don't like this enough to put here in full, but keeping the note for my own reference anyway
+
+## "sika"
+At one point in 2018 I read [Junji Ito's <i>Fragments of Horror</i>](https://en.wikipedia.org/wiki/Fragments_of_Horror) and got the idea of a story set in Japan with that kind of ~vibe. Something like that?? Shit, dude, it's been years, I don't remember much. I think it centered on this person who died and then reappeared as a deer-cryptid, slowly transforming over the course of the story until running off for good at the end. Something something grief metaphor. It was almost definitely based directly off the plotline in one of the <i>Fragments</i> stories.
+
+Anyway they're mostly here because the "typical straight-haired Asian + long face" vibe kinda reminded me of [a much more developed character from an actual Project™](https://a-flyleaf.github.io/ygbtdm/cast/kay-lin), which is a total coincidence but I thought that was funny. Also, I keep forgetting where the sketches are <span style="display:inline-block;">>:V</span>
+
+- p much just sketchdump scribs, studies not included
+-->
