@@ -103,9 +103,11 @@ Other than sharing a "canon" they're not related, but they're not individually-d
 ## hellrabbit
 Awful, awful creature made as part of [<i>You're gonna be the death of me</i>](https://a-flyleaf.github.io/ygbtdm/), but I draw it on its own sometimes so *what the heck* here it is.
 
-- scour sketches from the roundups
+Also, it has [a theme song](https://www.youtube.com/watch?v=WMOd6jz548Y).
 
-Besides the above, all scoured from [monthly roundups](https://a-flyleaf.github.io/ygbtdm/gallery/roundups), there's a few standalones in [the project's general gallery](https://a-flyleaf.github.io/ygbtdm/gallery).
+<div id="gallery">{%for art in site.art%}{%if art.tags contains "hellrabbit"%}<a href="{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-hellrabbit{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
+
+Besides the above, mostly snipped from [monthly roundups](https://a-flyleaf.github.io/ygbtdm/gallery/roundups), there's a few standalones (and other appearances) in [the project's general gallery](https://a-flyleaf.github.io/ygbtdm/gallery).
 
 <h2 id="wolf">“wolf-skull”</h2>
 Minor/side character in [<i>You're gonna be the death of me</i>](https://a-flyleaf.github.io/ygbtdm/) whose design I like too much because *of course I do, I gave them a wolf motif, I dug my own grave I'll lie in it.* Basically recycles Flynn's body type, yes---but besides both being showy ?brunettes, they're not terribly similar.
