@@ -23,7 +23,7 @@
 			<footer class="box" id="info">{%if page.tumblr%}
 				{%for tag in page.tumblr%}#{{tag}} {%endfor%}
 			{%endif%}<ul>
-				<li class="info-li">filed under: <a href="{%include url.html%}/{{category}}"><a href="{%include url.html%}/art/{{page.categories}}">{{page.categories}}</a></li>
+				<li class="info-li">filed under: <a href="{%include url.html%}/{{category}}"><a href="{%include url.html%}/{{page.categories}}/art">{{page.categories}}</a></li>
 				<li class="info-li">tagged: <ul id="tags">{%for tag in page.tags%}<li><a href="{%include url.html%}/{{page.categories}}{%if page.categories contains 'disaster-crew'%}/{%else%}#{%endif%}{{tag}}">{{tag}}</a></li>{%endfor%}</ul></li>
 			</ul></footer>{%endif%}
 		</div></main>
