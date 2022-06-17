@@ -20,7 +20,7 @@ nav{line-height:125%; padding:.5em 0;} #title{font-weight:normal;} nav ul{displa
 main{padding:1em 0 5em;}
 
 h1{font-size:2em; margin-top:.5em; line-height:100%;}
-h2{font-size:1.25em; margin:1.25em 0 -.25em;}
+h2{font-size:1.25em; margin:.25em 0 -.25em; padding-top:1em;}
 h1,h2{border-bottom:1px solid #c0c0c0;}
 h3{font-size:.9em; text-transform:uppercase; letter-spacing:0.05em; color:#606060; margin:1em 0 -.5em;}
 h3 a{text-decoration-color:#c0c0c0;}

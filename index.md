@@ -2,24 +2,11 @@
 layout: 1
 title: a-flyleaf's toyshelf
 ---
-It's like a [Toyhou.se](https://toyhou.se/) page, but Mine™.
+It's like a [Toyhou.se](https://toyhou.se/) page, but Mine™
 
 - [super nifty About page]({%include url.html%}/about)
-- screw that, show me the characters!
-	- random critters
-		- doodle demon
-		- Nightpath
-		- Slade Auctor
-		- Zero
-		- "sawface" (and human)
-		- misc: eel-horse-raptor, scrapped species, ??hellrabbit
-	- disaster crew
-		- Nico
-		- Ivy
-		- Ava
-		- Tara
-		- Vexus
-		- Levi
-		- Dodder
+- [disaster crew]({%include url.html%}/disaster-crew)
+- [miscellaneous randos]({%include url.html%}/misc)
+- [all the art. <em style="text-transform:uppercase;font-style:normal;">all</em> of it.]({%include url.html%}/art) (image-heavy)
 
-Yes, the tones are very dissonant. The humans are interconnected, but don't have a better "base" right now so ~here they are~. The rest are just vibin.
+Maybe someday I will deck out the CSS and everything but for now stuff is here <span style="display:inline-block;">\o/</span>
