@@ -24,7 +24,6 @@ TL;DR am full of self
 ## \[something about characters being for "sale" or design "theft" or anything of that sort]
 Yeahhhhhh nah I don't approach characters this way. I believe that you can't truly "own" a design or concept, and thus have zero interest in chasing people down for "stealing" my ideas. Hell, if you're inspired by something I do, I'd probably love to see it!
 
-#### when did I use an h4
 Characters are not copyrighted commodities, to me. While it would bug me to see a blatant uncredited recolor, I'm not gonna lose sleep over it. I wholeheartedly encourage people to do whatever they want with any ideas, visual and/or in writing, that they want to play with.
 
 ## Can I \[do something with] *your* characters, specifically?
