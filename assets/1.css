@@ -96,7 +96,7 @@ a.box:hover,a.box:active,a.box:focus{color:#404040;}
 	h1,h2{border-color:#808080;}
 	h3,#stats{color:#dfdfdf;} h3 a{text-decoration-color:#808080;}
 	h4{color:#c0c0c0;}
-	blockquote,figure{border-color:#606060;}
+	blockquote,figure a{border-color:#606060;}
 	code,.code{background:#606060;}
 	
 	figure a:hover,figure a:focus,figure a:active{border-color:#000;}
