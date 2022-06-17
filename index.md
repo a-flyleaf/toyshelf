@@ -1,5 +1,8 @@
-# a-flyleaf's toyshelf
-It's like a <a href="https://toyhou.se/">Toyhou.se</a> page, but Mine™.
+---
+layout: 1
+title: a-flyleaf's toyshelf
+---
+It's like a [Toyhou.se](https://toyhou.se/) page, but Mine™.
 
 - [super nifty About page]({%include url.html%}/about)
 - screw that, show me the characters!
