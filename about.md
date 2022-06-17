@@ -1,25 +1,30 @@
 ---
 layout: 1
 title: about
+
+css: h3{text-transform:none; letter-spacing:0.015em; font-size:1em;} h3:nth-of-type(2){font-family:times,serif; font-size:1.15em; letter-spacing:0;}
 ---
 ## Why "Toyshelf"?
-A riff on the Toyhouse name, and more relevant to me personally. All these characters are effectively "shelved"; they're kinda just Sitting There, Existing, not taking part in any ongoing or previously-certain story.
+A riff on the [Toyhouse](https://toyhou.se/) name, and more relevant to me personally. All\* these characters are effectively "shelved"; they're kinda just Sitting There, Existing, not taking part in any ongoing or previously-certain story.
+<p style="font-size:.85em; line-height:150%;">*Well, okay, there's a couple designs that spawned from <a href="https://a-flyleaf.github.io/ygbtdm/">my current project</a> here too. They’ve been drawn <em>as</em> standalones at least once, though, so <em>what the heck</em> here they are.</p>
 
 ## Why not use Toyhouse?
-The cool and friendly reason is that I like how GitHub keeps track of dates and changes automatically, and coding everything from scratch offers me maximum customization.
+### The Cool and Friendly Reason
+- Coding everything from scratch offers me <em style="text-transform:uppercase;font-style:normal;">all</em> the customization. At the time of writing every page follows the same template, but hypothetically, I *could* deck every single one out individually with CSS if I wanted to; no premium membership necessary <span style="display:inline-block;">;V</span>
+- Relatedly, I am a strong proponent of [owning one's platform](https://a-flyleaf.github.io/blog/own-your-platform). Is Toyhouse a social media website? Not as far as I can tell. But would I rather go "my city now" on it? *Heck yeah.*
 
-The snooty reason is that I have an elitist ideological aversion to treating characters like "toys." Which, to be crystal clear, isn't a judgment of the site itself or its users; Toyhouse looks like a wonderfully convenient thing, and I would probably have used it myself if I'd discovered it a few years' sooner.
-
-That said, I often tell myself I don't see the ~point~ in having characters devoid of story. Which means that I don't (didn't) feel the need to have character profiles that spell out everything like a wiki, since I would prefer to convey characterization through, y'know, story.
-
-And yet! I am not immune to "characters" without established canons. [Some of them] are designs that have stuck around through the years, without any particular rhyme or reason; [others] are interconnected *somehow*, possibly, but since I haven't gotten around to coalescing any sort of Story Canon besides the context of those connections, they occupy a similar canonical limbo.
+### the snooty elitist reason
+- I have an irrational internalized-cringe-borne aversion to treating characters like "toys"; if they don't have a story, I'd hesitate to call them full-fledged Characters™.
+	- To be 500% clear: This is not a value judgment on Toyhouse or its users! If I'd discovered the site myself several years ago, I'd probably be an avid user.
+- When I *do* have Characters™, I want their traits to come across through, y'know, *the story,* and not by spelling everything out in wiki-esque character profiles.
+- *And yet!* I am not immune to "characters" without established canons. [Some of them]({%include url.html%}/misc) are designs that have stuck around for some significant degree of time (as in I didn't just draw them once and then forget); [others]({%include url.html%}/disaster-crew) are interconnected *somehow*, possibly, but since I haven't gotten around to coalescing any sort of Story Canon besides the context of those connections, they occupy a similar canonical limbo.
 
 TL;DR am full of self
 
 ## \[something about characters being for "sale" or design "theft" or anything of that sort]
 Yeahhhhhh nah I don't approach characters this way. I believe that you can't truly "own" a design or concept, and thus have zero interest in chasing people down for "stealing" my ideas. Hell, if you're inspired by something I do, I'd probably love to see it!
 
-Characters are not copyrighted commodities, to me. While it would probably bug me to see a blatant uncredited copy, I'm not gonna lose sleep over it, and wholeheartedly encourage people to do whatever they want with any ideas, visual and/or in writing, that they want to play with.
+Characters are not copyrighted commodities, to me. While it would bug me to see a blatant uncredited recolor, I'm not gonna lose sleep over it. I wholeheartedly encourage people to do whatever they want with any ideas, visual and/or in writing, that they want to play with.
 
 ## Can I \[do something with] *your* characters, specifically?
 *Go for it, man.* If you're making money off it that's going to make me sad, though. A royalty would be nice. <span style="inline-block;">:(</span>
@@ -33,7 +38,7 @@ Characters are not copyrighted commodities, to me. While it would probably bug m
 *Hell yeah, dude.*
 
 ## Who even are you?
-I don't know how you found <span style="font-family:monospace;">a hyphen flyleaf dot github dot io slash *a-flyleaf's toyshelf*</span> without knowing who a-flyleaf is (and if you did I am very curious, I don't use analytics, [consider saying hello](https://a-flyleaf.github.io/about#obligatory-contact-section)), but!:
+I don't know how you found <i>a-flyleaf's toyshelf</i> at <span style="font-family:consolas,monospace; padding:0 .25em; background:rgba(0,0,0,0.075); margin:0 .15em;">a hyphen flyleaf dot github dot io</span> without knowing who a-flyleaf is (and if you did I am very curious, I don't use analytics, [consider saying hello](https://a-flyleaf.github.io/about#obligatory-contact-section)), but!:
 
 Hi, I'm a-flyleaf, and I've been drawing and storytelling since I was a little kid. I used to write & illustrate stories about my family as anthropomorphic animals going on whimsical fantasy adventures, and now I bury myself in bullet points about regular-ass *Homo sapiens* and their dysfunctional relationships. Unrelated to that, the artstuff has also spawned some weird critters over the years, which I went ahead and made homes for here too. I end my sentences with periods a lot less frequently than this page may imply.
 
