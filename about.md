@@ -2,7 +2,7 @@
 layout: 1
 title: about
 
-css: h3{text-transform:none; letter-spacing:0.015em; font-size:1em;} h3:nth-of-type(2){font-family:times,serif; font-size:1.15em; letter-spacing:0;}
+css: h3{text-transform:none; letter-spacing:0.015em; font-size:1em;} h3:nth-of-type(2){font-family:times,serif; font-size:1.15em; letter-spacing:0;} .wrap>ul:last-of-type{margin-top:-.5em;}
 ---
 ## Why "Toyshelf"?
 A riff on the [Toyhouse](https://toyhou.se/) name, and more relevant to me personally. All\* these characters are effectively "shelved"; they're kinda just Sitting There, Existing, not taking part in any ongoing or previously-certain story.
@@ -43,3 +43,14 @@ I don't know how you found <i>a-flyleaf's toyshelf</i> at <span style="font-fami
 Hi, I'm a-flyleaf, and I've been drawing and storytelling since I was a little kid. I used to write & illustrate stories about my family as anthropomorphic animals going on whimsical fantasy adventures, and now I bury myself in bullet points about regular-ass *Homo sapiens* and their dysfunctional relationships. Unrelated to that, the artstuff has also spawned some weird critters over the years, which I went ahead and made homes for here too. I end my sentences with periods a lot less frequently than this page may imply.
 
 Thanks for stopping by <span style="display:inline-block;">\o/</span>
+
+
+## about site
+Made over the course of a month, [on and off]({%include url.html%}/changelog), with the same tools as everything else in the a-flyleaf.github ecosystem: [Jekyll](https://jekyllrb.com/) + good ol' HTML + CSS.
+
+Techy explanation for the "backend site generation" date-fudging that comes up with certain art:
+- Art pages and  their thumbnails are generated automatically.
+- To grab the image URL, the layout pulls from the page date in <abbr title="year-month-day">YYYY-MM-DD</abbr> format.
+- Because it *only* looks for date information, different art posts can't share a date.
+
+There is probably a workaround. I'll figure that out if I need to, but for now this doesn't come up often enough to warrant it.
