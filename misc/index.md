@@ -2,7 +2,7 @@
 layout: 1
 title: miscellaneous randos
 
-css: "#gallery{width:auto; margin-left:0;} #gallery a{width:31%; marin:.15em 1%;} nav{padding:1em 1em 1.25em; font-size:.85em; margin-top:1.25em;} nav h3{margin-top:0; display:inline-block; font-size:.85em;} nav li a{text-decoration:none;} .movin{text-align:center;} .moved{margin-top:-.5em; font-weight:bold;} .moved:after{content:' →';}"
+css: "#gallery{width:auto; margin-left:0;} #gallery a{width:31%; marin:.15em 1%;} nav{padding:1em 1em 1.25em; font-size:.85em; margin-top:1.25em;} nav h3{margin-top:0; display:inline-block; font-size:.85em;} nav li a{text-decoration:none;} figure{margin-bottom:.5em; text-align:center;} .movin{text-align:center;} .moved{font-weight:bold;} .moved:after{content:' →';}"
 ---
 Assorted designs that I've remembered through the years. Most aren't Developed Characters with set personalities and backstories and all that jazz, they kinda just Exist and spark joy so here they are~
 
@@ -50,6 +50,8 @@ A young ’yote made for ['Souls RPG](https://soulsrpg.com/forum/) in 2010 (firs
 <p class="movin"><a href="{%include url.html%}/misc/zero" class="box moved">Has his own page!</a></p>
 
 <h2 id="roommates">Flynn Smith & Ren Brandt</h2>
+<figure><a href="https://angelicguy.tumblr.com/post/174622796714/wakes-up-oh-fuck-i-need-to-protect-women-runs"><img src="{%include url.html%}/assets/img/roommates.png" alt=""/></a></figure>
+
 Scrapped characters from <i>The Firebird Effect</i> that got developed a whole lot more than their merged version. (They could probably have their own pages but, for lack of a better category, they're getting shoehorned here for now.) Both candidates for minor characters in the [disaster duo]({%include url.html%}/disaster-crew)'s storyline, Flynn primarily and Ren by extension.
 
 Flynn's whole-ass story, plus a mini gallery, is in [this shriblet](https://a-flyleaf.github.io/shriblets/2019-05-wiki/); Ren has no equivalent.
@@ -76,6 +78,8 @@ Around early 2018 a couple friends invited me to build a RP with custom worlds a
 <div id="gallery">{%for art in site.art%}{%if art.tags contains "species"%}<a href="{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-species{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
 
 <h2 id="cringetober">cringetober duo</h2>
+<figure><a href="https://www.deviantart.com/a-flyleaf/art/cringetober-except-it-s-november-860644053"><img src="{%include url.html%}/assets/img/cringetober.png" alt=""/></a></figure>
+
 A couple designs that spawned in 2020 as part of [the cringetober challenge](https://www.deviantart.com/a-flyleaf/journal/hashtagCringetober2020-856778861). They got drawn a few times [for ArtFight](https://a-flyleaf.github.io/artfight/for-me) and I think that's pretty cool <span style="display:inline-block;">B)</span>
 
 - All their art by yours truly is [on dA](https://www.deviantart.com/a-flyleaf/gallery?q=%23cringetober) and I do not feel like reuploading it <span style="display:inline-block;">\o/</span>
