@@ -31,7 +31,7 @@ code{font-family:consolas,courier,monospace; background:#efefef; padding:0 .25em
 
 .box{background:#efefef; border:1px solid #dfdfdf; border-radius:2px;}
 a.box{display:inline-block; padding:.5em 1em; text-align:center; text-decoration:none;}
-.box:hover,.box:focus,.box:active{background:#e7e7e7; border-color:#c0c0c0;} /*hover at the end*/
+a.box:hover,a.box:focus,a.box:active{background:#e7e7e7; border-color:#c0c0c0;} /*hover at the end*/
 
 iframe{border:0; display:block; margin:1em auto; max-width:100%;}
 summary{border-bottom:1px dashed #808080; cursor:pointer; color:#808080;} summary:active,summary:hover{color:inherit; font-weight:bold;}
