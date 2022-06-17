@@ -21,6 +21,7 @@ h1{font-size:2em; margin-top:.5em; line-height:100%;}
 h2{font-size:1.25em; margin:1.25em 0 -.25em;}
 h1,h2{border-bottom:1px solid #c0c0c0;}
 h3{font-size:.9em; text-transform:uppercase; letter-spacing:0.05em; color:#606060; margin:1em 0 -.5em;}
+h3 a{text-decoration-color:#c0c0c0;}
 h4{color:#949494; margin-top:1em; margin-bottom:-.25em;}
 p,ul,ol{margin:.5em 0;} li>ul{margin:0 0 0 1em;}
 ul,ol{margin-left:1em;}
@@ -28,12 +29,15 @@ blockquote{border-left:.25em solid #dfdfdf; padding-left:.75em; margin:.5em 0;}
 small{font-size:.85em;}
 code{font-family:consolas,courier,monospace; background:#efefef; padding:0 .25em; margin:0 .15em;}
 
+.box{background:#efefef; border:1px solid #dfdfdf; border-radius:2px;}
+a.box{display:inline-block; padding:.5em 1em; text-align:center; text-decoration:none;}
+.box:hover,.box:focus,.box:active{background:#e7e7e7; border-color:#c0c0c0;} /*hover at the end*/
+
 iframe{border:0; display:block; margin:1em auto; max-width:100%;}
 summary{border-bottom:1px dashed #808080; cursor:pointer; color:#808080;} summary:active,summary:hover{color:inherit; font-weight:bold;}
 
 #main{text-align:center; margin:1em 0;} #main a{display:inline-block; border:1px solid transparent;} #main a:hover,#main a:focus,#main a:active{border:1px solid #dfdfdf; border-radius:2px;} #main img{display:block;}
 .profile h1{text-align:center; border:0;}
-.box{background:#efefef; border:1px solid #dfdfdf; border-radius:2px;}
 #stats{font-size:.85em;}
 #stats th,#stats td{padding:.25em .5em; vertical-align:top;}
 #stats th{text-align:right;}
@@ -60,3 +64,4 @@ summary{border-bottom:1px dashed #808080; cursor:pointer; color:#808080;} summar
 #tags,#tags li{display:inline-block;} #tags li{margin-right:.5em;} #tags a{font-weight:normal; font-style:italic;}
 
 a:hover,a:focus,a:active{color:#000;}
+a.box:hover,a.box:active,a.box:focus{color:#404040;}

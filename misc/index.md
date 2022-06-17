@@ -2,11 +2,11 @@
 layout: 1
 title: miscellaneous randos
 
-css: "#gallery{width:auto; margin-left:0;} #gallery a{width:31%; marin:.15em 1%;} nav{padding:1em 1em 1.25em; font-size:.85em; margin-top:1.25em;} nav h3{margin-top:0; display:inline-block; font-size:.85em;} nav li a{text-decoration:none;}"
+css: "#gallery{width:auto; margin-left:0;} #gallery a{width:31%; marin:.15em 1%;} nav{padding:1em 1em 1.25em; font-size:.85em; margin-top:1.25em;} nav h3{margin-top:0; display:inline-block; font-size:.85em;} nav li a{text-decoration:none;} .moved{margin-top:.5em; font-weight:bold;} .moved:after{content:' →';}"
 ---
 Assorted designs that I've remembered through the years. Most aren't Developed Characters with set personalities and backstories and all that jazz, they kinda just Exist and spark joy so here they are~
 
-Ordered chronologically by creation, more or less.
+Ordered chronologically by creation, more or less. Those with lots of art (>9) have been punted to individual pages.
 
 <a href="{%include url.html%}/art/menagerie"><img src="{%include url.html%}/assets/img/art/2021-11-14.png" alt="a menagerie of some of the critters featured here"/></a>
 
@@ -46,13 +46,7 @@ A young ’yote made for ['Souls RPG](https://soulsrpg.com/forum/) in 2010 (firs
 <div id="gallery">{%for art in site.art%}{%if art.tags contains "slade"%}<a href="{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-slade{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
 
 ## Zero
-The first (and only) adoptable I got on deviantArt, 2012; originally an Isos by [Xeno-Ximen](https://www.deviantart.com/xeno-ximen). In 2018 I got permission to recycle him as an OC, which hasn't really changed much except that I don't credit his origins every time he shows up.
-
-He has a few crumbs of personality and history, and it has nothing to do with the bio I wrote on his original reference: he's some kind of chimera-experiment (escaped, maybe?), spawned in a test tube, and is essentially a big playful puppy. Also, his design is all over the place, but as long as it's somewhere in the realm of recognizable, s'all good.
-
-<div id="gallery">{%for art in site.art%}{%if art.tags contains "zero"%}<a href="{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-zero{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
-
-Not shown: art by other people [courtesy ArtFight](https://a-flyleaf.github.io/artfight/for-me). Go check it out!
+<a href="{%include url.html%}/misc/zero" class="box moved">Has his own page!</a>
 
 <h2 id="roommates">Flynn Smith & Ren Brandt</h2>
 Scrapped characters from <i>The Firebird Effect</i> that got developed a whole lot more than their merged version. (They could probably have their own pages but, for lack of a better category, they're getting shoehorned here for now.) Both candidates for minor characters in the [disaster duo]({%include url.html%}/disaster-crew)'s storyline, Flynn primarily and Ren by extension.
@@ -72,11 +66,7 @@ I have no idea what the hell spawned this thing, or the human that sometimes app
 "sawface" is in quotes because it's a moniker I slapped on for [ArtFight](https://a-flyleaf.github.io/artfight/for-me) in 2021, not sure I'd call it a Proper Name. Speaking of ArtFight, check out that link for some art by other people!
 
 <h2 id="ehr">eel-horse-raptor</h2>
-Had a school assignment in 2017 that involved combining three random animals; I choose a moray eel, a horse, and a velociraptor. This thing happened, and got drawn throughout the semester (and sometimes elsewhere). Wouldn't be surprised if it broke out of the same amalgamation factory as Zero.
-
-Oh, and I guess it saves a kid?? Aforementioned semester topped off with a four-page comic and that happened. I stuck a design-sketch for that here too, even though it's not actually the eel-horse-raptor itself.
-
-<div id="gallery">{%for art in site.art%}{%if art.tags contains "ehr"%}<a href="{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-ehr{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
+<a href="{%include url.html%}/misc/eel-horse-raptor" class="box moved">Has its own page!</a>
 
 <h2 id="species">scrapped species</h2>
 Around early 2018 a couple friends invited me to build a RP with custom worlds and species. This is the thing I made up. I don't remember anything else about it, nor have I drawn it much since, but I figured I'd shelve it here anyway.
