@@ -14,7 +14,6 @@ header,#footer{background:#dfdfdf;} nav{background:#efefef;}
 .bar{font-size:.85em; max-width:37.25em;}
 .bar a{color:inherit; text-decoration:none; font-weight:bold;}
 nav{line-height:125%; padding:.5em 0;} #title{font-weight:normal;} nav ul{display:inline; margin:0;} nav li{display:inline-block; margin-left:.35em;} nav li:before{content:"·"; font-weight:bold; padding-right:.35em;}
-
 main{padding:1em 0 5em;}
 
 h1{font-size:2em; margin-top:.5em; line-height:100%;}
@@ -25,13 +24,13 @@ h3 a{text-decoration-color:#c0c0c0;}
 h4{color:#949494; margin-top:1em; margin-bottom:-.25em;}
 p,ul,ol{margin:.5em 0;} li>ul{margin:0 0 0 1em;}
 ul,ol{margin-left:1em;}
+code,.code{font-family:consolas,courier,monospace; background:#efefef; padding:0 .25em; margin:0 .15em;}
+small{font-size:.85em;}
 
 blockquote{border-left:.25em solid #dfdfdf; padding-left:.75em; margin:.5em 0;}
-small{font-size:.85em;}
-code,.code{font-family:consolas,courier,monospace; background:#efefef; padding:0 .25em; margin:0 .15em;}
+figure{margin:1em auto;} figure a{display:inline-block; border:1px solid #c0c0c0; border-radius:2px;} figure a:hover,figure a:active,figure a:focus{border-color:#808080;} figure img{display:block;} .artlink a{border:0;}
 iframe{border:0; display:block; margin:1em auto; max-width:100%;}
 summary{border-bottom:1px dashed #808080; cursor:pointer; color:#808080;} summary:active,summary:hover{color:inherit; font-weight:bold;}
-
 table{border:1px solid #d0d0d0; border-collapse:collapse;}
 th,td{padding:.25em .5em; vertical-align:top;}
 
@@ -39,7 +38,7 @@ th,td{padding:.25em .5em; vertical-align:top;}
 a.box{display:inline-block; padding:.5em 1em; text-align:center; text-decoration:none;}
 a.box:hover,a.box:focus,a.box:active{background:#e7e7e7; border-color:#c0c0c0;} /*hover at the end*/
 
-#main{text-align:center; margin:1em 0;} #main a{display:inline-block; border:1px solid transparent;} #main a:hover,#main a:focus,#main a:active{border:1px solid #dfdfdf; border-radius:2px;} #main img{display:block;}
+#main{text-align:center; margin:1em 0;}
 .profile h1{text-align:center; border:0;}
 #stats{font-size:.85em;}
 #stats th{text-align:right;}
@@ -58,7 +57,7 @@ a.box:hover,a.box:focus,a.box:active{background:#e7e7e7; border-color:#c0c0c0;} 
 }
 
 #date{color:#808080; margin:.5em 0 1em;}
-#art {margin:0 1em;} #art img{display:block; margin:1em auto .75em; border:1px solid #dfdfdf;}
+#art img{margin:1em auto .75em; border:1px solid #dfdfdf;}
 #art figcaption{color:#808080; font-size:.85em; line-height:135%; margin-bottom:2em;} #art figcaption.wrap{max-width:37.25em;} #art figcaption a{text-decoration-color:#c0c0c0;}
 #art figcaption p,#art figcaption ul,#art figcaption ol{margin:.35em 0;} #art figcaption ul,#art figcaption ol{margin-left:1em;} #art figcaption li>ul,#art figcaption li>ol{margin-top:0;}
 #info{font-size:.85em; padding:.85em 1em; color:#808080; margin-top:2em; line-height:135%;} #info ul{list-style-type:none; margin:0;} .info-li{display:inline-block; width:37.5%;} .info-li:last-child{width:61.5%;}
@@ -74,8 +73,8 @@ a.box:hover,a.box:active,a.box:focus{color:#404040;}
 #60 < h3
 #80 < a, header/nav/footer+date/figcaption/info text, summary txt+border
 #94 < h4
-#c0 < h1/h2+box:hover+#gallery a:hover border, h3 a, #art figcaption a text-decoration
-#df < ::selection+header/footer+#main a bg, blockquote+box+gallery a+#art img border,
+#c0 < h1/h2+box:hover+#gallery a:hover,figure img border, h3 a, #art figcaption a text-decoration
+#df < ::selection+header/footer bg, blockquote+box+gallery a+#art img border
 #ef < nav+code+box+gallery a:hover bg
 #e7 < box:hover
 #ff < default bg
@@ -94,16 +93,16 @@ a.box:hover,a.box:active,a.box:focus{color:#404040;}
 	h1,h2{border-color:#808080;}
 	h3,#stats{color:#dfdfdf;} h3 a{text-decoration-color:#808080;}
 	h4{color:#c0c0c0;}
-	
-	blockquote{border-color:#606060;}
+	blockquote,figure{border-color:#606060;}
 	code,.code{background:#606060;}
+	
+	figure a:hover,figure a:focus,figure a:active{border-color:#000;}
 	summary{border-color:#c0c0c0; color:#c0c0c0;}
 	table{border-color:#808080;}
 	
 	.box{background:#505050; border-color:#808080;}
 	a.box:hover,a.box:active,a.box:focus{background:#606060; border-color:#949494;}
 	
-	#main a:hover,#main a:focus,#main a:active{border-color:#000;}
 	#stats th{letter-spacing:0.025em;}
 	#gallery a{border-color:#808080;} #gallery a:hover,#gallery a:focus,#gallery a:active{background:#202020; border-color:#606060;}
 	

@@ -2,7 +2,8 @@
 layout: "1"
 class: profile
 ---
-<div id="main"><a href="{%include url.html%}/art/{{page.imgsrc}}"><img src="{%include url.html%}/assets/img/{{page.nm}}.png" alt="{{page.nm}}"/></a></div>{%if page.stats%}
+<figure id="main"><a href="{%include url.html%}/art/{{page.imgsrc}}"><img src="{%include url.html%}/assets/img/{{page.nm}}.png" alt="{{page.nm}}"/></a></figure>
+{%if page.stats%}
 <table id="stats" class="box{%if page.url contains 'misc'%} misc{%endif%}">{%if page.age%}
 	<tr><th>age</th><td>{{page.age}}</td></tr>{%endif%}{%if page.height%}
 	<tr><th>height</th><td>{{page.height}}</td></tr>{%endif%}

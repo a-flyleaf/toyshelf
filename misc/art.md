@@ -2,6 +2,7 @@
 layout: 1
 title: "art: miscellaneous characters"
 date: 2021-11-14
+artsrc: menagerie
 css: "#date,#info{display:none;} #art img{border:0;}"
 ---
 All [art]({%include url.html%}/art) featuring one or more of [the miscellaneous characters]({%include url.html%}/misc).

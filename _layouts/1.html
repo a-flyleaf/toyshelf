@@ -13,8 +13,8 @@
 	<body{%if layout.class%} class="{{layout.class}}"{%endif%}>
 		<header><div class="wrap bar"><a href="{%include url.html%}">a-flyleaf’s toyshelf</a></div></header>{%if page.layout=="1-profile"%}
 		<nav><div class="wrap bar">{%if page.url contains "disaster-crew"%}<a href="{%include url.html%}/disaster-crew" id="title">disaster crew</a>: <ul><li><a href="{%include url.html%}/disaster-crew/nico">Nico</a></li><li><a href="{%include url.html%}/disaster-crew/ivy">Ivy</a></li><li><a href="{%include url.html%}/disaster-crew/ava">Ava</a></li><li><a href="{%include url.html%}/disaster-crew/tara">Tara</a></li><li><a href="{%include url.html%}/disaster-crew/vexus">Vexus</a></li><li><a href="{%include url.html%}/disaster-crew/levi">Levi</a></li><li><a href="{%include url.html%}/disaster-crew/dodder">Dodder</a></li></ul>{%endif%}</div></nav>{%endif%}
-		<main>{%if page.url contains "art"%}<figure id="art">
-				<img src="{%include url.html%}/assets/img/art/{{page.date|date:'%F'}}.{%if page.file%}{{page.file}}{%else%}png{%endif%}" alt="{{page.title}}"/>
+		<main>{%if page.url contains "art"%}<figure id="art"{%if page.artsrc%} class="artlink"{%endif%}>
+				{%if page.artsrc%}<a href="{%include url.html%}/art/{{page.artsrc}}">{%endif%}<img src="{%include url.html%}/assets/img/art/{{page.date|date:'%F'}}.{%if page.file%}{{page.file}}{%else%}png{%endif%}" alt="{{page.title}}"/>{%if page.artsrc%}</a>{%endif%}
 				<figcaption class="wrap">{{page.caption|markdownify}}</figcaption>
 			</figure>{%endif%}<div class="wrap">
 			<h1>{{page.title}}</h1>{%if page.date%}
