@@ -24,6 +24,7 @@ TL;DR am full of self
 ## \[something about characters being for "sale" or design "theft" or anything of that sort]
 Yeahhhhhh nah I don't approach characters this way. I believe that you can't truly "own" a design or concept, and thus have zero interest in chasing people down for "stealing" my ideas. Hell, if you're inspired by something I do, I'd probably love to see it!
 
+#### when did I use an h4
 Characters are not copyrighted commodities, to me. While it would bug me to see a blatant uncredited recolor, I'm not gonna lose sleep over it. I wholeheartedly encourage people to do whatever they want with any ideas, visual and/or in writing, that they want to play with.
 
 ## Can I \[do something with] *your* characters, specifically?
@@ -38,7 +39,7 @@ Characters are not copyrighted commodities, to me. While it would bug me to see 
 *Hell yeah, dude.*
 
 ## Who even are you?
-I don't know how you found <i>a-flyleaf's toyshelf</i> at <span style="font-family:consolas,monospace; padding:0 .25em; background:rgba(0,0,0,0.075); margin:0 .15em;">a hyphen flyleaf dot github dot io</span> without knowing who a-flyleaf is (and if you did I am very curious, I don't use analytics, [consider saying hello](https://a-flyleaf.github.io/about#obligatory-contact-section)), but!:
+I don't know how you found <i>a-flyleaf's toyshelf</i> at <span class="code">a hyphen flyleaf dot github dot io</span> without knowing who a-flyleaf is (and if you did I am very curious, I don't use analytics, [consider saying hello](https://a-flyleaf.github.io/about#obligatory-contact-section)), but!:
 
 Hi, I'm a-flyleaf, and I've been drawing and storytelling since I was a little kid. I used to write & illustrate stories about my family as anthropomorphic animals going on whimsical fantasy adventures, and now I bury myself in bullet points about regular-ass *Homo sapiens* and their dysfunctional relationships. Unrelated to that, the artstuff has also spawned some weird critters over the years, which I went ahead and made homes for here too. I end my sentences with periods a lot less frequently than this page may imply.
 

@@ -9,6 +9,7 @@ tags: slade
 site: deviantart
 
 caption: Lineless fullbody of Slade, stepping from one background square to the other.
+css: "#art img{background:rgba(255,255,255,.15);}"
 ---
 Originally posted [on deviantArt](https://www.deviantart.com/a-flyleaf/art/zero-days-since-last-slade-862969637).
 
