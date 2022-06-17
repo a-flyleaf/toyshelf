@@ -34,4 +34,4 @@ trivia: |-
   - I have no idea where I got his moniker from. It... sounded cool...? Which is all the reasoning an edgy tween needs. Surname, meanwhile, is an anagram of "-cenia," from [<i>Sarracenia flava</i>](https://en.wikipedia.org/wiki/Sarracenia_flava).
     - If he has a plant association, it's a venus flytrap, not a pitcher plant.
 ---
-<div id="gallery">{%for art in site.art%}{%if art.tags contains "vexus"%}<a href="{%include url.html%}/{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-{{page.nm}}{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
+<div id="gallery">{%for art in site.art%}{%if art.tags contains "vexus"%}<a href="{%include url.html%}{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-{{page.nm}}{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>

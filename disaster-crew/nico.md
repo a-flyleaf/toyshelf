@@ -51,4 +51,4 @@ voice: |-
 trivia: |-
   - Originally named "Nathaniel '[Nate](https://bulbapedia.bulbagarden.net/wiki/Nate)' Pine(s)"; don't think I ever figured out whether the surname had an <i>S</i> at the end or not. The name still sounds fitting enough, but it got changed when he stopped being a pokémon person. New name derived from [<i>Nicotiana sylvestris</i>](https://en.wikipedia.org/wiki/Nicotiana_sylvestris).
 ---
-<div id="gallery">{%for art in site.art%}{%if art.tags contains "nico"%}<a href="{%include url.html%}/{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-{{page.nm}}{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
+<div id="gallery">{%for art in site.art%}{%if art.tags contains "nico"%}<a href="{%include url.html%}{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-{{page.nm}}{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>

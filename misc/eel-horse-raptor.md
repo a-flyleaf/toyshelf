@@ -14,4 +14,4 @@ trivia: |-
   - No seriously why did I choose horses. Their anatomy is suffering; did I *want* to suffer(/challenge myself)?? I might have a reason in my class notebook but to memory it is a mystery.
   - I mean, the animals had to be very different; an eel-fish-snake wouldn't have been allowed. But *horses???*
 ---
-<div id="gallery">{%for art in site.art%}{%if art.tags contains "ehr"%}<a href="{%include url.html%}/{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-ehr{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
+<div id="gallery">{%for art in site.art%}{%if art.tags contains "ehr"%}<a href="{%include url.html%}{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-ehr{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>

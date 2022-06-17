@@ -23,6 +23,6 @@ trivia: |-
   > - would probably love to meet you(r character/s)!
   > - no seriously he’s like horse-sized or bigger he will give rides to the little ones
 ---
-<div id="gallery">{%for art in site.art%}{%if art.tags contains "zero"%}<a href="{%include url.html%}/{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-{{page.nm}}{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
+<div id="gallery">{%for art in site.art%}{%if art.tags contains "zero"%}<a href="{%include url.html%}{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-{{page.nm}}{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
 
 Not shown: art by other people [courtesy ArtFight](https://a-flyleaf.github.io/artfight/for-me). Go check it out!

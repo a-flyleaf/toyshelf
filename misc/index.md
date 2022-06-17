@@ -30,7 +30,7 @@ Ordered chronologically by creation, more or less. Those with lots of art (>9) h
 <h2 id="demon">doodle demon</h2>
 A funky lil figure that pops up throughout my school notebooks. [I drew it once for an art class]({%include url.html%}/art/3demons) and was told "This is your Garfield." I don't want to market it or myself in any substantial way, but if I *had* to, I guess this feller would make a nifty mascot? I'm thinking less Garfield and more [Dolossus](https://www1.flightrising.com/forums/frd/3034277/4#post_48272006)....
 
-<div id="gallery">{%for art in site.art%}{%if art.tags contains "demon"%}<a href="{%include url.html%}/{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-demon{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
+<div id="gallery">{%for art in site.art%}{%if art.tags contains "demon"%}<a href="{%include url.html%}{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-demon{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
 
 ## Nightpath
 - Back in my [<i>Warriors</i>](https://en.wikipedia.org/wiki/Warriors_(novel_series)) phase (c. 2009!!), the official warrior name generator dubbed me "Nightpath." I used this name around a few sites, including [Wolf-Haven](https://wolf-haven.com/).
@@ -38,12 +38,12 @@ A funky lil figure that pops up throughout my school notebooks. [I drew it once 
 - In 2020 I revisited the design, now with a little more hue contrast.
 - That's it! I don't really do much with her.
 
-<div id="gallery">{%for art in site.art%}{%if art.tags contains "nightpath"%}<a href="{%include url.html%}/{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-nightpath{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
+<div id="gallery">{%for art in site.art%}{%if art.tags contains "nightpath"%}<a href="{%include url.html%}{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-nightpath{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
 
 <h2 id="slade">Slade Auctor</h2>
 A young ’yote made for ['Souls RPG](https://soulsrpg.com/forum/) in 2010 (first reference posted 2011), and essentially a self-insert. Like Nightpath, he got RP'd sometimes but I don't feel the need to do much else with him. He gets used a lot more often for random art, though.
 
-<div id="gallery">{%for art in site.art%}{%if art.tags contains "slade"%}<a href="{%include url.html%}/{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-slade{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
+<div id="gallery">{%for art in site.art%}{%if art.tags contains "slade"%}<a href="{%include url.html%}{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-slade{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
 
 ## Zero
 <figure><a href="{%include url.html%}/misc/zero"><img src="{%include url.html%}/assets/img/zero-tmp.png" alt=""/></a></figure>
@@ -64,7 +64,7 @@ Notes to self aside, [here's the Flynn art]({%include url.html%}/art/flynnard) t
 ## "sawface"
 I have no idea what the hell spawned this thing, or the human that sometimes appears with it for that matter, but they sure do exist all right (and have since 2016). Any semblance of a character bio is also beyond me, but they Look Cool and That's What Matters™.
 
-<div id="gallery">{%for art in site.art%}{%if art.tags contains "sawface"%}<a href="{%include url.html%}/{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-sawface{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
+<div id="gallery">{%for art in site.art%}{%if art.tags contains "sawface"%}<a href="{%include url.html%}{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-sawface{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
 
 "sawface" is in quotes because it's a moniker I slapped on for [ArtFight](https://a-flyleaf.github.io/artfight/for-me) in 2021, not sure I'd call it a Proper Name. Speaking of ArtFight, check out that link for some art by other people!
 
@@ -75,7 +75,7 @@ I have no idea what the hell spawned this thing, or the human that sometimes app
 <h2 id="species">scrapped species</h2>
 Around early 2018 a couple friends invited me to build a RP with custom worlds and species. This is the thing I made up. I don't remember anything else about it, nor have I drawn it much since, but I figured I'd shelve it here anyway.
 
-<div id="gallery">{%for art in site.art%}{%if art.tags contains "species"%}<a href="{%include url.html%}/{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-species{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
+<div id="gallery">{%for art in site.art%}{%if art.tags contains "species"%}<a href="{%include url.html%}{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-species{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
 
 <h2 id="cringetober">cringetober duo</h2>
 <figure><a href="https://www.deviantart.com/a-flyleaf/art/cringetober-except-it-s-november-860644053"><img src="{%include url.html%}/assets/img/cringetober.png" alt=""/></a></figure>
@@ -92,7 +92,7 @@ Fan characters based on [Joel Guerra's <i>ENA</i> webseries](https://www.youtube
 
 Other than sharing a "canon" they're not related, but they're not individually-defined enough to warrant separate subheaders either.
 
-<div id="gallery">{%for art in site.art%}{%if art.tags contains "ena"%}<a href="{%include url.html%}/{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-ena{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
+<div id="gallery">{%for art in site.art%}{%if art.tags contains "ena"%}<a href="{%include url.html%}{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-ena{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
 
 <p style="line-height:125%; color:#808080; margin-top:-1em;"><small>These thumbnails kind of look like ass because technicolor pixel art doesn't like JPEG compression. Fullsize images are high quality.</small></p>
 
@@ -101,11 +101,11 @@ Awful, awful creature made as part of [<i>You're gonna be the death of me</i>](h
 
 Also, it has [a theme song](https://www.youtube.com/watch?v=WMOd6jz548Y).
 
-<div id="gallery">{%for art in site.art%}{%if art.tags contains "hellrabbit"%}<a href="{%include url.html%}/{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-hellrabbit{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
+<div id="gallery">{%for art in site.art%}{%if art.tags contains "hellrabbit"%}<a href="{%include url.html%}{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-hellrabbit{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
 
 Besides the above, mostly snipped from [monthly roundups](https://a-flyleaf.github.io/ygbtdm/gallery/roundups), there's a few standalones in [the project's general gallery](https://a-flyleaf.github.io/ygbtdm/gallery).
 
 <h2 id="wolf">“wolf-skull”</h2>
 Minor/side character in [<i>You're gonna be the death of me</i>](https://a-flyleaf.github.io/ygbtdm/) whose design I like too much because *of course I do, I gave them a wolf motif, I dug my own grave I'll lie in it.* Basically recycles Flynn's body type, yes---but besides both being showy ?brunettes, they're not terribly similar.
 
-<div id="gallery">{%for art in site.art%}{%if art.tags contains "ws"%}<a href="{%include url.html%}/{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-ws{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
+<div id="gallery">{%for art in site.art%}{%if art.tags contains "ws"%}<a href="{%include url.html%}{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-ws{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>

@@ -36,4 +36,4 @@ trivia: |-
   - Name is derived from [<i>Taraxacum officinale</i>](https://en.wikipedia.org/wiki/Taraxacum_officinale) and an anagram of "-cenia" (from [<i>Sarracenia flava</i>](https://en.wikipedia.org/wiki/Sarracenia_flava)).
     - \*If she has a plant association, it's a pitcher plant, not a dandelion.
 ---	
-<div id="gallery">{%for art in site.art%}{%if art.tags contains "tara"%}<a href="{%include url.html%}/{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-{{page.nm}}{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
+<div id="gallery">{%for art in site.art%}{%if art.tags contains "tara"%}<a href="{%include url.html%}{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-{{page.nm}}{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
