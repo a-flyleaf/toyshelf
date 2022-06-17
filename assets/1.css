@@ -9,6 +9,9 @@ header,nav,main,footer{display:block;}
 ::selection{background:#dfdfdf; background:rgba(0,0,0,.15);}
 a{color:#808080;} /*hover at bottom to ensure override*/
 
+#skipto{position:absolute; left:-999px; width:1px; height:1px; top:auto; overflow:hidden;}
+#skipto:focus,#skipto:active{width:auto; height:auto; overflow:visible; left:auto;}
+
 header,nav,#footer{padding:.25em 0; color:#808080;}
 header,#footer{background:#dfdfdf;} nav{background:#efefef;}
 .bar{font-size:.85em; max-width:37.25em;}
