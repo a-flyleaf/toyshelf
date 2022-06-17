@@ -9,4 +9,4 @@ title: changelog
 
 ## June 2022
 - 6--7, 9, 14--16: ~~random creachers~~ miscellaneous characters
-- 17: dark mode
+- 17: dark mode, general cleanup
