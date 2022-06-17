@@ -25,7 +25,7 @@ Anyway, all instances of years in profiles are 100% **in-universe** unless other
 - tumblr tag (archived\*): [#coniferous vines](https://aflyleaf3.wordpress.com/tag/coniferous-vines)
 	- \*The photo post formatting is weird and the tags are out of order. Apologies for the inconvenience!
 
-Some of these are [copied over here]({%include url.html%}/art/disaster-crew); most isn't, either because I don't like it enough to back up or just haven't gotten around to it.
+Some of these are [copied over here]({%include url.html%}/disaster-crew/art); most isn't, either because I don't like it enough to back up or just haven't gotten around to it.
 
 ### other pages on my site
 - [2018 height chart](https://a-flyleaf.github.io/shriblets/2018-08-heighthell/) + [2022 revisitening](https://a-flyleaf.github.io/shriblets/2022-04-1617-draggable/)
