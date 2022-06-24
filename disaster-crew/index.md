@@ -34,4 +34,4 @@ Some of these are [copied over here]({%include url.html%}/art/disaster-crew); mo
 - [2018 height chart](https://a-flyleaf.github.io/shriblets/2018-08-heighthell/) + [2022 revisitening](https://a-flyleaf.github.io/shriblets/2022-04-1617-draggable/)
 - [2018 headshots](https://a-flyleaf.github.io/shriblets/2018-12-14-headshots/)
 - [2021 HTML experiment](https://a-flyleaf.github.io/shriblets/2021-04-29-split/)
-- 2021 original version of these writeups [link TBA]
+- [2021 original version of these writeups](https://a-flyleaf.github.io/shriblets/stash/cmyk/index-wip.html)

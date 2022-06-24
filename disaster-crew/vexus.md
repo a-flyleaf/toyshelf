@@ -5,8 +5,8 @@ nm: vexus
 
 imgsrc: 2021-05-11-vexus
 stats: y
-age: 15 (2017)
-height: 4'04"/132.08cm
+age: 8 (2012), 13 (2017)
+height: 4'04"/132.08cm (2017)
 
 summary: <abbr title="sad-mad">Smad</abbr> little dude. [Tara](tara)'s sibling, best friend of [Levi](levi)'s.
 

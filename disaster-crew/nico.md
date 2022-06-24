@@ -5,7 +5,7 @@ nm: nico
 
 imgsrc: matching-shirts
 stats: y
-age: 13/14 (2012), 19 (2017)
+age: just turned 14 (2012), 19 (2017)
 height: 5'00"/152.4cm (2012), 5'05"/165.1cm (2017)
 
 summary: Half of the "disaster duo." Formerly an adventurous go-getter, currently a depressed shut-in.

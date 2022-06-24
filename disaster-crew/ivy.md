@@ -5,7 +5,7 @@ nm: ivy
 
 imgsrc: phone
 stats: y
-age: 16 (2012), 22 (2017)
+age: 16–17 (2012), 22 (2017)
 height: 5'04"/162.56cm (2012), 5'07"/170.18cm (2017)
 
 summary: >-

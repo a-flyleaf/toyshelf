@@ -20,7 +20,6 @@ Ordered chronologically by creation, more or less. Those with lots of art (>9) h
 	<li><a href="#sawface">“sawface”</a></li>
 	<li><a href="#ehr">eel-horse-raptor</a></li>
 	<li><a href="#species">scrapped species</a></li>
-	<li><a href="#sika">“sika”</a></li>
 	<li><a href="#cringetober">cringetober duo</a></li>
 	<li><a href="#enaverse"><i>ENA</i> fan-characters</a></li>
 	<li><a href="#hellrabbit">hellrabbit</a></li>

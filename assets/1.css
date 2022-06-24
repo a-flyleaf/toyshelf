@@ -47,7 +47,7 @@ a.box:hover,a.box:focus,a.box:active{background:#e7e7e7; border-color:#c0c0c0;} 
 #stats th{text-align:right;}
 #stats,#summary{width:75%; margin:1em auto;}
 #summary{text-align:center;}
-#songs ul{list-style-type:none; margin-left:0;} #songs li:before{content:"𝅘𝅥𝅮"; margin-right:.5em;}
+#songs ul{list-style-type:none; margin-left:0;} #songs li:before{content:"\1D160"; margin-right:.5em;}
 #all{padding:.25em .5em; font-size:.85em; text-align:right; text-decoration:none; float:right;} #all:hover,#all:focus,#all:active{background:#dfdfdf;} /*this can probably be a box*/
 
 #gallery{margin:1em 0;}
