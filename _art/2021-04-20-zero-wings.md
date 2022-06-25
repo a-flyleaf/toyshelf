@@ -10,7 +10,7 @@ site: deviantart
 css: "#art img{border:0;}"
 
 caption: >-
-  Uncomfortably-close shot on Ava's smiling face. Reads her speech bubble: "did you know that even with seat belts people die all the time in car crashes? i thought that was interesting"
+  Lineless fullbody of Zero, a front view strut framed by an oval, glowing number "0" above his head. He appears to have multiple sets of wings.
 ---
 Originally posted [on deviantArt](https://www.deviantart.com/a-flyleaf/art/Zero-but-with-nonzero-wings-876989162).
 

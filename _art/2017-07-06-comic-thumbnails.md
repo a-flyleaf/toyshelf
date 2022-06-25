@@ -11,13 +11,13 @@ caption: |-
   Thumbnails for a four-page comic; full description on [the final version]({%include url.html%}/art/comic-final). Thumbnail notes transcribed below:
   - [first panel] gotta go fast
   - what [is happening in the second panel]
-  - WTF is it eating
+  - WTF is it [the eel-horse-raptor, "ehr"] eating
   - [speech bubble tail] points left <em style="text-transform:uppercase;font-style:normal;">or</em> change next page
   - [two side-by-side panels are] too similar?
   - [last panel on second page could be] more dramatic; upshot?
   - zoom on related item
   - slight downshot [on last panel of third page]?
-  - [panel of eel-horse-raptor glaring down] not necessary?
+  - [panel of ehr glaring down] not necessary?
   - [ehr's] tail prevents [person on back from] fall[ing]
 
 css: details blockquote{font-family:cambria,georgia,serif;} blockquote ol{margin:1em 0 1em 1em;}
@@ -35,5 +35,7 @@ I also found the full original concept while file-scrounging; at 3 pages and 1,4
 			<ul><li>Third character could be a human? The kid’s not afraid of a chimera monster but an unarmed human being scares them. The reader can draw conclusions from here. The stolen thing isn’t food, but the humans know each other and it ain’t pretty.</li></ul></li>
 		<li>—and puts them on its back and <em>runs</em>, having decided it doesn’t trust this new person. Within seconds there’s no hope of the third character catching up. The child is bewildered, having anticipated punishment because okay sure they stole something valuable belonging to a deceased loved one but they were being bad and—the creature gives them a stern but sympathetic look, slowing down, and they just hug it in silence.</li>
 	</ol>
-	<ul><li>The setting is vaguely post-apocalyptic. The three illustration ideas can be thought of as taking place chronologically; the first at some point when the XRF (Xenobiological Research Facility—remember this from the trifold [a prior assignment]?) was still running and not <em>that</em> many creatures were loose stop worrying shush, the second from when these creatures were starting to be “normalized” but then disaster struck, and the third (this story) from some point after humanity realized “well, we’re screwed.” That said, humanity’s survival struggle isn’t at the forefront.</li></ul>
-</blockquote></details>
+	<ul><li>The setting is vaguely post-apocalyptic. The three illustration ideas can be thought of as taking place chronologically; the first at some point when the XRF (Xenobiological Research Facility—remember this from the trifold?) was still running and not <em>that</em> many creatures were loose stop worrying shush, the second from when these creatures were starting to be “normalized” but then disaster struck, and the third (this story) from some point after humanity realized “well, we’re screwed.” That said, humanity’s survival struggle isn’t at the forefront.</li></ul>
+</blockquote>
+
+XRF trifold is referring to a previous assignment.</details>

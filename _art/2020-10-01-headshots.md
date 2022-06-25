@@ -10,7 +10,7 @@ multi: y
 
 caption: |-
   A vertical composition of headshots, featuring:
-  - Ava in black, white, and yellow, smiling and making a "shh" hand
+  - Ava in black, white, and yellow, grinning and making a "shh" hand
   - Nico in sharp lines and stark cyan lighting
   - Ivy in round lineless and a dark reddish palette
   - A silhouette of Tara, mouth open in a frown. A white scribble appears to burst violently from her forehead.

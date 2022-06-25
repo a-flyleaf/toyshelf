@@ -8,8 +8,9 @@ categories: disaster-crew
 tags: dodder
 site: deviantart
 
+css: "#art img{background:rgba(0,0,0,.075);}"
 caption: |-
-  "<b>character design + art style are my passions</b>", musings & character by NightAuctor/a-flyleaf
+  "<b>character design + art style are my passions</b>, musings & character by NightAuctor/a-flyleaf"
   
   Three sketches of Dodder in different art styles, with full-color headshots and notes below:
   - <b>super stylized/angular</b>

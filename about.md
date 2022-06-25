@@ -53,4 +53,4 @@ Techy explanation for the "backend site generation" date-fudging that comes up w
 - To grab the image URL, the layout pulls from the page date in <abbr title="year-month-day">YYYY-MM-DD</abbr> format.
 - Because it *only* looks for date information, different art posts can't share a date.
 
-There is probably a workaround. I'll figure that out if I need to, but for now this doesn't come up often enough to warrant it.
+There is probably a workaround, or a better way to do it from the ground up. I'll figure that out if I need to, but for now this doesn't come up often enough to warrant it.

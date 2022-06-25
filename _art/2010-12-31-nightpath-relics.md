@@ -12,4 +12,4 @@ css: "#date{display:none;}"
 caption: |-
   Some Nightpath busts from 2010-ish: a "Happy Holidays!" card ft. Christmas Tree, one with a witch hat and little trick-or-treat bucket, and a side view bust.
 ---
-Some ancient woofs that I found while scrounging through ancient folders. Dates are questionable; first two from MSPaint (wow, look at that ancient pawprint signature) and the third is from the GIMP era.
+Some ancient woofs that I found while scrounging through ancient folders. Dates are questionable; first two drawn on MSPaint (wow, look at that ancient pawprint signature) and the third is from the GIMP era.

@@ -31,7 +31,7 @@ code,.code{font-family:consolas,courier,monospace; background:#efefef; padding:0
 small{font-size:.85em;}
 
 blockquote{border-left:.25em solid #dfdfdf; padding-left:.75em; margin:.5em 0;}
-figure{margin:1em auto;} figure a{display:inline-block; border:1px solid #c0c0c0; border-radius:2px;} figure a:hover,figure a:active,figure a:focus{border-color:#808080;} figure img{display:block;} .artlink a{border:0;} figcaption a{border:0;}
+figure{margin:1em auto;} figure a{display:inline-block; border:1px solid #c0c0c0; border-radius:2px;} figure a:hover,figure a:active,figure a:focus{border-color:#808080;} figure img{display:block;} .artlink a{border:0;} figcaption a{border:0; display:inline;}
 iframe{border:0; display:block; margin:1em auto; max-width:100%;}
 summary{border-bottom:1px dashed #808080; cursor:pointer; color:#808080;} summary:active,summary:hover{color:inherit; font-weight:bold;}
 table{border:1px solid #d0d0d0; border-collapse:collapse;}

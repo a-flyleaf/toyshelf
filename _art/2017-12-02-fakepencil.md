@@ -9,6 +9,6 @@ tags: nico ivy
 multi: y
 site: tumblr
 
-caption: Grayscale headshots of Nico and Ivy, rendered fully in a pencil-mimicking brush.
+caption: Grayscale headshots of Nico and Ivy, rendered in a pencil-mimicking digital brush.
 ---
 Originally posted as part of [an artdump](https://aflyleaf3.wordpress.com/2017/12/03/no-pencil-was-used-in-the-creation-of-this/).
