@@ -23,7 +23,7 @@ Ordered chronologically by creation, more or less. Those with lots of art (>9) h
 	<li><a href="#cringetober">cringetober duo</a></li>
 	<li><a href="#enaverse"><i>ENA</i> fan-characters</a></li>
 	<li><a href="#hellrabbit">hellrabbit</a></li>
-	<li><a href="#wolf">“wolf-skull”</a></li>
+	<li><a href="#ws">“wolf-skull”</a></li>
 </ul></nav>
 
 <h2 id="demon">doodle demon</h2>
@@ -104,7 +104,7 @@ Also, it has [a theme song](https://www.youtube.com/watch?v=WMOd6jz548Y).
 
 Besides the above, mostly snipped from [monthly roundups](https://a-flyleaf.github.io/ygbtdm/gallery/roundups), there's a few standalones in [the project's general gallery](https://a-flyleaf.github.io/ygbtdm/gallery).
 
-<h2 id="wolf">“wolf-skull”</h2>
+<h2 id="ws">“wolf-skull”</h2>
 Minor/side character in [<i>You're gonna be the death of me</i>](https://a-flyleaf.github.io/ygbtdm/) whose design I like too much because *of course I do, I gave them a wolf motif, I dug my own grave I'll lie in it.* Basically recycles Flynn's body type, yes---but besides both being showy ?brunettes, they're not terribly similar.
 
 <div id="gallery">{%for art in site.art%}{%if art.tags contains "ws"%}<a href="{%include url.html%}{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-ws{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
