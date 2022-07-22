@@ -15,23 +15,25 @@ Just for the heck of it, and also my own ease of reference.
 - 2012 August: Zero
 - 2013: earliest sparks of what would eventually become <b><i>The Firebird Effect</i></b>, incl. earliest incarnations of Flynn & Ren (then nameless Flare grunts A and B; there was probably a C but they didn't stick around story-development-wise)
 
-There was a big "creative hiatus" of sorts around here, where I drew mostly fanart and didn't write much (to memory, anyway). It's probably no coincidence that this is around when I was really into tumblr (social media! always a timesuck), was slogging through highschool (A Struggle), and other irl shit was going down too.
+There was a big "creative hiatus" for the next couple years or so, where I drew mostly fanart and didn't write much (to memory, anyway). It's probably no coincidence that, meanwhile, I was really into tumblr (social media! always a timesuck), was slogging through highschool (A Struggle), and other irl shit was going down too.
 
 At some point I picked up <i>TFE</i> again, possibly around 2015-ish? It got redeveloped quite a bit before I started publishing the comic in mid-2016.
 
 - 2016: earliest recorded appearances of "sawface"
 	- "named" on the spot for ArtFight 2021
-- 2017--8: revisited <b>disaster duo</b> (and Hugh/Tara & sister/Vexus); Nico renamed, spawned Ava, Levi, Dodder
+- 2017--8: revisited <b>disaster duo</b> (and Hugh/Tara & sister/Vexus)
+	- renamed Nico
+	- spawned Ava, Levi, and Dodder
 - 2018 January: RP species<!--*-->
 - late 2018: <b><i>404</i></b> (then-untitled; offshoot of <i>DDLC</i> obesssion that started earlier in the year)
 - 2018 December: permission granted to OC-ify Zero
-- 2020: ENA phase
 - 2020 October: cringetober
 - late 2020: earliest ideas for <b><i>You're gonna be the death of me</i></b> (no title til wayyyy later)
-- 2021 March: ENA duck-rabbit
-- 2021 April: ENA "sona"
+- 2021 March: <i>ENA</i> duck-rabbit
+- 2021 April: <i>ENA</i> "sona"
 - 2021 September: hellrabbit (first sketches, concept existed prior)
 - 2021 December: wolf-skull (first posted sketches, existed prior)
+<!-- - 2022 late June: new fucker. are we doing this? are we actually doing this???-->
 
 over a DECADE what the shit man.
 

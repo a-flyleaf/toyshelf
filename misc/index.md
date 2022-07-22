@@ -6,7 +6,7 @@ css: "#gallery{width:auto; margin-left:0;} #gallery a{width:31%; marin:.15em 1%;
 ---
 Assorted designs that I've remembered through the years. Most aren't Developed Characters with set personalities and backstories and all that jazz, they kinda just Exist and spark joy so here they are~
 
-Ordered chronologically by creation, more or less. Those with lots of art (>9) have been punted to individual pages.
+Ordered chronologically by creation, more or less. Those with over 9 [artstuffs]({%include url.html%}/art/misc) have been punted to individual pages.
 
 <a href="{%include url.html%}/art/menagerie"><img src="{%include url.html%}/assets/img/art/2021-11-14.png" alt="a menagerie of some of the critters featured here"/></a>
 
@@ -15,13 +15,13 @@ Ordered chronologically by creation, more or less. Those with lots of art (>9) h
 	<li><a href="#demon">doodle demon</a></li>
 	<li><a href="#nightpath">Nightpath</a></li>
 	<li><a href="#slade">Slade Auctor</a></li>
-	<li><a href="#zero">Zero</a></li>
+	<li><a href="{%include url.html%}/misc/zero"><b>Zero</b></a></li>
 	<li><a href="#roommates">Flynn Smith & Ren Brandt</a></li>
 	<li><a href="#sawface">“sawface”</a></li>
-	<li><a href="#ehr">eel-horse-raptor</a></li>
+	<li><a href="{%include url.html%}/misc/ehr"><b>eel-horse-raptor</b></a></li>
 	<li><a href="#species">scrapped species</a></li>
 	<li><a href="#cringetober">cringetober duo</a></li>
-	<li><a href="#enaverse"><i>ENA</i> fan-characters</a></li>
+	<li><a href="#ena"><i>ENA</i> fan-characters</a></li>
 	<li><a href="#hellrabbit">hellrabbit</a></li>
 	<li><a href="#ws">“wolf-skull”</a></li>
 </ul></nav>
