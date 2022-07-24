@@ -76,6 +76,17 @@ Around early 2018 a couple friends invited me to build a RP with custom worlds a
 
 <div id="gallery">{%for art in site.art%}{%if art.tags contains "species"%}<a href="{%include url.html%}{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-species{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
 
+<!--
+## "sika"
+At one point in 2018 I read [Junji Ito's <i>Fragments of Horror</i>](https://en.wikipedia.org/wiki/Fragments_of_Horror) and was inspired by [one story](https://junjiitomanga.fandom.com/wiki/Lingering_Farewell)'s idea of the "after-image," in which a deceased person lingers long after death---in a way that feels very real to both the people around them and the deceased themself.
+
+In retrospect I don't think I changed enough from the base concept to really consider it my own, but if other one-offs can be here, so can this design <span style="display:inline-block;">¯\\\_( :V )_/¯</span> Major difference was that, instead of just fading away, the person turned into a deer-cryptid, slowly transforming over the course of the story until running off for good at the end.
+
+<div id="gallery">{%for art in site.art%}{%if art.tags contains "sika"%}<a href="{%include url.html%}{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-sika{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
+
+Yes, there are some visual similarities to [a later, far-more-developed character](https://a-flyleaf.github.io/ygbtdm/cast/kay-lin). No, they're not related. I don't think it's a complete coincidence either, though....
+-->
+
 <h2 id="cringetober">cringetober duo</h2>
 <figure><a href="https://www.deviantart.com/a-flyleaf/art/cringetober-except-it-s-november-860644053"><img src="{%include url.html%}/assets/img/cringetober.png" alt=""/></a></figure>
 
@@ -110,3 +121,5 @@ Minor/side character in [<i>You're gonna be the death of me</i>](https://a-flyle
 <div id="gallery">{%for art in site.art%}{%if art.tags contains "ws"%}<a href="{%include url.html%}{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-ws{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
 
 Has also been drawn for ArtFight as of 2022; link TBA.
+
+<!--do i put the new fucker(s) here? DO i???? within the span of one (1) month they've already been drawn more than some other people here... EHH let's see how it goes, might say fuck it and make a new repo from the ground up-->
