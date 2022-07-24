@@ -51,7 +51,7 @@ A young ’yote made for ['Souls RPG](https://soulsrpg.com/forum/) in 2010 (firs
 <h2 id="roommates">Flynn Smith & Ren Brandt</h2>
 <figure><a href="https://angelicguy.tumblr.com/post/174622796714/wakes-up-oh-fuck-i-need-to-protect-women-runs"><img src="{%include url.html%}/assets/img/roommates.png" alt=""/></a></figure>
 
-Scrapped characters from <i>The Firebird Effect</i> that got developed a whole lot more than their merged version. (They could probably have their own pages but, for lack of a better category, they're getting shoehorned here for now.) Both candidates for minor characters in the [disaster duo]({%include url.html%}/disaster-crew)'s storyline, Flynn primarily and Ren by extension.
+Scrapped characters from [<i>The Firebird Effect</i>](https://a-flyleaf.github.io/projects/tfe) that got developed a whole lot more than their merged version. (They could probably have their own pages but, for lack of a better category, they're getting shoehorned here for now.) Both candidates for minor characters in the [disaster duo]({%include url.html%}/disaster-crew)'s storyline, Flynn primarily and Ren by extension.
 
 Flynn's whole-ass story, plus a mini gallery, is in [this shriblet](https://a-flyleaf.github.io/shriblets/2019-05-wiki/); Ren has no equivalent.
 
@@ -65,7 +65,7 @@ I have no idea what the hell spawned this thing, or the human that sometimes app
 
 <div id="gallery">{%for art in site.art%}{%if art.tags contains "sawface"%}<a href="{%include url.html%}{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-sawface{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
 
-"sawface" is in quotes because it's a moniker I slapped on for [ArtFight](https://a-flyleaf.github.io/artfight/for-me) in 2021, not sure I'd call it a Proper Name. Speaking of ArtFight, check out that link for some art by other people!
+"sawface" is in quotes because it's a moniker I slapped on for ArtFight in 2021, not sure I'd call it a Proper Name. Speaking of ArtFight, check out [the gallery site](https://a-flyleaf.github.io/artfight/for-me) for some sawface art by other people!
 
 <h2 id="ehr">eel-horse-raptor</h2>
 <figure><a href="{%include url.html%}/misc/eel-horse-raptor"><img src="{%include url.html%}/assets/img/ehr-tmp.png" alt=""/></a></figure>
@@ -102,9 +102,11 @@ Also, it has [a theme song](https://www.youtube.com/watch?v=WMOd6jz548Y).
 
 <div id="gallery">{%for art in site.art%}{%if art.tags contains "hellrabbit"%}<a href="{%include url.html%}{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-hellrabbit{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
 
-Besides the above, mostly snipped from [monthly roundups](https://a-flyleaf.github.io/ygbtdm/gallery/roundups), there's a few standalones in [the project's general gallery](https://a-flyleaf.github.io/ygbtdm/gallery).
+Besides the above, mostly snipped from [monthly roundups](https://a-flyleaf.github.io/ygbtdm/gallery/roundups), it shows up a fair bit in [the project's general gallery](https://a-flyleaf.github.io/ygbtdm/gallery).
 
 <h2 id="ws">“wolf-skull”</h2>
 Minor/side character in [<i>You're gonna be the death of me</i>](https://a-flyleaf.github.io/ygbtdm/) whose design I like too much because *of course I do, I gave them a wolf motif, I dug my own grave I'll lie in it.* Basically recycles Flynn's body type, yes---but besides both being showy ?brunettes, they're not terribly similar.
 
 <div id="gallery">{%for art in site.art%}{%if art.tags contains "ws"%}<a href="{%include url.html%}{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-ws{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
+
+Has also been drawn for ArtFight as of 2022; link TBA.

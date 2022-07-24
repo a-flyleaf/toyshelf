@@ -9,7 +9,7 @@ tags: species
 
 caption: |-
   Fullbody turnaround (and additional notes) featuring the RP species.
-  - [old sketch]({%include url.html%)/art/2020-01-15-critters), changed leg
+  - <a href="2020-01-15-critters">old sketch</a>, changed leg
   - dino-ish face?
   - 3 fingers
   - humanoid limbs
