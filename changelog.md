@@ -16,3 +16,4 @@ title: changelog
 ## post-launch
 - June 24: assorted minor fixes
 - July 22, 24: more fixes
+- August 1: [/newhell]({%include url.html%}/newhell) (for lack of a better title)

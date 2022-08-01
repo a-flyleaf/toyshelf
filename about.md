@@ -4,22 +4,25 @@ title: about
 
 css: h3{text-transform:none; letter-spacing:0.015em; font-size:1em;} h3:nth-of-type(2){font-family:times,serif; font-size:1.15em; letter-spacing:0;} .wrap>ul:last-of-type{margin-top:-.5em;}
 ---
-\*drops everyone here like a claw machine\*
+\*drops everyone here like an inverted claw machine\*
 
 ## Why "Toyshelf"?
-A riff on the [Toyhouse](https://toyhou.se/) name, and more relevant to me personally. All\* these characters are effectively "shelved"; they're kinda just Sitting There, Existing, not taking part in any ongoing or previously-certain story.
-<p style="font-size:.85em; line-height:150%;">*Well, okay, there's a couple designs that spawned from <a href="https://a-flyleaf.github.io/ygbtdm/">my current project</a> here too. They’ve been drawn <em>as</em> standalones at least once, though, so <em>what the heck</em> here they are.</p>
+A riff on the [Toyhouse](https://toyhou.se/) name, and more relevant to me personally. The original thought was that all these characters are effectively "shelved"; they're mostly kinda just Sitting There, Existing, not taking part in any ongoing or previously-certain story.
+
+I say "original thought" because this hasn't been 100% true [from the]({%include url.html%}/misc#hellrabbit) [getgo]({%include url.html%}/misc#ws), and as of August 2022 it is [*extra* not true]({%include url.html%}/newhell) because imagination went brr again and I decided to dump stuff here early.
+
+Some shelves are dustier than others, let's put it that way <span style="display:inline-block;">:V</span>
 
 ## Why not use Toyhouse?
 ### The Cool and Friendly Reason
-- Coding everything from scratch offers me <em style="text-transform:uppercase;font-style:normal;">all</em> the customization. At the time of writing every page follows the same template, but hypothetically, I *could* deck every single one out individually with CSS if I wanted to; no premium membership necessary <span style="display:inline-block;">;V</span>
+- Coding everything from scratch offers me <em style="text-transform:uppercase;font-style:normal;">all</em> the customization. At the time of writing every page follows the same template, but hypothetically, I *could* deck every single one out individually with CSS if I wanted to; no premium membership necessary!
 - Relatedly, I am a strong proponent of [owning one's platform](https://a-flyleaf.github.io/blog/own-your-platform). Is Toyhouse a social media website? Not really, I don't think. But would I rather go "my city now" on it anyway? *Heck yeah.*
 
 ### the snooty elitist reason
 - I have an irrational internalized-cringe-borne aversion to treating characters like "toys"; if they don't have a story, I'd hesitate to call them full-fledged Characters™.
 - When I *do* have Characters™, I want their traits to come across through, y'know, *the story,* and not by spelling everything out in wiki-esque character profiles.
 - *And yet!* I am not immune to "characters" without established canons. [Some of them]({%include url.html%}/misc) are designs that have stuck around for some significant degree of time (as in I didn't just draw them once and then forget); [others]({%include url.html%}/disaster-crew) are interconnected *somehow*, possibly, but since I haven't gotten around to coalescing any sort of Story Canon besides the context of those connections, they occupy a similar canonical limbo.
-- Figured a Toyhouse-esque site would be a good compromise between having an info hub without committing to an Official Repository™, so here we are!
+- Figured a Toyhouse-esque site would be a good compromise between having an info hub and committing to an Official Repository™, so here we are!
 
 > Obligate disclaimer, in case the subheader wasn't clear enough, that this is a Me Thing---not a value judgment on Toyhouse or its users! Hell, if I'd discovered Toyhouse earlier into my internet adventures, I might be an avid user today.
 
