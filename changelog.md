@@ -17,3 +17,5 @@ title: changelog
 - June 24: assorted minor fixes
 - July 22, 24: more fixes
 - August 1: [/newhell]({%include url.html%}/newhell) (for lack of a better title)
+- August 2: reconfigure art tagging
+	- redundant with the disaster crew profile galleries

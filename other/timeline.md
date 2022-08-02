@@ -32,7 +32,7 @@ At some point I picked up <i>TFE</i> again, possibly around 2015-ish? It got red
 - 2021: [<i>ENA</i> phase]({%include url.html%}/misc#ena); duck-rabbit in March, then "sona" in April
 - 2021 September: [hellrabbit]({%include url.html%}/misc#hellrabbit) (first sketches, concept existed prior)
 - 2021 December: [wolf-skull]({%include url.html%}/misc#ws) (first posted sketches, existed prior)
-- 2022 June: [wake up new fuckers dropped] <!--idk most names so leaving this here for now-->
+- 2022 June: [wake up new fuckers dropped]({%include url.html%}/newhell) <!--idk most names so leaving this here for now-->
 
 over a <em style="font-style:normal;text-transform:uppercase;">decade</em> what the shit man.
 

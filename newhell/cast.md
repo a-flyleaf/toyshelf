@@ -1,7 +1,7 @@
 ---
 layout: 1
 title: "“new hell”: cast"
-css: h2+ul li{padding:.25em 0;}
+css: "h2+ul li{padding:.25em 0;} #gallery{width:auto; margin-left:0;} #gallery a{width:31%; marin:.15em 1%;}"
 ---
 Some people who exist, so far. Names are my burden!!!
 
@@ -14,6 +14,10 @@ A sardonic server, AKA a much more expressive inheritor.
 - About average height (skewing shorter?) by default, ~7ft. as "Lucien," and Fucking Huge (as space will allow) as "full demon."
 
 Yes, the "Lucien Grey" name is a riff on [a book I have not actually read](https://en.wikipedia.org/wiki/The_Picture_of_Dorian_Gray). I just think it's got a nice ring to it! (Surname might change.)
+
+<div id="gallery">{%include artbox.html url="hell" date="2022-07-14" title="hell on earth"%}{%include artbox.html url="lucien" date="2022-07-26" title="Lucien."%}{%include artbox.html url="2022-07-roundup" date="2022-08-02" title="July 2022 roundup scribs"%}</div>
+
+(The latest art includes sketches for the rest of the gang defined so far, but I can't be assed to make separate thumbnails yet)
 
 ## "the protégé"
 The would-be inheritor.
@@ -41,7 +45,7 @@ He'll, uh, get developed more if/as I figure out more stuff about the setting, a
 ## everyone else
 - Identical twin siblings, born human. At least one was Kind Of A Shithead™ as a kid, less sure on the other. Possibly did a "role reversal" into adulthood, with the rowdy one just trying to settle down and live quietly whereas the other got roped up in ~supernatural stuff and tried to do an assassination. Or maybe that's what the survivor *wants* you to think...?
 - Family (or lack thereof) seems to be a recurring Thing here, so at least one relative of protégé's (and Holly's, much to her consternation) should probably be relevant too.
-- There was a time I considered sticking Lucien (the one who effectively spawned all this) in the same "universe"/continuity/whatever as either [the "sawface" human]({%include url.html%}/misc#sawface) or [the disaster crew]({%include url.html%}/disaster-crew). Have since decided against both, but maybe some [expies](https://tvtropes.org/pmwiki/pmwiki.php/Main/Expy) will show up too <span style="display:inline-block;">¯\\\_(ツ)_/¯</span>
+- There was a time I considered sticking Lucien in the same "universe"/continuity/whatever as either [the "sawface" human]({%include url.html%}/misc#sawface) or [the disaster crew]({%include url.html%}/disaster-crew). Have since decided against both, but maybe some [expies](https://tvtropes.org/pmwiki/pmwiki.php/Main/Expy) will show up <span style="display:inline-block;">¯\\\_(ツ)_/¯</span>
 
 &nbsp;
 
