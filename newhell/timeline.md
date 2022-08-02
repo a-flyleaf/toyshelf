@@ -25,7 +25,7 @@ Behold, an utter dearth of [names](cast)!
 	- Protégé walks in on ↑this and suddenly realizes they have morals after all. Lucien doesn't seem guilty whatsoever. Great! Fantastic! Excellent! Thanks for your contribution!!!
 - At some point after that (probably not too long? but not necessarily on the spot, either), protégé is like "a'ight I'm leaving your ass." They're very dramatic about it. Lucien's kinda just like "K" and that's that.
 
-{%include figure.html src="" img="newhell" alt="“You /will/ get a redemption arc,” yells the protégé. “Or die. Mark my words!!!!”"%}<!--source to roundup-->
+{%include figure.html src="2022-07-roundup" img="newhell" alt="“You /will/ get a redemption arc,” yells the protégé. “Or die. Mark my words!!!!”"%}
 
 - Protégé meets up with the assassin's sibling---an identical twin, and the one who *actually* beat on Holly as a kid. Protégé claims they're convinced Holly/Lucien is redeemable, and they've just got to find out how; the twin, meanwhile, is less favorable. They team up anyway, united by the common banner of "what the fuck is even going on (and how do we stop it)."
 - Also at some point Lucien just goes full demon and burns down the whole establishment. Not sure if this is a Climactic Event or like, the next big thing that happens after the assassination attempt.
