@@ -1,6 +1,7 @@
 ---
 layout: 1-profile
 title: “Ivy” Espinosa-Rodriguez
+nav: disaster-crew
 nm: ivy
 
 imgsrc: phone

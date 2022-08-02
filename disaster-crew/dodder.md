@@ -1,6 +1,7 @@
 ---
 layout: 1-profile
 title: Conor “Dodder” Haus
+nav: disaster-crew
 nm: dodder
 
 imgsrc: stylenotes

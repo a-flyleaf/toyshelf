@@ -1,6 +1,7 @@
 ---
 layout: 1-profile
 title: “Vexus” Caine
+nav: disaster-crew
 nm: vexus
 
 imgsrc: 2021-05-11-vexus

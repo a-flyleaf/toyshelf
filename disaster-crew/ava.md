@@ -1,6 +1,7 @@
 ---
 layout: 1-profile
 title: Ava Fleischer
+nav: disaster-crew
 nm: ava
 
 imgsrc: 2020-05-24-ava

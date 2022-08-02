@@ -1,6 +1,7 @@
 ---
 layout: 1-profile
 title: Levi d’Angelo
+nav: disaster-crew
 nm: levi
 
 imgsrc: invert

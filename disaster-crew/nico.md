@@ -1,6 +1,7 @@
 ---
 layout: 1-profile
 title: Nico Sylvester
+nav: disaster-crew
 nm: nico
 
 imgsrc: matching-shirts

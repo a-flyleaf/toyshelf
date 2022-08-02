@@ -11,8 +11,8 @@
 	</head>
 	
 	<body{%if layout.class%} class="{{layout.class}}"{%endif%}><a href="#content" id="skipto" class="box">skip to content</a>
-		<header><div class="wrap bar"><a href="{%include url.html%}">a-flyleaf’s toyshelf</a></div></header>{%if page.layout=="1-profile"%}
-		<nav><div class="wrap bar">{%if page.url contains "disaster-crew"%}<a href="{%include url.html%}/disaster-crew" id="title">disaster crew</a>: <ul><li><a href="{%include url.html%}/disaster-crew/nico">Nico</a></li><li><a href="{%include url.html%}/disaster-crew/ivy">Ivy</a></li><li><a href="{%include url.html%}/disaster-crew/ava">Ava</a></li><li><a href="{%include url.html%}/disaster-crew/tara">Tara</a></li><li><a href="{%include url.html%}/disaster-crew/vexus">Vexus</a></li><li><a href="{%include url.html%}/disaster-crew/levi">Levi</a></li><li><a href="{%include url.html%}/disaster-crew/dodder">Dodder</a></li></ul>{%endif%}</div></nav>{%endif%}
+		<header><div class="wrap bar"><a href="{%include url.html%}">a-flyleaf’s toyshelf</a></div></header>{%if page.nav%}
+		<nav><div class="wrap bar">{%if page.nav contains "disaster-crew"%}<a href="{%include url.html%}/disaster-crew" id="title">disaster crew</a>: <ul><li><a href="{%include url.html%}/disaster-crew/nico">Nico</a></li><li><a href="{%include url.html%}/disaster-crew/ivy">Ivy</a></li><li><a href="{%include url.html%}/disaster-crew/ava">Ava</a></li><li><a href="{%include url.html%}/disaster-crew/tara">Tara</a></li><li><a href="{%include url.html%}/disaster-crew/vexus">Vexus</a></li><li><a href="{%include url.html%}/disaster-crew/levi">Levi</a></li><li><a href="{%include url.html%}/disaster-crew/dodder">Dodder</a></li></ul>{%endif%}</div></nav>{%endif%}
 		<main id="content">{%if page.url contains "art"%}<figure id="art"{%if page.artsrc%} class="artlink"{%endif%}>
 				{%if page.artsrc%}<a href="{%include url.html%}/art/{{page.artsrc}}">{%endif%}<img src="{%include url.html%}/assets/img/art/{{page.date|date:'%F'}}.{%if page.file%}{{page.file}}{%else%}png{%endif%}" alt="{{page.title}}"/>{%if page.artsrc%}</a>{%endif%}
 				<figcaption class="wrap">{{page.caption|markdownify}}</figcaption>
@@ -24,7 +24,7 @@
 				{%for tag in page.tumblr%}#{{tag}} {%endfor%}
 			{%endif%}<ul>
 				<li class="info-li">filed under: <a href="{%include url.html%}/{{category}}"><a href="{%include url.html%}/art/{{page.categories}}">{{page.categories}}</a></li>
-				<li class="info-li">tagged: <ul id="tags">{%for tag in page.tags%}<li><a href="{%include url.html%}/{{page.categories}}{%if page.categories contains 'disaster-crew'%}/{%else%}#{%endif%}{{tag}}">{{tag}}</a></li>{%endfor%}</ul></li>
+				<li class="info-li">tagged: <ul id="tags">{%for tag in page.tags%}<li><a href="{%include url.html%}/{%if page.categories contains 'disaster-crew'%}art/{%else%}{{page.categories}}#{%endif%}{{tag}}">{{tag}}</a></li>{%endfor%}</ul></li>
 			</ul></footer>{%endif%}
 		</div></main>
 		<footer id="footer"><div class="wrap bar">all code and art by <a href="https://a-flyleaf.github.io/">a-flyleaf</a> unless otherwise noted</div></footer>
