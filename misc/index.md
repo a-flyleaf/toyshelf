@@ -65,7 +65,7 @@ I have no idea what the hell spawned this thing, or the human that sometimes app
 
 <div id="gallery">{%for art in site.art%}{%if art.tags contains "sawface"%}<a href="{%include url.html%}{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-sawface{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
 
-"sawface" is in quotes because it's a moniker I slapped on for ArtFight in 2021, not sure I'd call it a Proper Name. Speaking of ArtFight, check out [the gallery site](https://a-flyleaf.github.io/artfight/for-me) for some sawface art by other people!
+"sawface" is in quotes because it's a moniker I slapped on for ArtFight in 2021, not sure I'd call it a Proper Name. Speaking of ArtFight, check out [the showcase site](https://a-flyleaf.github.io/artfight/etc/roster#sawface) for some sawface art by other people!
 
 <h2 id="ehr">eel-horse-raptor</h2>
 <figure><a href="{%include url.html%}/misc/eel-horse-raptor"><img src="{%include url.html%}/assets/img/ehr-tmp.png" alt=""/></a></figure>
@@ -90,7 +90,7 @@ Yes, there are some visual similarities to [a later, far-more-developed characte
 <h2 id="cringetober">cringetober duo</h2>
 <figure><a href="https://www.deviantart.com/a-flyleaf/art/cringetober-except-it-s-november-860644053"><img src="{%include url.html%}/assets/img/cringetober.png" alt=""/></a></figure>
 
-A couple designs that spawned in 2020 as part of [the cringetober challenge](https://www.deviantart.com/a-flyleaf/journal/hashtagCringetober2020-856778861). They got drawn a few times [for ArtFight](https://a-flyleaf.github.io/artfight/for-me) and I think that's pretty cool <span style="display:inline-block;">B)</span>
+A couple designs that spawned in 2020 as part of [the cringetober challenge](https://www.deviantart.com/a-flyleaf/journal/hashtagCringetober2020-856778861). They've been drawn a few times [for ArtFight](https://a-flyleaf.github.io/artfight/etc/roster#toolbelt) and I think that's pretty cool <span style="display:inline-block;">B)</span>
 
 - All their art by yours truly is [on dA](https://www.deviantart.com/a-flyleaf/gallery?q=%23cringetober) and I do not feel like reuploading it <span style="display:inline-block;">\o/</span>
 
@@ -120,6 +120,4 @@ Minor/side character in [<i>You're gonna be the death of me</i>](https://a-flyle
 
 <div id="gallery">{%for art in site.art%}{%if art.tags contains "ws"%}<a href="{%include url.html%}{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.multi%}-ws{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
 
-Has also been drawn for ArtFight as of 2022; link TBA.
-
-<!--do i put the new fucker(s) here? DO i???? within the span of one (1) month they've already been drawn more than some other people here... EHH let's see how it goes, might say fuck it and make a new repo from the ground up-->
+Also went ahead and punted this one [to ArtFight](https://a-flyleaf.github.io/artfight/etc/roster#wolfskull).

@@ -19,3 +19,4 @@ title: changelog
 - August 1: [/newhell]({%include url.html%}/newhell) (for lack of a better title)
 - August 2: reconfigure art tagging
 	- redundant with the disaster crew profile galleries
+- August 6: better [ArtFight](https://a-flyleaf.github.io/artfight/etc/roster) links
