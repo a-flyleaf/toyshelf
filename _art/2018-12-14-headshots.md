@@ -6,7 +6,6 @@ permalink: art/headshots
 
 categories: disaster-crew
 tags: nico ivy ava tara vexus levi dodder
-multi: y
 
 caption: Three-fourths headshots of the whole disaster crew, including two versions (2012 + 2017) of everyone but the Caine siblings and Levi.
 ---

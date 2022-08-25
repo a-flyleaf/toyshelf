@@ -20,3 +20,4 @@ title: changelog
 - August 2: reconfigure art tagging
 	- redundant with the disaster crew profile galleries
 - August 6: better [ArtFight](https://a-flyleaf.github.io/artfight/etc/roster) links
+- August 25: no multi no problem (backend thing)

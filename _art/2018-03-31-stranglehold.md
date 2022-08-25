@@ -6,7 +6,6 @@ permalink: art/stranglehold
 
 categories: disaster-crew
 tags: ivy nico
-multi: y
 
 caption: |-
   Younger versions of Ivy and Nico in an intense pose: Ivy has one hand over one of Nico's eyes, her other hand covers his mouth, and she stares grimly at the viewer. Nico grabs at her lower wrist, while his other hand points a finger gun at his own head. A string wraps around their hands, flowing around fingers and wrists, intertwined.

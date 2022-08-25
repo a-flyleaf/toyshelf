@@ -6,7 +6,6 @@ permalink: art/eyestrain
 
 categories: disaster-crew
 tags: nico ivy dodder levi ava tara vexus
-multi: y
 
 caption: |-
   Sketch-silhouette portraits on black, most in front view, featuring the disaster crew in their associated and otherwise-symbolic colors.

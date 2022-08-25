@@ -6,7 +6,6 @@ permalink: art/artfight-assortment
 
 categories: misc
 tags: zero cringetober sawface ehr demon
-multi: y
 site: deviantart
 
 css: "table{margin-left:1em;} th{text-align:left; text-transform:uppercase; font-size:.85em;} tbody>tr:nth-of-type(odd){background:#efefef;} th:first-child,td:first-child{border-right:1px solid #d0d0d0;} h4:first-of-type{margin-top:.5em;} h3:last-of-type{text-transform:none; font-size:inherit; letter-spacing:0;} @media (prefers-color-scheme:dark){th:first-child,td:first-child{border-right:1px solid #808080;} tbody>tr:nth-of-type(odd){background:#303030;}}"

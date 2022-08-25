@@ -6,7 +6,6 @@ permalink: art/stylized-headshots
 
 categories: disaster-crew
 tags: ava nico ivy tara
-multi: y
 
 caption: |-
   A vertical composition of headshots, featuring:

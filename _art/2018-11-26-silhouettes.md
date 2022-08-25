@@ -6,7 +6,6 @@ permalink: art/silhouettes
 
 categories: disaster-crew
 tags: nico ivy ava tara vexus levi dodder
-multi: y
 site: deviantart
 
 caption: A row of silhouettes of the disaster crew, black figures on a solid saturated rectangle.

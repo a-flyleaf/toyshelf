@@ -6,7 +6,6 @@ permalink: art/menagerie
 
 categories: misc
 tags: nightpath slade sawface demon zero ehr species hellrabbit
-multi: y
 site: deviantart
 
 css: "#art img{border:0;}"

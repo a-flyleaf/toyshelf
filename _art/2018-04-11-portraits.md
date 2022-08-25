@@ -6,7 +6,6 @@ permalink: art/portraits
 
 categories: disaster-crew
 tags: nico ivy
-multi: y
 site: tumblr
 
 caption: |-
