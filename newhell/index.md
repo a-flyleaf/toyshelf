@@ -11,12 +11,17 @@ Pages spawned <b>August 1, 2022</b>. I have no idea if this is going to become a
 
 Everything is <u>extremely likely to change</u>, as new ideas do. For sanity's sake I'll only be updating these pages **monthly**, at least until/unless things get more solidified. I kinda just want to experiment with having an idea public from really early on <span style="display:inline-block;">\o/
 
+<p style="text-align:center;">+</p>
+
+August 25th addendum: Idea has not taken over my life as initially feared, so I'm tentatively letting myself edit this "early" to jot down what I've come up with in the interim. We'll see how the pace of future edits goes, if I need to keep restraining myself or not....
+
 ----
 <section>
 	<h2>current premise</h2>
-	<p>A sardonic worker inherits demonic powers, much to the chagrin of the protégé who was supposed to be next in line. Shenanigans ensue.</p>
+	<p>A sardonic worker inherits demonic powers, much to the chagrin of the protégé who was supposed to be next in line.</p>
 	
-	<p>Way, <em>way</em> more lighthearted (and less abstracted/more straightforward) than <a href="https://a-flyleaf.github.io/ygbtdm/">last round</a>. (probably. Theoretically,,)</p>
+	<p>Way, <em>way</em> more lighthearted (and less abstracted/more straightforward) than <a href="https://a-flyleaf.github.io/ygbtdm/">last round</a>. (probably. Theoretically,,)<br/>
+	Or maybe it’s a <a href="https://en.wikipedia.org/wiki/Sweeney_Todd:_The_Demon_Barber_of_Fleet_Street">dark comedy</a> <span style="display:inline-block;">¯\_(&nbsp;ツ&nbsp;)_/¯</span></p>
 	
 	<h2>footnotes thus far</h2>
 	<ul><li><a href="timeline">setting/timeline</a></li><li><a href="cast">cast</a></li></ul>
