@@ -13,7 +13,8 @@ Everything is <u>extremely likely to change</u>, as new ideas do. For sanity's s
 
 <p style="text-align:center;">+</p>
 
-August 25th addendum: Idea has not taken over my life as initially feared, so I'm tentatively letting myself edit this "early" to jot down what I've come up with in the interim. We'll see how the pace of future edits goes, if I need to keep restraining myself or not....
+August 25th addendum: Idea has not taken over my life as initially feared, so I'm tentatively letting myself edit this "early" to jot down what I've come up with in the interim. We'll see how the pace of future edits goes, if I need to keep restraining myself or not....  
+<b>September 19</b>: So for the record I didn't actually finish ↑ those edits, immediately thought of a good way to shorten the thing, and haven't been possessed again since so the new version hasn't been written down either <span style="display:inline-block;">:V</span> Maybe eventually...?
 
 ----
 <section>
