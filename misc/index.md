@@ -61,11 +61,8 @@ Flynn's whole-ass story, plus a mini gallery, is in [this shriblet](https://a-fl
 Notes to self aside, [here's the Flynn art]({%include url.html%}/art/flynnard) that made it here.
 
 ## "sawface"
-I have no idea what the hell spawned this thing, or the human that sometimes appears with it for that matter, but they sure do exist all right (and have since 2016). Any semblance of a character bio is also beyond me, but they Look Cool and That's What Matters™.
-
-<div id="gallery">{%for art in site.art%}{%if art.tags contains "sawface"%}<a href="{%include url.html%}{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.tags.size>1%}-sawface{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
-
-"sawface" is in quotes because it's a moniker I slapped on for ArtFight in 2021, not sure I'd call it a Proper Name. Speaking of ArtFight, check out [the showcase site](https://a-flyleaf.github.io/artfight/etc/roster#sawface) for some sawface art by other people!
+<figure><a href="{%include url.html%}/misc/sawface"><img src="{%include url.html%}/assets/img/sawface-tmp.png" alt=""/></a></figure>
+<p class="movin"><a href="{%include url.html%}/misc/sawface" class="box moved">Has its own page!</a></p>
 
 <h2 id="ehr">eel-horse-raptor</h2>
 <figure><a href="{%include url.html%}/misc/eel-horse-raptor"><img src="{%include url.html%}/assets/img/ehr-tmp.png" alt=""/></a></figure>
