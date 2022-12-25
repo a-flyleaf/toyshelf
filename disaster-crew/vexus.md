@@ -12,10 +12,10 @@ height: 4'04"/132.08cm (2017)
 summary: <abbr title="sad-mad">Smad</abbr> little dude. [Tara](tara)'s sibling, best friend of [Levi](levi)'s.
 
 info: |-
-  - Selectively mute (*not* deaf), which applies 99%\* of the time; to avoid people making a fuss over it, avoids everyone whenever possible. (\*The 1% used to be reserved for family. It's nearly 0% nowadays.) Doesn't go out of his way to be a jerk, usually.
+  - Selectively mute (*not* deaf), which applies 99%\* of the time; to avoid people making a fuss over it, avoids everyone whenever possible. Doesn't go out of his way to be a jerk, usually. (\*The 1% used to be reserved for family. Nowadays they don't get much.)
   - Sister's dead, shit sucks, moved house, outta luck; now what? Storyline somewhat uncertain, but probably involves revisiting Tara's old friends ([Nico](nico) & [Ivy](ivy)), dealing with his *new* friend Levi, and meeting some version of [Ava](ava).
   - Possibly vaguely aware of [Dodder](dodder), if the latter is story-relevant, in a "stop using my dead sister for your stupid culty self-help bullshit" way.
-  - Finally got a kitten after years of wanting in early 2012. Then let her out by accident and never saw her alive again.
+  - Finally got a kitten in early 2012, after years of wanting one. Then let her out by accident and never saw her alive again.
   - Keeps a venus flytrap in his post-move bedroom, as well as photos and mementos of Tara---the only traces of her existence on display in the whole house.
 
 design: |-
@@ -28,7 +28,7 @@ songs: |-
   - ["Good Grief" – Bastille](https://www.youtube.com/watch?v=LDY4Bf8Zwn8)
 
 voice: |-
-  - Cavetown, specifically in this one song that I don't remember. Don't thiiink it applied as much in general?
+  - Cavetown, specifically in one song that unfortunately I don't remember the name of. Don't thiiink the voice worked as much besides that?
   - "Joshua Talbott" in [a fake commercial](https://www.youtube.com/watch?v=BHPOZJe0Inc) (<i>The Onion</i>)
 
 trivia: |-

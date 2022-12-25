@@ -17,13 +17,14 @@ August 25th addendum: Idea has not taken over my life as initially feared, so I'
 <b>September 19</b>: So for the record I didn't actually finish ↑ those edits, immediately thought of a good way to shorten the thing, and haven't been possessed again since so the new version hasn't been written down either <span style="display:inline-block;">:V</span> Maybe eventually...?
 
 ----
-<section>
-	<h2>current premise</h2>
-	<p>A sardonic worker inherits demonic powers, much to the chagrin of the protégé who was supposed to be next in line.</p>
+<section markdown="1">
+## current premise
+A sardonic worker inherits demonic powers, much to the chagrin of the protégé who was supposed to be next in line.
+
+Way, *way* more lighthearted (and less abstracted/more straightforward) than [last round](https://a-flyleaf.github.io/ygbtdm/). (probably. Theoretically,,)  
+Or maybe it’s a [dark comedy](https://en.wikipedia.org/wiki/Sweeney_Todd:_The_Demon_Barber_of_Fleet_Street) <span style="display:inline-block;">¯\\\_(&nbsp;ツ&nbsp;)_/¯</span>
 	
-	<p>Way, <em>way</em> more lighthearted (and less abstracted/more straightforward) than <a href="https://a-flyleaf.github.io/ygbtdm/">last round</a>. (probably. Theoretically,,)<br/>
-	Or maybe it’s a <a href="https://en.wikipedia.org/wiki/Sweeney_Todd:_The_Demon_Barber_of_Fleet_Street">dark comedy</a> <span style="display:inline-block;">¯\_(&nbsp;ツ&nbsp;)_/¯</span></p>
-	
-	<h2>footnotes thus far</h2>
-	<ul><li><a href="timeline">setting/timeline</a></li><li><a href="cast">cast</a></li></ul>
+## footnotes thus far
+- [setting/timeline](timeline)
+- [cast](cast)
 </section>

@@ -27,7 +27,7 @@ Ordered chronologically by creation, more or less. Those with over 9 [artstuffs]
 </ul></nav>
 
 <h2 id="demon">doodle demon</h2>
-A funky lil figure that pops up throughout my school notebooks. [I drew it once for an art class]({%include url.html%}/art/3demons) and was told "This is your Garfield." I don't want to market it or myself in any substantial way, but if I *had* to, I guess this feller would make a nifty mascot? I'm thinking less Garfield and more [Dolossus](https://www1.flightrising.com/forums/frd/3034277/4#post_48272006)....
+A funky lil figure that pops up throughout my school notebooks. [I&nbsp;drew it once for an art class]({%include url.html%}/art/3demons) and was told "This is your Garfield." I&nbsp;don't want to market it or myself in any substantial way, but if I *had* to, I guess this feller would make a nifty mascot? I'm thinking less Garfield and more [Dolossus](https://www1.flightrising.com/forums/frd/3034277/4#post_48272006)....
 
 <div id="gallery">{%for art in site.art%}{%if art.tags contains "demon"%}<a href="{%include url.html%}{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.tags.size>1%}-demon{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
 

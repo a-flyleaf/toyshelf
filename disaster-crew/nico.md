@@ -14,7 +14,7 @@ summary: Half of the "disaster duo." Formerly an adventurous go-getter, currentl
 info: |-
   - 2012: gregarious, showy with a troublemaking streak, had anger issues.<br/>2017: pretty much #done with life, occasional jokester, still has anger issues.
   - It all started when his parents divorced...
-  - He and [Tara]({%include url.html%}/disaster-crew/tara) used to prank call scam lines and talk local delivery services into "updog"s. Nowadays he kills time by trying to get the kids in <i>Call of Duty</i> to stop screaming profanities—when, y'know, he's not yelling back.
+  - He and [Tara](tara) used to prank call scam lines and talk local delivery services into "updog"s. Nowadays he kills time by trying to get the kids in <i>Call of Duty</i> to stop screaming profanities—when, y'know, he's not yelling back.
   - Once wanted to be a lifeguard. The first time he tried to save someone, they both nearly drowned.
   - Plays a mean "Wonderwall." Enjoys karaoke night at the local bar, when he can get away with it.
 

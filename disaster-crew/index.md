@@ -17,7 +17,9 @@ Fast-forward to 2017--18. With my interest in <i>TFE</i> waning, my creative foc
 So here we are, in 2022, and they kinda just Exist (as they have for years) and I'm not doing anything else with them. While I've intermittently revisited certain concepts in other projects since, I don't plan on turning any of this into A Project (and if I *did* there could be significant changes), so I figured they'd be good candidates for this little website-experiment-thing.
 
 ### side note on years
-The "story" timeline has two distinct phases, 5 years apart: 2012 and 2017. It's based more on the dates I was developing things <abbr title="in real life">IRL</abbr> than any in-story reason. Yes, this renders it increasingly dated as time marches on. I don't know how to feel about that.
+The "story" timeline has two distinct phases, 5 years apart: 2012 and 2017. It's based more on the dates I was developing things <abbr title="in real life">IRL</abbr> than any in-story reason---but characterizations very much reflect the times, and would be different if shifted to a modern era.
+
+Which, yes, increasingly makes the whole thing a time capsule. I don't know how to feel about that.
 
 Anyway, all instances of years in profiles are 100% **in-universe** unless otherwise noted.
 
