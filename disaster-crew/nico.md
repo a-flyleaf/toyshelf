@@ -46,8 +46,10 @@ songs: |-
   - ["Freaking Out" – Mystery Skulls](https://www.youtube.com/watch?v=h6hcmWtkkHQ)
 
 voice: |-
-  - 2017 (serious): Liam O'Brien as Mitsuhiro Maniwa (<i>Paranoia Agent</i> dub) or Kenzo Tenma (<i>Monster</i> dub)
+  - 2017 (serious): Liam O'Brien as [Mitsuhiro Maniwa (<i>Paranoia Agent</i> dub)](https://youtu.be/rh7Vfskhsw8?t=258) or [Kenzo Tenma (<i>Monster</i> dub)](https://youtu.be/hYHOeFgbZEw?t=38)
   - 2017 (casual): "Peter Hartman" in [a fake commercial](https://www.youtube.com/watch?v=qr0P587Skoo) (<i>The Onion</i>)
+
+  It's About The Inflection
 
 trivia: |-
   - Originally named "Nathaniel '[Nate](https://bulbapedia.bulbagarden.net/wiki/Nate)' Pine(s)"; don't think I ever figured out whether the surname had an <i>S</i> at the end or not. The name still sounds fitting enough, but it got changed when he stopped being a pokémon person. New name derived from [<i>Nicotiana sylvestris</i>](https://en.wikipedia.org/wiki/Nicotiana_sylvestris).

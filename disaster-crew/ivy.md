@@ -31,7 +31,7 @@ songs: |-
   - ["Desperado" – Rihanna](https://www.youtube.com/watch?v=GSup7sP2IwQ) (2014–5)
 
 voice: |-
-  - 2012: Naomi McDonald as Claire Cooper (<i>The Amazing World of Gumball</i>)
+  - 2012: [Naomi McDonald as Clare Cooper (<i>The Amazing World of Gumball</i>)](https://www.youtube.com/watch?v=GydqsqaKKPs)
 
 trivia: |-
   - "Ivy" is based on "Ivory," one of the pre-English-release names people gave the <i>Pokémon Black2/White2</i> [girl protag](https://bulbapedia.bulbagarden.net/wiki/Rosa). The original plant correlation ended up, ahem, *clinging*.

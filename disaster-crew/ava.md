@@ -32,7 +32,7 @@ songs: |-
   - ["Pavlov's Daughter" – Regina Spektor](https://www.youtube.com/watch?v=dViqe8E6kGA)
 
 voice: |-
-  - general?: Jillian Ashcraft as Monika (<i>Doki Doki Literature Club!</i>)
+  - general?: [Jillian Ashcraft as Monika (<i>Doki Doki Literature Club!</i>)](https://www.youtube.com/watch?v=K0eU_rbGm1M)
   - Could've sworn there was a different 2017 one but I forgot.
 
 trivia: |-

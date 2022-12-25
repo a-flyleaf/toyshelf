@@ -31,7 +31,8 @@ songs: |-
   - ["Wasted Youth" – Fletcher](https://www.youtube.com/watch?v=tCX2axvbE4o)
   - ["I Feel Like I'm Drowning" – Two Feet](https://www.youtube.com/watch?v=0HLIMp2rkFc)
 
-voice: Linda Cardellini as Wendy Corduroy (<i>Gravity Falls</i>)
+voice: |-
+  [Linda Cardellini as Wendy Corduroy (<i>Gravity Falls</i>)](https://www.youtube.com/watch?v=AOQdzPLS4og) (don't read into the video choice, it just had better audio than other compilations)
 
 trivia: |-
   - Name is derived from [<i>Taraxacum officinale</i>](https://en.wikipedia.org/wiki/Taraxacum_officinale) and an anagram of "-cenia" (from [<i>Sarracenia flava</i>](https://en.wikipedia.org/wiki/Sarracenia_flava)).
