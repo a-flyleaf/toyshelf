@@ -44,7 +44,7 @@ Characters are not copyrighted commodities, to me. While it would bug me to see 
 *Hell yeah, dude.*
 
 ## Who even are you?
-I don't know how you found <i>a-flyleaf's toyshelf</i> at <span class="code">a hyphen flyleaf dot github dot io</span> without knowing who a-flyleaf is (and if you did I am very curious, I don't use analytics, [consider saying hello](https://a-flyleaf.github.io/about#obligatory-contact-section)), but!:
+I don't know how you found <i>a-flyleaf's toyshelf</i> at <span class="code">a hyphen flyleaf dot github dot io</span> without knowing who a-flyleaf is (and if you did I am very curious, I don't use analytics, [consider saying hello](https://a-flyleaf.github.io/about#contact)), but!:
 
 Hi, I'm a-flyleaf, and I've been drawing and storytelling since I was a little kid. I used to write & illustrate stories about my family as anthropomorphic animals going on whimsical fantasy adventures, and now I bury myself in bullet points about regular-ass *Homo sapiens* and their dysfunctional relationships. Unrelated to that, the artstuff has also spawned some weird critters over the years, which I went ahead and made homes for here too. I end my sentences with periods a lot less frequently than this paragraph may imply.
 

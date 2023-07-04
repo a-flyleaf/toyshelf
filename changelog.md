@@ -4,17 +4,18 @@ title: changelog
 ---
 log of changes
 
-## main construction
-### May 2022
+## 2022
+### main construction
+#### May
 - 14--15: core content ([about]({%include url.html%}/about) + [disaster crew]({%include url.html%}/disaster-crew)), initial layouts
 - 24--25: [art feed]({%include url.html%}/art), layout redo
 - 27--28: navigation, shitton of art
 
-### June 2022
+#### June
 - 6--7, 9, 14--16: ~~random creachers~~ [miscellaneous characters]({%include url.html%}/misc)
 - 17: dark mode, general cleanup; <b>[site launch](https://www.deviantart.com/a-flyleaf/art/toyhouse-but-make-it-my-city-now-919614287)</b>
 
-## post-launch
+### post-launch
 - June 24: assorted minor fixes
 - July 22, 24: more fixes
 - August 1: [/newhell]({%include url.html%}/newhell) (for lack of a better title)
@@ -25,3 +26,6 @@ log of changes
 - September 9: individual page for ["sawface"]({%include url.html%}/misc/sawface)
 	- [Zero]({%include url.html%}/misc/zero) and [eel-horse-raptor]({%include url.html%}/misc/eel-horse-raptor) were separate at launch
 - December 24: fixes + copyediting, disaster crew voiceclaim links
+
+## 2023
+- July 4: assorted copyedits
