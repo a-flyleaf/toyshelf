@@ -2,7 +2,7 @@
 layout: 1
 title: changelog
 ---
-log of changes
+log of changes, not including art additions
 
 ## 2022
 ### main construction
