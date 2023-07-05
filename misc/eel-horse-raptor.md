@@ -7,7 +7,7 @@ imgsrc: ohai-thar
 info: |-
   Had a school assignment in 2017 that involved combining three random animals; I choose a moray eel, a horse, and a velociraptor. This thing happened, and got drawn throughout the semester (and sometimes elsewhere). Wouldn't be surprised if it broke out of the same amalgamation factory as [Zero](zero).
   
-  Oh, and I guess it saves a kid?? Aforementioned semester topped off with a four-page comic, in which that happened. I had no memory of any of that lore until revisiting the files for the sake of this site, so uh, weigh that with however much salt seems appropriate.
+  Oh, and I guess it saves a kid?? Aforementioned semester topped off with a four-page comic, in which the kid-saving happened. I had no memory of any of that lore until revisiting the files for the sake of this site, so uh, weigh that with however much salt seems appropriate.
 
 trivia: |-
   - Reasoning for the chimera'd choices: I was very much a dinosaur kid and velociraptors have [badass claws](https://www.livescience.com/17485-velociraptors-killer-claws.html) + I'd taken a marine biology class over a previous semester and the animal I chose to spotlight in my final was the moray eel (<span style="display:inline-block;"><3</span>, [luv them](https://en.wikipedia.org/wiki/Pharyngeal_jaw)) + hor?ses???? for some reason????????

@@ -28,7 +28,7 @@ songs: |-
   - ["Good Grief" – Bastille](https://www.youtube.com/watch?v=LDY4Bf8Zwn8)
 
 voice: |-
-  - Cavetown, specifically in one song that unfortunately I don't remember the name of. Don't thiiink the voice worked as much besides that?
+  - Cavetown, specifically in one (early?) song that unfortunately I don't remember the name of. Don't thiiink the voice worked as much besides that?
   - "Joshua Talbott" in [a fake commercial](https://www.youtube.com/watch?v=BHPOZJe0Inc) (<i>The Onion</i>)
 
 trivia: |-

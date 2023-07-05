@@ -14,7 +14,7 @@ summary: Random little girl in a creepy-ass mansion in the middle of the woods, 
 info: |-
   - Tends to come off as a charming little girl scout with a knife behind her back, an impression she exploits for fun---except instead of a knife, she loves taxidermy, and it's not behind her back at all because she's happy to elaborate. Big motormouth tendencies.
   - One grandfather taught her how to skin a squirrel and the other read classic novels as bedtime stories. They made some *mistakes* with their youngest son, but far as Ava's concerned, they get an A+ for her own parenting.
-  - Probably died in 2012—although there are other versions of the story where she's still around 5 years later. In this case she's made a little name for herself in the local gay bar, in which she drinks absolutely nothing, listens to almost anyone for however long they talk, and advises people on becoming their best selves. Adult!Ava is also possibly friends with [Flynn](https://a-flyleaf.github.io/shriblets/2019-05-wiki/) and later [Nico](nico).
+  - Probably died in 2012—although there are other versions of the story where she's still around 5 years later. In this case she's made a little name for herself in the local gay bar, in which she drinks absolutely nothing, listens to almost anyone for however long they talk, and advises people on becoming their best selves. Adult!Ava is also possibly friends with [Flynn](../misc#roommates) and later [Nico](nico).
   - Has no WiFi at home and acts technologically illiterate when convenient.
   - Plays a mean, vulgar game of Cards Against Humanity, and can do it with a straight face if she wants to.
 

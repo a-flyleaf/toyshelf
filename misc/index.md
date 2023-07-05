@@ -40,7 +40,7 @@ A funky lil figure that pops up throughout my school notebooks. [I&nbsp;drew it 
 <div id="gallery">{%for art in site.art%}{%if art.tags contains "nightpath"%}<a href="{%include url.html%}{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.tags.size>1%}-nightpath{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
 
 <h2 id="slade">Slade Auctor</h2>
-A young ’yote made for ['Souls RPG](https://soulsrpg.com/forum/) in 2010 (first reference posted 2011), and essentially a self-insert. Like Nightpath, he got RP'd sometimes but I don't feel the need to do much else with him. He gets used a lot more often for random art, though.
+A young ’yote made for [’Souls RPG](https://soulsrpg.com/forum/) in 2010 (first reference posted 2011), and essentially a self-insert. Like Nightpath, he got RP'd sometimes but I don't feel the need to do much else with him. He gets used a lot more often for random art, though.
 
 <div id="gallery">{%for art in site.art%}{%if art.tags contains "slade"%}<a href="{%include url.html%}{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.tags.size>1%}-slade{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
 

@@ -33,3 +33,7 @@ Or maybe it’s a [dark comedy](https://en.wikipedia.org/wiki/Sweeney_Todd:_The_
 <b>December 24</b>: Sailing completely over prior developments, lately I have just been screwing around with the central duo's designs and idly entertaining the idea of like, What If It Was A Heartwarming Holiday Special about the Meaning of Friendship and Optimism and Everything Good (In Which the Protagonist Dies at the Beginning and *Must* Learn a Lesson to ?Live, But Also Who's to Judge Morals Like This Anyway). Idk, I've half-listened to An Amount of cheesy Christmas movies over the past few weeks.
 
 Dunno what to do with these pages so I'm leaving them untouched from previous edits, for now....
+
+<p style="text-align:center;">+</p>
+
+<b>July 4, 2023</b>: ↑That did not stick either. Or at least not the parts about being a Heartwarming Holiday Special; "protagonist dies," perhaps.
