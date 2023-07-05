@@ -28,4 +28,7 @@ log of changes
 - December 24: fixes + copyediting, disaster crew voiceclaim links
 
 ## 2023
-- July 4: assorted copyedits
+\* = page made but intentionally not linked anywhere (yet?)
+
+- January 11: disaster crew "links" draft\*
+- July 4: assorted copyedits, disaster crew "origins" page\*
