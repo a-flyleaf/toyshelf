@@ -32,3 +32,4 @@ log of changes, not including art additions
 
 - January 11: disaster crew "links" draft\*
 - July 4: assorted copyedits, disaster crew "origins" page\*
+- August 1: teeny lil fixes
