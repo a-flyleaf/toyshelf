@@ -9,7 +9,7 @@ css: h3{text-transform:none; letter-spacing:0.015em; font-size:1em;} h3:nth-of-t
 ## Why "Toyshelf"?
 A riff on the [Toyhouse](https://toyhou.se/) name, and more relevant to me personally. The original thought was that all these characters are effectively "shelved"; they're mostly kinda just Sitting There, Existing, not taking part in any ongoing or previously-certain story.
 
-I say "original thought" because this hasn't been 100% true [from the]({%include url.html%}/misc#hellrabbit) [getgo]({%include url.html%}/misc#ws), and as of August 2022 it is [*extra* not true]({%include url.html%}/newhell) because imagination went brr again and I decided to dump stuff here early.
+I say "original thought" because this hasn't been 100% true [from the]({%include url.html%}/misc#hellrabbit) [getgo]({%include url.html%}/misc#ws). In August&nbsp;2022 I also dumped a bunch of [extremely premature concepts]({%include url.html%}/newhell) here, for no particular reason except that I felt like it at the time.
 
 Some shelves are dustier than others, let's put it that way <span style="display:inline-block;">:V</span>
 

@@ -33,3 +33,9 @@ log of changes, not including art additions
 - January 11: disaster crew "links" draft\*
 - July 4: assorted copyedits, disaster crew "origins" page\*
 - August 1: teeny lil fixes
+
+<br>
+Barely touched this site in 2024, besides other miniscule fixes that weren't published until later.
+
+## 2025
+- January 6: linked [aforementioned "origins" writeup]({%include url.html%}/disaster-crew/origins) on disaster crew index

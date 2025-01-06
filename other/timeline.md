@@ -41,3 +41,5 @@ over a <em style="font-style:normal;text-transform:uppercase;">decade</em> what 
 
 sketches from 4/27, 8/15, and 9/9 (all 2018). moved description to actual misc page, but otherwise decided against publishing (again) because I still think the design kinda slaps and don't want to ~release~ it just yet
 -->
+
+<!--2023-2024: OMORI HELL* YEARS (*positive), with 2024 basically being DWRP hell (mixed). started toying with TFE revival in December 2024; as of writing (January 2025) I just wanna get the creative gears turning again literally anywhere-->

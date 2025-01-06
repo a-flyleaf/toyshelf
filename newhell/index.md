@@ -37,3 +37,7 @@ Dunno what to do with these pages so I'm leaving them untouched from previous ed
 <p style="text-align:center;">+</p>
 
 <b>July 4, 2023</b>: ↑That did not stick either. Or at least not the parts about being a Heartwarming Holiday Special; "protagonist dies," perhaps.
+
+----
+
+<b>January 2, 2025</b>: literally what was I doing with any of this. i don't remember
