@@ -1,11 +1,11 @@
 [2023 at some point]
-newhell stuffs: update actual page(s), tagging n captions n shit
-combine ygbtdm minor characters to one page, hellrabbit+wolfskull both; re-tag accordingly
-	also fix/check links from both misc and about; for misc, have a span with the wolf-skull id
-split both art page & assets folder by year, this is fuckign unwieldy
-2023 artstuffs (scrounge the collection, there's stuff)
-https://www.deviantart.com/a-flyleaf/art/whole-lotta-busts-953061845 < forgot this, just use the full thing with no fades. and uh, on that note I will need to redo my tag links LMAO; characters, roundup tag would be useful (for my own ref really), site as a tag...
-	since everyone is characters for now start by mass find+replacing the existing variable; site can stay as-is, just add "mine," and it can be backend only
+- newhell stuffs: update actual page(s), tagging n captions n shit
+- combine ygbtdm minor characters to one page, hellrabbit+wolfskull both; re-tag accordingly
+	- also fix/check links from both misc and about; for misc, have a span with the wolf-skull id
+- split both art page & assets folder by year, this is fuckign unwieldy
+- 2023 artstuffs (scrounge the collection, there's stuff)
+- https://www.deviantart.com/a-flyleaf/art/whole-lotta-busts-953061845 < forgot this, just use the full thing with no fades. and uh, on that note I will need to redo my tag links LMAO; characters, roundup tag would be useful (for my own ref really), site as a tag...
+	- since everyone is characters for now start by mass find+replacing the existing variable; site can stay as-is, just add "mine," and it can be backend only
 
 
 [2025-01-06] ok so the entirety of /newhell can like... it can Stay Here but retroactively it's like disaster-crew but less fleshed out. idek. reconfigure the hell

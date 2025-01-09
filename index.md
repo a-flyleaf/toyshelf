@@ -1,6 +1,6 @@
 ---
 layout: 1
-title: a-flyleaf's toyshelf
+title: a-flyleaf’s toyshelf
 ---
 It's like a [Toyhou.se](https://toyhou.se/) page, but Mine™
 
