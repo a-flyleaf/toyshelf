@@ -1,5 +1,5 @@
 [2023 at some point]
-- newhell stuffs: update actual page(s), tagging n captions n shit
+- newhell stuffs: update[/combine?] actual page(s), tagging n captions n shit
 - combine ygbtdm minor characters to one page, hellrabbit+wolfskull both; re-tag accordingly
 	- also fix/check links from both misc and about; for misc, have a span with the wolf-skull id
 - split both art page & assets folder by year, this is fuckign unwieldy
@@ -9,3 +9,5 @@
 
 
 [2025-01-06] ok so the entirety of /newhell can like... it can Stay Here but retroactively it's like disaster-crew but less fleshed out. idek. reconfigure the hell
+
+[2025-01-06] disaster-crew extra pages (links & timeline) can.. go... somewhere. eventually. maybe add a "journals" section (called smthn else) for text-based stuff like that
