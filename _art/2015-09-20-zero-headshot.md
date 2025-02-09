@@ -6,7 +6,6 @@ permalink: art/zero-headshot
 
 categories: misc
 tags: zero
-site: deviantart
 
 caption: Colored sketch of Zero.
 ---
