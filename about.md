@@ -9,14 +9,12 @@ css: h3{text-transform:none; letter-spacing:0.015em; font-size:1em;} h3:nth-of-t
 ## Why "Toyshelf"?
 A riff on the [Toyhouse](https://toyhou.se/) name, and more relevant to me personally. The original thought was that all these characters are effectively "shelved"; they're mostly kinda just Sitting There, Existing, not taking part in any ongoing or previously-certain story.
 
-I say "original thought" because this hasn't been 100% true [from the]({%include url.html%}/misc#hellrabbit) [getgo]({%include url.html%}/misc#ws). In August&nbsp;2022 I also dumped a bunch of [extremely premature concepts]({%include url.html%}/newhell) here, for no particular reason except that I felt like it at the time.
-
-Some shelves are dustier than others, let's put it that way <span style="display:inline-block;">:V</span>
+I say "original thought" because this hasn't been 100% true from the getgo, with one of the site's earliest additions being [a minor character from an actual project]({%include url.html%}/misc#hellrabbit). Some shelves are dustier than others, let's put it that way <span style="display:inline-block;">:V</span>
 
 ## Why not use Toyhouse?
 ### The Cool and Friendly Reason
 - Coding everything from scratch offers me <em style="text-transform:uppercase;font-style:normal;">all</em> the customization. At the time of writing every page follows the same template, but hypothetically, I *could* deck every single one out individually with CSS if I wanted to; no premium membership necessary!
-- Relatedly, I am a strong proponent of [owning one's platform](https://a-flyleaf.github.io/blog/own-your-platform). Is Toyhouse a social media website? Not really, I don't think. But would I rather go "my city now" anyway? *Heck yeah.*
+- Relatedly, I am a strong proponent of [owning one's platform](https://a-flyleaf.github.io/blog/own-your-platform). Is Toyhouse a social media website? Not really, I don't think. But would I rather go "my city now" and build it myself from the ground up anyway? *Heck yeah.*
 
 ### the snooty elitist reason
 - I have an irrational internalized-cringe-borne aversion to treating characters like "toys"; if they don't have a story, I'd hesitate to call them full-fledged Characters™.
@@ -59,4 +57,4 @@ Techy explanation for the "backend site generation" date-fudging that comes up w
 - To grab the image URL, the layout pulls from the page date in <abbr title="year-month-day">YYYY-MM-DD</abbr> format.
 - Because it *only* looks for date information, different art posts can't share a date.
 
-There is probably a workaround, or a better way to do it from the ground up. I'll figure that out if I need to, but for now this doesn't come up often enough to warrant it.
+Are there better ways to do this? Yes! Did I think of them at the time of making the site? No! It doesn't come up often enough for me to implement major changes retroactively, though. For now.

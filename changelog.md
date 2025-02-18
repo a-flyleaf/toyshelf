@@ -38,5 +38,5 @@ log of changes, not including art additions
 Barely touched this site in 2024, besides other miniscule fixes that weren't published until later.
 
 ## 2025
-- January 6: linked [aforementioned "origins" writeup]({%include url.html%}/disaster-crew/origins) on disaster crew index
-- February 17: re-linked font from main repo
+- January 6: link [aforementioned "origins" writeup]({%include url.html%}/disaster-crew/origins) on disaster crew index
+- February 17: re-link font from main repo, assorted copyedits
