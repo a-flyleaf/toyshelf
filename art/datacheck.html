@@ -38,6 +38,15 @@ layout: none
 		<li><code>[additional thumbnails]</code> puts the tag in the hover text & opens the thumbnail in a new tab. <b>image code is broken for this column</b> since even on the localhost it lags, wow</li>
 	</ul>
 	
+	<!--
+		https://shopify.github.io/liquid/filters/uniq/ doesn't seem to work, F... tried https://stackoverflow.com/questions/13638967/listing-unique-data-from-liquid-objects -> https://shopify.github.io/liquid/filters/map/ but got the same result.
+		{%for a in site.art%}{{a.categories}}{%endfor%} is an array as-is; I think "uniq" just doesn't work with jekyll :V
+		
+	<p>categories: {%for a in site.art%}{{a.categories}}{%endfor%}
+		tags: [nvm this didn't work]</p>
+	-->
+	
+	
 	<table>
 		<thead><tr>
 			<th>layout</th>
@@ -55,7 +64,7 @@ layout: none
 			<td>{{a.date|date:"%F"}}</td>
 			<td class="title"><b class="txt">{{a.title}}</b><br>
 				<a href="{{a.url}}">{{a.permalink}}</a></td>
-			<td class="img"><a href="{%include url.html%}/assets/img/art/{{a.date|date:'%F'}}.png"><img src="{%include url.html%}/assets/img/art/{{a.date|date:'%F'}}-tn.jpg" height="100px"></a></td>
+			<td class="img"><a href="{%include url.html%}/assets/img/art/{{a.date|date:'%F'}}.png"><img srrc="{%include url.html%}/assets/img/art/{{a.date|date:'%F'}}-tn.jpg" height="100px" width="100px"></a></td>
 			<td>{{a.categories}}</td>
 			<td class="tags"><ul>{%for t in a.tags%}<li>{{t}}{%if forloop.last!=true%},{%endif%}</li>{%endfor%}</ul></td>
 			<td{%unless a.site%} class="empty"{%endunless%}>{{a.site}}</td>
@@ -64,7 +73,7 @@ layout: none
 				|replace:"<iframe","<iiframe"
 				|replace:"</iframe>","</iframe> [YOUTUBE EMBED]"}}</div></td>
 			<td class="tn{%unless a.tags.size>1%} empty{%endunless%}">{%unless a.tags.size==1%}{%for t in a.tags%}<a href="{%include url.html%}/assets/img/art/{{a.date|date:'%F'}}-tn-{{t}}.jpg" target="_blank">
-				<img src="{%include url.html%}/assets/img/art/{{a.date|date:'%F'}}-tn-{{t}}.jpg" height="50px" title="{{t}}">
+				<img srrc="{%include url.html%}/assets/img/art/{{a.date|date:'%F'}}-tn-{{t}}.jpg" height="50px" width="50px" title="{{t}}">
 			</a>{%endfor%}{%endunless%}</td>
 		</tr>{%endfor%}</tbody>
 	</table>
