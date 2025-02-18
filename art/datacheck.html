@@ -1,0 +1,40 @@
+---
+layout: none
+---
+<!doctype html><html lang="en">
+<head>
+	<meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>toyshelf/_art datacheck</title>
+	<style>
+		h1,table{font-family:monospace;}
+		h1 a{background:#efefef; text-decoration:none; color:inherit;}
+		
+		table{border-collapse:collapse;}
+		th{text-align:left;}
+		th,td{padding:.5em; border:1px solid #efefef; vertical-align:top;}
+		.odd{background:#f7f7f7;}
+	</style>
+</head><body>
+
+	<h1><a href="{%include url.html%}">toyshelf</a>/_<a href="{%include url.html%}/art">art</a> datacheck</h1>
+	<p>you know what the fuck it is</p>
+	
+	<p>this site uses individual .md files instead of a giant .yml, but I <em>think</em> this covers all necessary attributes<br>
+	<code><b>[IMG]</b></code> uses the base thumbnail & links to the fullsize image</p>
+	
+	<table>
+		<thead><tr>
+			<th>layout</th>
+			<th>date</th>
+			<th>title & permalink</th>
+			<th>[IMG]</th>
+		</tr></thead><tbody>{%for a in site.art%}<tr class="{%cycle 'odd','even'%}">
+			<td><b>{{a.layout}}</b>.html</td>
+			<td>{{a.date|date:"%F"}}</td>
+			<td><b>{{a.title}}</b><br>
+				<a href="{{a.url}}">{{a.permalink}}</a></td>
+			<td><a href="{%include url.html%}/assets/img/art/{{a.date|date:'%F'}}.png"><img src="{%include url.html%}/assets/img/art/{{a.date|date:'%F'}}-tn.jpg"></a></td>
+		</tr>{%endfor%}</tbody>
+	</table>
+
+</body></html>
