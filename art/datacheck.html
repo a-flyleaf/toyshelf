@@ -8,19 +8,35 @@ layout: none
 	<style>
 		h1,table{font-family:monospace;}
 		h1 a{background:#efefef; text-decoration:none; color:inherit;}
+		code{font-weight:bold;}
+		a:hover,a:active,a:focus{opacity:.5;}
 		
 		table{border-collapse:collapse;}
 		th{text-align:left;}
-		th,td{padding:.5em; border:1px solid #efefef; vertical-align:top;}
+		th,td{padding:.5em; border:1px solid #efefef; vertical-align:top; max-width:200px;}
 		.odd{background:#f7f7f7;}
+		.empty{background:rgba(0,0,0,.15);}
+		.txt{font-family:sans-serif; font-size:.85em;}
+		
+		.img{line-height:0;}
+		.tags{max-width:100px;}
+		.tags ul{list-style-type:none;} .tags ul,.tags li{margin:0;padding:0;} .tags li{display:inline-block;}
+		.scroll{max-height:100px; overflow-y:auto; font-size:.5em;}
+		.tn{max-width:none;} tbody .tn{font-size:0; padding:2.5px;}
+		.tn img{margin:2.5px;}
 	</style>
 </head><body>
 
 	<h1><a href="{%include url.html%}">toyshelf</a>/_<a href="{%include url.html%}/art">art</a> datacheck</h1>
 	<p>you know what the fuck it is</p>
 	
-	<p>this site uses individual .md files instead of a giant .yml, but I <em>think</em> this covers all necessary attributes<br>
-	<code><b>[IMG]</b></code> uses the base thumbnail & links to the fullsize image</p>
+	<p>this site uses individual .md files instead of a giant .yml, but I <em>think</em> this covers all necessary attributes</p>
+	
+	<ul>
+		<li><code>[IMG]</code> uses the base thumbnail & links to the fullsize image. <b>remove the forced height</b> every so often to make sure it's all the right size, too!</li>
+		<li><code>caption</code> & <code>[content]</code> are NOT markdownify'd, for ease of link-checking. replaced youtube embeds tho</li>
+		<li><code>[additional thumbnails]</code> puts the tag in the hover text & opens the thumbnail in a new tab. <b>image code is broken for this column</b> since even on the localhost it lags, wow</li>
+	</ul>
 	
 	<table>
 		<thead><tr>
@@ -28,12 +44,28 @@ layout: none
 			<th>date</th>
 			<th>title & permalink</th>
 			<th>[IMG]</th>
+			<th>categories</th>
+			<th>tags</th>
+			<th>site</th>
+			<th>caption</th>
+			<th>[content]</th>
+			<th class="tn">[additional thumbnails]</th>
 		</tr></thead><tbody>{%for a in site.art%}<tr class="{%cycle 'odd','even'%}">
 			<td><b>{{a.layout}}</b>.html</td>
 			<td>{{a.date|date:"%F"}}</td>
-			<td><b>{{a.title}}</b><br>
+			<td class="title"><b class="txt">{{a.title}}</b><br>
 				<a href="{{a.url}}">{{a.permalink}}</a></td>
-			<td><a href="{%include url.html%}/assets/img/art/{{a.date|date:'%F'}}.png"><img src="{%include url.html%}/assets/img/art/{{a.date|date:'%F'}}-tn.jpg"></a></td>
+			<td class="img"><a href="{%include url.html%}/assets/img/art/{{a.date|date:'%F'}}.png"><img src="{%include url.html%}/assets/img/art/{{a.date|date:'%F'}}-tn.jpg" height="100px"></a></td>
+			<td>{{a.categories}}</td>
+			<td class="tags"><ul>{%for t in a.tags%}<li>{{t}}{%if forloop.last!=true%},{%endif%}</li>{%endfor%}</ul></td>
+			<td{%unless a.site%} class="empty"{%endunless%}>{{a.site}}</td>
+			<td class="txt"><div class="scroll">{{a.caption}}</div></td>
+			<td class="txt"><div class="scroll">{{a.content
+				|replace:"<iframe","<iiframe"
+				|replace:"</iframe>","</iframe> [YOUTUBE EMBED]"}}</div></td>
+			<td class="tn{%unless a.tags.size>1%} empty{%endunless%}">{%unless a.tags.size==1%}{%for t in a.tags%}<a href="{%include url.html%}/assets/img/art/{{a.date|date:'%F'}}-tn-{{t}}.jpg" target="_blank">
+				<img src="{%include url.html%}/assets/img/art/{{a.date|date:'%F'}}-tn-{{t}}.jpg" height="50px" title="{{t}}">
+			</a>{%endfor%}{%endunless%}</td>
 		</tr>{%endfor%}</tbody>
 	</table>
 
