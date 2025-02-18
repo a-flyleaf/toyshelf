@@ -67,4 +67,4 @@ Anyway, *behold,* an utter dearth of [names](cast)! Part separations are tentati
 
 If that last part sounds anticlimactic it's because it is, for now <span style="display:inline-block;">¯\\\_(&nbsp;ᐛ&nbsp;)_/¯</span> That said, *love me a good classical tragedy!!*
 
-[← <i>back to base</i>]({%include url.html%}/newhell)
+[← <i>back to base</i>]({%include url.html%}/newhell/oldhell)

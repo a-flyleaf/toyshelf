@@ -49,4 +49,4 @@ He'll, uh, get developed more if/as I figure out more stuff about the setting, a
 
 &nbsp;
 
-[← <i>back to base</i>]({%include url.html%}/newhell)
+[← <i>back to base</i>]({%include url.html%}/newhell/oldhell)
