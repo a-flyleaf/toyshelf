@@ -2,7 +2,7 @@
 layout: 1
 title: miscellaneous randos
 
-css: "#gallery{width:auto; margin-left:0;} #gallery a{width:31%; marin:.15em 1%;} nav{padding:1em 1em 1.25em; font-size:.85em; margin-top:1.25em;} nav h3{margin-top:0; display:inline-block; font-size:.85em;} nav li a{text-decoration:none;} figure{margin-bottom:.5em; text-align:center;} .movin{text-align:center;} .moved{font-weight:bold;} .moved:after{content:' →';}"
+css: "#gallery{width:auto; margin-left:0;} #gallery a{width:31%;} nav{padding:1em 1em 1.25em; font-size:.85em; margin-top:1.25em;} nav h3{margin-top:0; display:inline-block; font-size:.85em;} nav li a{text-decoration:none;} figure{margin-bottom:.5em; text-align:center;} .movin{text-align:center;} .moved{font-weight:bold;} .moved:after{content:' →';}"
 ---
 Assorted designs that I've remembered through the years. Most aren't Developed Characters with set personalities and backstories and all that jazz, they kinda just Exist and spark joy so here they are~
 
