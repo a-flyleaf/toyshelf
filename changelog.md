@@ -39,4 +39,4 @@ Barely touched this site in 2024, besides other miniscule fixes that weren't pub
 
 ## 2025
 - January 6: link [aforementioned "origins" writeup]({%include url.html%}/disaster-crew/origins) on disaster crew index
-- February 17: re-link font from main repo, assorted copyedits
+- February 17: re-link font from main repo, assorted copyedits, reconfigure "new hell" art
