@@ -1,8 +1,6 @@
 [2023 at some point]
 - combine ygbtdm minor characters to one page, hellrabbit+wolfskull both; re-tag accordingly
 	- also fix/check links from both misc and about; for misc, have a span with the wolf-skull id
-- split art page by year, this is fuckign unwieldy (+so's the assets folder, but that generally doesn't need to be revisited! it's fine as a dumping grounds)
-- 2023 artstuffs (scrounge the collection, there's stuff)
 - https://www.deviantart.com/a-flyleaf/art/whole-lotta-busts-953061845 < forgot this, just use the full thing with no fades. and uh, on that note I will need to redo my tag links LMAO; characters, roundup tag would be useful (for my own ref really), site as a tag...
 	- since everyone is characters for now start by mass find+replacing the existing variable; site can stay as-is, just add "mine," and it can be backend only
 
