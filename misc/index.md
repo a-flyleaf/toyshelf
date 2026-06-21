@@ -20,6 +20,7 @@ Ordered chronologically by creation, more or less. Those with over 9 [artstuffs]
 	<li><a href="{%include url.html%}/misc/sawface"><b>“sawface”</b></a></li>
 	<li><a href="{%include url.html%}/misc/ehr"><b>eel-horse-raptor</b></a></li>
 	<li><a href="#species">scrapped species</a></li>
+	<li><a href="#sika">“sika”</a></li>
 	<li><a href="#cringetober">cringetober duo</a></li>
 	<li><a href="#ena"><i>ENA</i> fan-characters</a></li>
 	<li><a href="#hellrabbit">hellrabbit</a></li>
@@ -73,16 +74,14 @@ Around early 2018 a couple friends invited me to build a RP with custom worlds a
 
 <div id="gallery">{%for art in site.art%}{%if art.tags contains "species"%}<a href="{%include url.html%}{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.tags.size>1%}-species{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
 
-<!--
 ## "sika"
-At one point in 2018 I read [Junji Ito's <i>Fragments of Horror</i>](https://en.wikipedia.org/wiki/Fragments_of_Horror) and was inspired by [one story](https://junjiitomanga.fandom.com/wiki/Lingering_Farewell)'s idea of the "after-image," in which a deceased person lingers long after death---in a way that feels very real to both the people around them and the deceased themself.
+At one point in 2018 I read [Junji Ito's <i>Fragments of Horror</i>](https://en.wikipedia.org/wiki/Fragments_of_Horror) and was inspired by [one story](https://junjiitomanga.fandom.com/wiki/Lingering_Farewell)'s idea of the "after-image," in which a deceased person lingers long after death---in a way that feels very real to both the people around them and the deceased themself. 
 
-In retrospect I don't think I changed enough from the base concept to really consider it my own, but if other one-offs can be here, so can this design <span style="display:inline-block;">¯\\\_( :V )_/¯</span> Major difference was that, instead of just fading away, the person turned into a deer-cryptid, slowly transforming over the course of the story until running off for good at the end.
+In retrospect I don't think I changed enough from the base concept to really consider it my own, but if other one-off designs can be here, so can this one <span style="display:inline-block; padding-right:.25em;">¯\\\_( :V )_/¯</span> Major difference was that, instead of fading away, the person turned into a deer-cryptid, slowly transforming over the course of the story until running off at the end.
 
 <div id="gallery">{%for art in site.art%}{%if art.tags contains "sika"%}<a href="{%include url.html%}{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.tags.size>1%}-sika{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
 
-Yes, there are some visual similarities to [a later, far-more-developed character](https://a-flyleaf.github.io/ygbtdm/cast/kay-lin). No, they're not related. I don't think it's a complete coincidence either, though....
--->
+Yes, there are some visual similarities to [a later, far-more-developed character](https://a-flyleaf.github.io/ygbtdm/cast/kay-lin). No, they're not related. I don't remember whether the design trait recycling was intentional.
 
 <h2 id="cringetober">cringetober duo</h2>
 <figure><a href="https://www.deviantart.com/a-flyleaf/art/cringetober-except-it-s-november-860644053"><img src="{%include url.html%}/assets/img/cringetober.png" alt=""/></a></figure>

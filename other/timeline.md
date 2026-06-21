@@ -24,7 +24,8 @@ At some point I picked up <i>TFE</i> again, possibly around 2015-ish? It got red
 - 2017--8: revisited <b>disaster duo</b> (and Hugh/[Tara]({%include url.html%}/disaster-crew/tara) & sister/[Vexus]({%include url.html%}/disaster-crew/vexus))
 	- renamed Nate/Nathan to <i>Nico</i>
 	- spawned [Ava]({%include url.html%}/disaster-crew/ava), [Levi]({%include url.html%}/disaster-crew/levi), and [Dodder]({%include url.html%}/disaster-crew/dodder)
-- 2018 January: [RP species]({%include url.html%}/misc#species)<!--*-->
+- 2018 January: [RP species]({%include url.html%}/misc#species)
+- 2018 April: ["sika"]({%include url.html%}/misc#sika) (initial concept, sketches happened later)
 - late 2018: <b><i>404</i></b> (then-untitled; offshoot of <i>Doki Doki Literature Club!</i> obesssion that started earlier in the year)
 - 2018 December: permission granted to OC-ify Zero
 - 2020 October: [cringetober]({%include url.html%}/misc#cringetober)
@@ -32,14 +33,6 @@ At some point I picked up <i>TFE</i> again, possibly around 2015-ish? It got red
 - 2021: [<i>ENA</i> phase]({%include url.html%}/misc#ena); duck-rabbit in March, then "sona" in April
 - 2021 September: [hellrabbit]({%include url.html%}/misc#hellrabbit) (first sketches, concept existed prior)
 - 2021 December: [wolf-skull]({%include url.html%}/misc#ws) (first posted sketches, existed prior)
-- 2022 June: [wake up new fuckers dropped]({%include url.html%}/newhell) <!--idk most names so leaving this here for now-->
+- 2022 June: ["new hell"]({%include url.html%}/newhell) (assorted concepts)
 
-over a <em style="font-style:normal;text-transform:uppercase;">decade</em> what the shit man.
-
-<!--
-- mid-/late 2018: ["sika"]({%include url.html%}/misc#sika) (sketches, have a google doc from April but <abbr title="can’t be assed">cba</abbr> to sketch-dig)
-
-sketches from 4/27, 8/15, and 9/9 (all 2018). moved description to actual misc page, but otherwise decided against publishing (again) because I still think the design kinda slaps and don't want to ~release~ it just yet
--->
-
-<!--2023-2024: OMORI HELL* YEARS (*positive), with 2024 basically being DWRP hell (mixed). started toying with TFE revival in December 2024; as of writing (January 2025) I just wanna get the creative gears turning again literally anywhere-->
+In 2023--2025 I dove right back to the fandom mines, first with fanart then with 90% RP-writing. Something something suppressed quarter-life crisis. Concepts for an original <i>TFE</i> revival have been thrown around since late 2024, though as of writing (2026 June) they have yet to take shape proper. The "new hell" characters also continue to linger and float about, as does the odd disaster crew thought. All are increasingly removed from their original concepts.
