@@ -31,7 +31,7 @@ log of changes, not including art additions
 \* = page made but intentionally not linked anywhere (yet?)
 
 - January 11: disaster crew "links" draft\*
-- July 4: assorted copyedits, disaster crew "origins" page\*
+- July 4: assorted copyedits, disaster crew "origins" page
 - August 1: teeny lil fixes
 
 <br>
@@ -46,3 +46,6 @@ henceforth not noting copyedits & fixes unless substantial
 	- reconfigured "new hell" art & pages
 	- backend datacheck page
 	- resized overlarge thumbnails
+
+## 2026
+- June 21: added [sika]({%include url.html%}/misc/sika)
