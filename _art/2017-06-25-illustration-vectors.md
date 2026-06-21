@@ -16,4 +16,4 @@ caption: |-
   - The ehr drags the human underwater, where other monsters in similar colors await.
     - In the final, it's clearer that the ehr is actually dragging the human under.
 ---
-Assignment: three sequential illustrations. Also see [the sketch versions]({%include url.html%}/art/illustration-sketches). (The timeline's a bit weird because of how I set the files up (both originals were last edited on the 18th, and finals on the 25th) but I'm just gonna leave it split by polish anyway.
+Assignment: three sequential illustrations. Also see [the sketch versions]({%include url.html%}/art/illustration-sketches). (The timeline's a bit weird because of how I set the files up (both originals were last edited on the 18th, and finals on the 25th) but I'm just gonna leave it split by polish anyway.)

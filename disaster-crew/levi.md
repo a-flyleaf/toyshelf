@@ -12,7 +12,7 @@ height: 5'05"/165.1cm
 summary: |-
   [Vexus](vexus)' bestest best buddy pal bestie in the whole wide world, which makes Vexus a very lucky guy.
   
-  (Side note: Uses both he/him and she/her pronouns. It alternates in the notes below.)
+  (side note: Uses both he/him and she/her pronouns. It alternates in the notes below.)
 
 info: |-
   - Horrifically underappreciated, in her own opinion; doesn't bother with most people. Often mistaken for a shy, quiet nerd; the masses, she's convinced, misunderstand her motive.
@@ -24,7 +24,7 @@ design: |-
   - <b>main shape</b>: None in particular, kind of a mishmash.
   - <b>color association(s)</b>: Saturated purple.
   - A Nerd™; glasses and braces are key, everything else not so much.
-  - Tends to go for tighter clothing.
+  - Tends to wear tighter clothing.
   - Would follow the trends if she had the budget but all she's got are these shitty hand-me-down sneakers. ---No, actually, fuck the mainstream and their overpriced fabrics. Trends are for posers.
 
 songs: |-

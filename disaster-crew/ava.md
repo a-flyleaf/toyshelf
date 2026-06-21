@@ -22,7 +22,7 @@ design: |-
   - <b>main shape</b>: Rounded hourglass, with occasional points.
   - <b>color association(s)</b>: Yellow, overall. Outfits skew towards natural colors, notably brown (kid) and green (adult).
   - Extremely unlikely to dress in modern/trendy clothes, no matter what year.
-    - Her adult default looks kinda contemporary anyway because the artist does not understand fashion.
+    - Her adult outfits look kinda contemporary anyway because the artist does not understand fashion.
   - Has a prosthetic foot, which may look jarringly mechanical in her usual environments; this dissonance is intentional.
     - The side this is on has never been consistent, no. Not intentional. I wanna say it *should* be her left (viewer's right), though.
     - Not always the same prosthetic! In 2012 it's more dynamic (I usually reference [this one](https://www.blatchfordus.com/products/mini-bladext/)); in later years the foot looks more like the one shoes are made for.

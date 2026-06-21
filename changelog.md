@@ -21,7 +21,7 @@ log of changes, not including art additions
 - August 1: [/newhell]({%include url.html%}/newhell) (for lack of a better title)
 - August 2: reconfigure art tagging
 	- redundant with the disaster crew profile galleries
-- August 6: better [ArtFight](https://a-flyleaf.github.io/artfight/etc/roster) links
+- August 6: better [ArtFight](https://a-flyleaf.github.io/artfight/etc/roster) links<!--deliberately leaving this as etc/roster since it's not character-specific-->
 - August 25: no multi no problem (backend thing)<!--had a "multi: y" for any art with multiple characters (multiple thumbnails), but swapped out "if.multi" for "if.art.tags.size>1"-->
 - September 9: individual page for ["sawface"]({%include url.html%}/misc/sawface)
 	- [Zero]({%include url.html%}/misc/zero) and [eel-horse-raptor]({%include url.html%}/misc/eel-horse-raptor) were separate at launch

@@ -34,9 +34,9 @@ Anyway, all instances of years in profiles are 100% **in-universe** unless other
 ### all (publicly-shared) art
 - deviantArt tag: [disaster crew](https://www.deviantart.com/a-flyleaf/gallery?q=%23disastercrew)
 - tumblr tag (archived\*): [#coniferous vines](https://aflyleaf3.wordpress.com/tag/coniferous-vines/?order=asc)
-	- \*The photo post formatting is weird and the tags are out of order. Such is auto-archival....
+	- \*The photo post formatting is weird and the tags are out of order. Such is automated archival....
 
-Some of this art is [copied over here]({%include url.html%}/art/disaster-crew); most isn't, either because I don't like it enough to back up or just haven't gotten around to it.
+Some of this art is [copied over here]({%include url.html%}/art/disaster-crew). Most isn't. Either I don't like it enough to back up, or I just haven't been compelled to do it.
 
 ### other pages on my site
 - [2018 height chart](https://a-flyleaf.github.io/shriblets/2018-08-heighthell/) + [2022 revisitening](https://a-flyleaf.github.io/shriblets/2022-04-1617-draggable/)

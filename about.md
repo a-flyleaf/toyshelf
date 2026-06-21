@@ -14,14 +14,14 @@ I say "original thought" because this hasn't been 100% true from the getgo, with
 ## Why not use Toyhouse?
 ### The Cool and Friendly Reason
 - Coding everything from scratch offers me <em style="text-transform:uppercase;font-style:normal;">all</em> the customization. At the time of writing every page follows the same template, but hypothetically, I *could* deck every single one out individually with CSS if I wanted to; no premium membership necessary!
-- Relatedly, I am a strong proponent of [owning one's platform](https://a-flyleaf.github.io/blog/own-your-platform). Is Toyhouse a social media website? Not really, I don't think. But would I rather go "my city now" and build it myself from the ground up anyway? *Heck yeah.*
+- Relatedly, I am a strong proponent of having as much control over one's postings as possible. Is Toyhouse a data-munching social media hellscape? Not really, granted. But would I rather go "my city now" and build it myself from the ground up anyway? *Heck yeah.*
 
 ### the snooty elitist reason
 - I have an irrational internalized-cringe-borne aversion to treating characters like "toys"; if they don't have a story, I'd hesitate to call them full-fledged Characters™.
 	- <small>Obligate disclaimer that this is a Me&nbsp;Thing, not a value judgment on Toyhouse or its users! Hell, if I'd discovered Toyhouse earlier into my internet adventures, I might be an avid user today.</small>
 - When I *do* have Characters™, I want their traits to come across through, y'know, *the story,* and not by spelling everything out in wiki-esque character profiles.
 - *And yet!* I am not immune to "characters" without established canons. [Some of them]({%include url.html%}/misc) are designs that have stuck around for some significant degree of time (as in I didn't just draw them once and then forget); [others]({%include url.html%}/disaster-crew) are interconnected *somehow*, possibly, but since I haven't gotten around to coalescing any sort of Story Canon besides the context of those connections, they occupy a similar canonical limbo.
-- Figured a Toyhouse-esque site would be a good compromise between having an info hub and committing to an Official Repository™, so here we are!
+- Figured a Toyhouse-esque site would be a good compromise between having individual infohubs and committing to an Official Repository™, so here we are!
 
 TL;DR am full of self
 
@@ -33,7 +33,7 @@ Characters are not copyrighted commodities, to me. While it would bug me to see 
 ## Can I \[do something with] *your* characters, specifically?
 *Go for it, man.* If you're making money off it that's going to make me sad, though. A royalty would be nice. <span style="inline-block;">:(</span>
 
-(Should go without saying, but I would **very strongly appreciate** credit in some way, since you are using *my characters specifically*. (I would appreciate credit for looser ~inspiration~ too, as covered above, but I recognize that's more of a gray area.) And please don't suggest I endorse whatever you're doing unless I actually, like, *do*.)
+(Should go without saying, but I would **very strongly appreciate** credit in some way, since you are using *my characters specifically*. (I would like credit for looser ~inspiration~ too, as covered above, but I recognize that's more of a gray area.) And please don't suggest I endorse whatever you're doing unless I actually, like, *do*.)
 
 (P.S. Have I mentioned I probably want to see the thing you make? I want to see the thing you make!!)
 

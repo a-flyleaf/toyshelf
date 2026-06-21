@@ -17,4 +17,4 @@ trivia: |-
 ---
 <div id="gallery">{%for art in site.art%}{%if art.tags contains "zero"%}<a href="{%include url.html%}{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.tags.size>1%}-{{page.nm}}{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
 
-Not shown: art by other people [courtesy ArtFight](https://a-flyleaf.github.io/artfight/etc/roster#zero). Go check it out!
+Not shown: art by other people [courtesy ArtFight](https://a-flyleaf.github.io/artfight/roster#zero). Go check it out!

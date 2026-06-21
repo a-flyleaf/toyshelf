@@ -41,7 +41,7 @@ A funky lil figure that pops up throughout my school notebooks. [I&nbsp;drew it 
 <div id="gallery">{%for art in site.art%}{%if art.tags contains "nightpath"%}<a href="{%include url.html%}{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.tags.size>1%}-nightpath{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
 
 <h2 id="slade">Slade Auctor</h2>
-A young ’yote made for [’Souls RPG](https://soulsrpg.com/forum/) in 2010 (first reference posted 2011), and essentially a self-insert. Like Nightpath, he got RP'd sometimes but I don't feel the need to do much else with him. He gets used a lot more often for random art, though.
+A young ’yote made for [’Souls RPG](https://soulsrpg.com/forum/) in 2010 (first reference posted 2011), and essentially a self-insert. Like Nightpath, he got RP'd sometimes but I don't feel the need to do much else with him. He gets used a lot more often than her for random art, though.
 
 <div id="gallery">{%for art in site.art%}{%if art.tags contains "slade"%}<a href="{%include url.html%}{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.tags.size>1%}-slade{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
 
@@ -54,7 +54,7 @@ A young ’yote made for [’Souls RPG](https://soulsrpg.com/forum/) in 2010 (fi
 
 Scrapped characters from [<i>The Firebird Effect</i>](https://a-flyleaf.github.io/projects/tfe) that got developed a whole lot more than their merged version. (They could probably have their own pages but, for lack of a better category, they're getting shoehorned here for now.) Both candidates for minor characters in the [disaster duo]({%include url.html%}/disaster-crew)'s storyline, Flynn primarily and Ren by extension.
 
-Flynn's whole-ass story, plus a mini gallery, is in [this shriblet](https://a-flyleaf.github.io/shriblets/2019-05-wiki/); Ren has no equivalent.
+Flynn's whole-ass story, plus a mini gallery, is in [this shriblet](https://a-flyleaf.github.io/shriblets/2019-05-wiki); Ren has no equivalent.
 
 - uhhh I don't feel like reposting all the wiki stuff unless they're gonna get their own pages
 - although unless I wanna overhaul the tag system they *should* just have a disaster-crew page for ease of linking
@@ -70,7 +70,7 @@ Notes to self aside, [here's the Flynn art]({%include url.html%}/art/flynnard) t
 <p class="movin"><a href="{%include url.html%}/misc/eel-horse-raptor" class="box moved">Has its own page!</a></p>
 
 <h2 id="species">scrapped species</h2>
-Around early 2018 a couple friends invited me to build a RP with custom worlds and species. This is the thing I made up. I don't remember anything else about it, nor have I drawn it much since, but I figured I'd shelve it here anyway.
+Around early 2018, a couple friends invited me to build a RP with custom worlds and species. This is the thing I made up. I don't remember anything else about it, nor have I drawn it much since, but I figured I'd shelve it here anyway.
 
 <div id="gallery">{%for art in site.art%}{%if art.tags contains "species"%}<a href="{%include url.html%}{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.tags.size>1%}-species{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
 
@@ -86,7 +86,7 @@ Yes, there are some visual similarities to [a later, far-more-developed characte
 <h2 id="cringetober">cringetober duo</h2>
 <figure><a href="https://www.deviantart.com/a-flyleaf/art/cringetober-except-it-s-november-860644053"><img src="{%include url.html%}/assets/img/cringetober.png" alt=""/></a></figure>
 
-A couple designs that spawned in 2020 as part of [the cringetober challenge](https://www.deviantart.com/a-flyleaf/journal/hashtagCringetober2020-856778861). They've been drawn a few times [for ArtFight](https://a-flyleaf.github.io/artfight/etc/roster#toolbelt) and I think that's pretty cool <span style="display:inline-block;">B)</span>
+A couple designs that spawned in 2020 as part of [the cringetober challenge](https://www.deviantart.com/a-flyleaf/journal/hashtagCringetober2020-856778861). They've been drawn a few times [for ArtFight](https://a-flyleaf.github.io/artfight/roster#toolbelt) and I think that's pretty cool <span style="display:inline-block;">B)</span>
 
 - All their art by yours truly is [on dA](https://www.deviantart.com/a-flyleaf/gallery?q=%23cringetober) and I do not feel like reuploading it <span style="display:inline-block;">\o/</span>
 
@@ -116,4 +116,4 @@ Minor/side character in [<i>You're gonna be the death of me</i>](https://a-flyle
 
 <div id="gallery">{%for art in site.art%}{%if art.tags contains "ws"%}<a href="{%include url.html%}{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.tags.size>1%}-ws{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
 
-Also went ahead and punted this one [to ArtFight](https://a-flyleaf.github.io/artfight/etc/roster#wolfskull).
+Also went ahead and punted this one [to ArtFight](https://a-flyleaf.github.io/artfight/roster#wolfskull).
