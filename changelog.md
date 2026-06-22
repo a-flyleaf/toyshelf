@@ -48,4 +48,6 @@ henceforth not noting copyedits & fixes unless substantial
 	- resized overlarge thumbnails
 
 ## 2026
-- June 21: added [sika]({%include url.html%}/misc/sika)
+- June 21:
+	- added [sika]({%include url.html%}/misc/sika)
+	- finished a [technicolor Zero profile from 2025]({%include url.html%}/misc/zero-profile)

@@ -15,7 +15,7 @@ trivia: |-
   - I use he/him out of habit but anything goes, really. Weird lizards need not for obligate genders or pronouns <span style="display inline-block;">\o/</span>
   - Come to think of it, I'm not even sure if Zero's a "lizard." Or a mammal. Or a dragon. Or... anything in particular anymore, really? Zero is Zero.
   
-  <br>Zero also has [a very neon blue custom profile](zero-wip). It's mostly redundant with the info above, but there's more of it and also it's in technicolor.
+  <br>Zero also has [a very neon blue custom profile](zero-profile). It's mostly redundant with the info above, but there's more of it and also it's in technicolor.
 
 ---
 <div id="gallery">{%for art in site.art%}{%if art.tags contains "zero"%}<a href="{%include url.html%}{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.tags.size>1%}-{{page.nm}}{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
