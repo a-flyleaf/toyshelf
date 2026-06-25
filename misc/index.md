@@ -124,4 +124,4 @@ A horrible, horrible amalgamate creature which spawned in mid-2023, proceeded to
 
 <div id="gallery">{%for art in site.art%}{%if art.tags contains "brame"%}<a href="{%include url.html%}{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.tags.size>1%}-ws{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
 
-It is mostly here to archive pre-2026 art. As of 2026 I've started using [a new gallery site](https://a-flyleaf.github.io/art-2026/), where you can find it in [three horrible dimensions](https://a-flyleaf.github.io/art-2026/brame).
+It is mostly here to archive pre-2026 art. As of 2026 I've started using [a new gallery site](https://a-flyleaf.github.io/art-2026/), where you can find it in [three terribe dimensions](https://a-flyleaf.github.io/art-2026/brame).
