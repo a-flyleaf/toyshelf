@@ -25,6 +25,7 @@ Ordered chronologically by creation, more or less. Those with over 9 [artstuffs]
 	<li><a href="#ena"><i>ENA</i> fan-characters</a></li>
 	<li><a href="#hellrabbit">hellrabbit</a></li>
 	<li><a href="#ws">“wolf-skull”</a></li>
+	<li><a href="#brame">brame animal.</a></li>
 </ul></nav>
 
 <h2 id="demon">doodle demon</h2>
@@ -117,3 +118,10 @@ Minor/side character in [<i>You're gonna be the death of me</i>](https://a-flyle
 <div id="gallery">{%for art in site.art%}{%if art.tags contains "ws"%}<a href="{%include url.html%}{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.tags.size>1%}-ws{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
 
 Also went ahead and punted this one [to ArtFight](https://a-flyleaf.github.io/artfight/roster#wolfskull).
+
+<h2 id="brame">brame animal.</h2>
+A horrible, horrible amalgamate creature which spawned in mid-2023, proceeded to collect dust for a few years, and got revisited with a fullbody design in 2026.
+
+<div id="gallery">{%for art in site.art%}{%if art.tags contains "brame"%}<a href="{%include url.html%}{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.tags.size>1%}-ws{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
+
+It is mostly here to archive pre-2026 art. As of 2026 I've started using [a new gallery site](https://a-flyleaf.github.io/art-2026/), where you can find it in [three horrible dimensions](https://a-flyleaf.github.io/art-2026/brame).

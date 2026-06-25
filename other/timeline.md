@@ -34,6 +34,6 @@ At some point I picked up <i>TFE</i> again, possibly around 2015-ish? It got red
 - 2021 September: [hellrabbit]({%include url.html%}/misc#hellrabbit) (first sketches, concept existed prior)
 - 2021 December: [wolf-skull]({%include url.html%}/misc#ws) (first posted sketches, existed prior)
 - 2022 June: ["new hell"]({%include url.html%}/newhell) (assorted concepts)
-- 2022 ???: [brame]()
+- 2023 May: [brame]() (first concepts; revisiting in early/mid-2026)
 
 In 2023--2025 I dove right back to the fandom mines, first with fanart then with 90% RP-writing. Something something suppressed quarter-life crisis. Concepts for an original <i>TFE</i> revival have been thrown around since late 2024, though as of writing (2026 June) they have yet to take shape proper. The "new hell" characters also continue to linger and float about, as does the odd disaster crew thought. All are increasingly removed from their original concepts.
