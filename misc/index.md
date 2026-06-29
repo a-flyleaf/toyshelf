@@ -18,7 +18,7 @@ Ordered chronologically by creation, more or less. Those with over 9 [artstuffs]
 	<li><a href="{%include url.html%}/misc/zero"><b>Zero</b></a></li>
 	<li><a href="#roommates">Flynn Smith & Ren Brandt</a></li>
 	<li><a href="{%include url.html%}/misc/sawface"><b>“sawface”</b></a></li>
-	<li><a href="{%include url.html%}/misc/ehr"><b>eel-horse-raptor</b></a></li>
+	<li><a href="{%include url.html%}/misc/eel-horse-raptor"><b>eel-horse-raptor</b></a></li>
 	<li><a href="#species">scrapped species</a></li>
 	<li><a href="#sika">“sika”</a></li>
 	<li><a href="#cringetober">cringetober duo</a></li>
