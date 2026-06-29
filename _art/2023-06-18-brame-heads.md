@@ -12,4 +12,4 @@ css: "#date{display:none;}"
 caption: |-
   Three headshots of the brame animal.
 ---
-The dates on these are all over the place, but since they're not in a roundup (yet?) you get them all together in one here.
+The dates on these are all over the place, but since they're not in a roundup (yet?) you get them all together in one here. Ignore the dog.

@@ -40,6 +40,6 @@ caption: |-
   > 
   > I love you.<br>I'm sorry.
 ---
-Normally these would be scattered in a monthly roundup, but it has been >3 years (as of writing in 2026) and I just want these out in the world. So, here you go, custom deerbeast concept wall.
+Normally these would be scattered in a monthly roundup, but it has been >3 years (as of writing in 2026) since the last compilation, and I just want these out in the world. So, here you go, custom deerbeast concept wall.
 
 [This image of a dissected deer head](https://en.wikipedia.org/wiki/File:DeerBotFlyReaumur.jpg) was the initial inspiration, and I took its name from [this breakcore album](https://rubymydear.bandcamp.com/album/brame). Word snippets from [Wiktionary](https://en.wiktionary.org/wiki/brame).
