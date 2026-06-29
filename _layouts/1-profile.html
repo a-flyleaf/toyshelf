@@ -11,7 +11,7 @@ class: profile
 <div id="summary">{{page.summary|markdownify}}</div>{%endif%}
 
 <h2>info</h2>
-{{page.info|markdownify}}{%if page.design%}
+{%capture inc-url%}{%include url.html%}{%endcapture%}{{page.info|markdownify|replace:"INC_URL",inc-url}}{%if page.design%}
 
 <h3>design notes</h3>
 {{page.design|markdownify}}{%endif%}{%if page.songs%}

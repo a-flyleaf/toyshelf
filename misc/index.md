@@ -14,7 +14,7 @@ Ordered chronologically by creation, more or less. Those with over 9 [artstuffs]
 	<h3>skip to</h3><ul>
 	<li><a href="#demon">doodle demon</a></li>
 	<li><a href="#nightpath">Nightpath</a></li>
-	<li><a href="#slade">Slade Auctor</a></li>
+	<li><a href="{%include url.html%}/misc/slade-auctor"><b>Slade Auctor</b></a></li>
 	<li><a href="{%include url.html%}/misc/zero"><b>Zero</b></a></li>
 	<li><a href="#roommates">Flynn Smith & Ren Brandt</a></li>
 	<li><a href="{%include url.html%}/misc/sawface"><b>“sawface”</b></a></li>
@@ -42,9 +42,8 @@ A funky lil figure that pops up throughout my school notebooks. [I&nbsp;drew it 
 <div id="gallery">{%for art in site.art%}{%if art.tags contains "nightpath"%}<a href="{%include url.html%}{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.tags.size>1%}-nightpath{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
 
 <h2 id="slade">Slade Auctor</h2>
-A young ’yote made for [’Souls RPG](https://soulsrpg.com/forum/) in 2010 (first reference posted 2011), and essentially a self-insert. Like Nightpath, he got RP'd sometimes but I don't feel the need to do much else with him. He gets used a lot more often than her for random art, though.
-
-<div id="gallery">{%for art in site.art%}{%if art.tags contains "slade"%}<a href="{%include url.html%}{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn{%if art.tags.size>1%}-slade{%endif%}.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
+<figure><a href="{%include url.html%}/misc/slade-auctor"><img src="{%include url.html%}/assets/img/slade-tmp.png" alt=""/></a></figure>
+<p class="movin"><a href="{%include url.html%}/misc/slade-auctor" class="box moved">Has his own page!</a></p>
 
 ## Zero
 <figure><a href="{%include url.html%}/misc/zero"><img src="{%include url.html%}/assets/img/zero-tmp.png" alt=""/></a></figure>
