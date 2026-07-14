@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>sleepless behavior.html</title>
+  <style>
+    /*
+    @media (prefers-color-scheme:dark){
+      body{background:#202020; color:#efefef;}
+      a{color:#80cfff;}
+    }
+    */
+    
+    /*help https://redketchup.io/color-picker
+    …actually tho I'm just gonna use grayscale & insert hues later. easier that way*/
+    *{box-sizing:border-box; font-size:100%; margin:0; padding:0;}
+    header,main,nav,section,footer{display:block;}
+    body{background:#808080; font-family:cambria,georgia,sans-serif; color:#000; padding:1em; background-image:url(https://placehold.co/100x100/808080/606060.jpg);} /*subtle repeating texture? grungy.*/
+    #wrap{max-width:900px; text-align:center; margin:0 auto;}
+    img{max-width:100%; height:auto;}
+    a{color:inherit; text-decoration-style:dashed;} a:hover,a:active,a:focus{color:#fff; text-decoration:none;}
+    
+    #box{border:1px solid #000;}
+    
+    header{line-height:0;}
+    
+    nav{background:#404040; color:#9f9f9f; padding:.25em 1em; text-transform:uppercase; font-family:verdana,sans-serif; font-size:.825em; letter-spacing:.05em; border-bottom:2px solid #808080;}
+    nav ul{list-style-type:none;}
+    nav li{display:inline-block;} nav li:after{content:" .";}/*include the space for more*/ #last:after{content:none;}
+    nav a{text-decoration:none; display:inline-block; padding:0 .25em;}
+    
+    main{background:#9f9f9f; padding:1em; text-align:left;}
+    section{overflow:auto;}
+    #float{text-align:center;}
+    @media only screen and (min-width:400px){#float{float:left; padding-right:.5em;}} /*intentionally small bc it's a transparent image*/
+    p{line-height:1.35;} p+p{margin-top:1em;}
+    
+    hr{display:none;}
+    footer{font-style:italic; font-size:.825em;}
+    footer ul{list-style-type:none; margin:.5em 0;}
+  </style>
+</head><body><div id="wrap">
+  <div id="box">
+    <header><img src="https://placehold.co/900x200/606060/808080.jpg" alt=""></header>
+    <nav><ul>
+      <li><a href="#">avatars</a></li>
+      <li><a href="#">tables</a></li>
+      <li id="last"><a href="#">other graphics</a></li>
+    </ul></nav>
+    <main>
+      <section>
+        <div id="float"><img src="https://placehold.co/200x200/dfdfdf/808080.jpg" alt=""></div>
+        <p>A nice lil page to store ancient graphics for my coyote boy <a href="toyshelf/misc/slade-auctor">Slade</a>, who you can read about at the linked page! (Art of him by me can also be found at that page. It would make sense to merge it all here, but <em>egh</em> maybe another time.)</p>
+        <p>Lorem ipsum dolor sit amet.</p>
+      </section>
+    </main>
+  </div>
+  <hr>
+  <footer>
+    <ul><li>a page from <a href="">a-flyleaf’s toyshelf</a></li>
+    </ul><ul id="credits">
+      <li>graphics by respective owners</li>
+      <li>banner photo by ?????</li>
+    </ul>
+    <ul><li>2026 July&nbsp;13–14</li></ul></footer>
+</div><!--/wrap--></body></html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

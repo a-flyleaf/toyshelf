@@ -52,4 +52,4 @@ henceforth not noting copyedits & fixes unless substantial
 	- added [sika]({%include url.html%}/misc#sika)
 	- finished & linked a [neon Zero profile from 2025]({%include url.html%}/misc/zero-profile)
 - June 24: added [brame animal.]({%include url.html%}/misc#brame)
-- June 29: individual page for [Slade&nbsp;Auctor]({%include url.html%}/misc/slade)
+- June 29: individual page for [Slade&nbsp;Auctor]({%include url.html%}/misc/slade-auctor)
