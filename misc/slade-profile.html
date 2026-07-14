@@ -2,7 +2,13 @@
 layout: none
 
 intro: |-
-  A small spotlight for some very, *very* old graphics made for my coyote lad [Slade](INCURL/misc/slade-auctor). All credits link back to [players](https://wiki.soulsrpg.com/Players/Players) on the forum Slade was created for, ’Souls RPG.
+  Roleplaying is one of the first ways I was social on the world wide web. For the unfamiliar: You take a character and write about them doing things, and other people reply and write about their own characters doing things with yours. Collaborative, improvisational storytelling---although kid!me didn't think of it that way. I just thought it was a fun way to kill time.
+  
+  Of all the short-lived, one-off characters I've spawned for RPs, [Slade&nbsp;Auctor](INCURL/misc/slade) has managed to be the most memorable. *Why,* I'm not exactly sure. He was made for [’Souls&nbsp;RPG](https://soulsrpg.com/forum/), a forum I was frankly a little too young for but which welcomed me with open arms anyway. At the suggestion of some newbie character creation guide (which I cannot find again for the life of me), I modeled Slade loosely after myself. His surname translates, simply, to "[author](https://en.wiktionary.org/wiki/auctor)."
+  
+  So, yes, he's a writer. No, he doesn't have opposable thumbs. On paper <small>(pun not intended)</small> he might've been turned into a thumb-having not!werewolf, with time and character development; in practice he never got there. Nowadays he sports a thick coat of amber, encased 5ever in my files and now this Toyshelf site.
+  
+  And yes, I designed this specific page as a #throwback to early-aughts web design. Colors and grungy textures and shadow effects and a photoshopped banner with song lyrics! Wow!! Did you know I cut my teeth on HTML/CSS through RP post templates?
 
 ---
 <!--initially coded on neocities on my iPad over the 2026-07-13+14 midnight hours-->
@@ -19,6 +25,7 @@ intro: |-
     img{max-width:100%; height:auto;}
     a{color:inherit; text-decoration-style:dashed; text-underline-offset:.125em;} a:hover,a:active,a:focus{color:#fff; text-decoration:none; text-shadow:0 0 .25em #000;} a:focus{outline:solid #000;}
 		::selection{background:#404040; color:#efefef; background:rgba(0,0,0,.5); text-shadow:0 0 .25em #000,0 0 .5em #000;} img::selection{background:0;}
+		small{font-size:.85em;}
     
     #box{border:1px solid #000; box-shadow:0 0 .5em;}
     
@@ -31,12 +38,19 @@ intro: |-
     
     main{background:#bfbfbf; padding:1em; text-align:left;}
     section{overflow:auto;}
-    #float{text-align:center;}
-    @media only screen and (min-width:400px){#float{float:left; padding-right:.5em;}} /*intentionally small bc it's a transparent image*/
-		.m-wrap{max-width:45em; margin:0 auto;}
-    p{line-height:1.35;} p+p{margin-top:1em;}
+    p{line-height:1.35; font-size:1.15em;} p+p{margin-top:1em;}
     
-    hr{display:none;}
+		#float{text-align:center; padding-bottom:1em;} #float img{pointer-events:none;}
+    @media only screen and (min-width:400px){#float{float:left; padding:0;}}
+		figcaption{font-style:italic;}
+		.m-wrap{max-width:42.5rem; margin:0 auto;}
+		#intro p:first-of-type::first-line{font-variant:small-caps; letter-spacing:0.05em;}
+		
+		hr{background:0; border:0; border-bottom:2px solid; margin:2em auto 1em; max-width:35%;}
+		
+		h2{border-bottom:2px dashed #808080;}
+		h2 .m-wrap{font-size:1.5em; color:#202020;}
+    
     footer{font-style:italic; font-size:.825em;}
     footer ul{list-style-type:none; margin:.5em 0;}
   </style>
@@ -49,8 +63,8 @@ intro: |-
       <li id="last"><a href="#">other graphics</a></li>
     </ul></nav>
     <main>
-      <section class="m-wrap">
-        <div id="float"><img src="https://placehold.co/200x200/dfdfdf/808080.jpg" alt=""></div>
+      <section id="intro" class="m-wrap">
+        <figure id="float"><img src="{%include url.html%}/other/img/slade-avatars/by Titmouse.png" alt=""><figcaption><small>art by <a href="https://wiki.soulsrpg.com/Players/Titmouse">Titmouse</a></small></figcaption></figure>
         {%capture inc-url%}{%include url.html%}{%endcapture%}{{page.intro|markdownify|replace:"INCURL",inc-url}}
       </section>
     </main>
