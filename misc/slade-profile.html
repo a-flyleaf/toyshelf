@@ -27,7 +27,7 @@ intro: |-
 		::selection{background:#404040; color:#efefef; background:rgba(0,0,0,.5); text-shadow:0 0 .25em #000,0 0 .5em #000;} img::selection{background:0;}
 		small{font-size:.85em;}
     
-    #box{border:1px solid #000; box-shadow:0 0 .5em;}
+    #box{border:1px solid #000; box-shadow:0 0 1em rgba(0,0,0,.5),0 0 .5em; margin:1em;}
     
     header{line-height:0;}
     
@@ -48,7 +48,7 @@ intro: |-
 		
 		hr{background:0; border:0; border-bottom:2px solid; margin:2em auto 1em; max-width:35%;}
 		
-		h2{border-bottom:2px dashed #808080;}
+		h2{border-bottom:2px dashed #808080; margin-bottom:.5em;}
 		h2 .m-wrap{font-size:1.5em; color:#202020;}
     
     footer{font-style:italic; font-size:.825em;}
@@ -67,6 +67,11 @@ intro: |-
         <figure id="float"><img src="{%include url.html%}/other/img/slade-avatars/by Titmouse.png" alt=""><figcaption><small>art by <a href="https://wiki.soulsrpg.com/Players/Titmouse">Titmouse</a></small></figcaption></figure>
         {%capture inc-url%}{%include url.html%}{%endcapture%}{{page.intro|markdownify|replace:"INCURL",inc-url}}
       </section>
+			<hr>
+			<section>
+				<h2><div class="m-wrap">[second section??]</div></h2>
+				<div class="m-wrap"><p>[i was gonna put ancient graphics here but. <em>ehhhhh.</em> pseudo-RP sample, maybe? character factoids, like the <a href="{%include url.html%}/misc/zero-profile">Zero page</a>?? ig slade Has a character bio but I neither remember most of it nor feel the need to archive it lol. idk. will revisit this later]</p></div>
+			</section>
     </main>
   </div>
   <hr class="x">

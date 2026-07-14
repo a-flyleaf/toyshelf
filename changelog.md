@@ -53,3 +53,4 @@ henceforth not noting copyedits & fixes unless substantial
 	- finished & linked a [neon Zero profile from 2025]({%include url.html%}/misc/zero-profile)
 - June 24: added [brame animal.]({%include url.html%}/misc#brame)
 - June 29: individual page for [Slade&nbsp;Auctor]({%include url.html%}/misc/slade-auctor)
+- July 14: [WIP old-style Slade profile]({%include url.html%}/misc/slade-profile)
