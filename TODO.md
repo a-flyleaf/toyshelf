@@ -1,9 +1,3 @@
-[2023 at some point]
-- combine ygbtdm minor characters to one page, hellrabbit+wolfskull both; re-tag accordingly
-- also fix/check links from both misc and about; for misc, have a span with the wolf-skull id
-
-^2026 footnote: idr what the span is referring to. as for ygbtdm minors THE THING IS what if someday I want to split off creatures & human(oid)s... what then. also one's in artfight and the other never will be. SO they can be separate for organizational purposes.
-
 # 2025
 [1/06] disaster-crew extra pages (links, origin, timeline) can.. go... somewhere. eventually. maybe add a "journals" section (called smthn else) for text-based stuff like that
 	- /origin is already linked on the profile but still.
@@ -51,3 +45,10 @@
 - cold... https://www.flickr.com/photos/thebonzey/369718354/in/photolist-yEUoo-4VyKpv-2bbeXK8-YdGGB7-HDZe99-Q5g27i-22z2L8x-55nHge-2kATqpn-dxLmuD-26XCzBD-4oUFWG-YdFyN3-nCcZp-yDoLUh-qmAc96-J48QL7-28qiQxJ-deo9Uy-YvpAKD-qj3mtz-2o5vKCQ-aKLMBa-2qEcKgF-nUZNHw-DMa7w-6iEMYw-R7ZBNj-coEYUh-7eyeLq-qsyp6w-nbCEe1-AFp4BP-g2U4aJ-7bWBwi-bssNAT-cCF4Pq-2oZLetW-yWN9dn-askTdm-81uy5P-2nLoar7-MqjgE4-yEUmX-Yfk5VJ-ngC2sT-yEUpT-AHrWr-7gHLht-NVV1fo
 - https://www.flickr.com/photos/rustybadger/3746767142/in/photolist-6H6aku-bSL2Qk-81xNmq-25bLVcb-6Fp4ye-84bfVa-drnveb-24Xo9Pr-67Rc6J-owntq8-2oeRDyk-baTNzk-baT1D6-aaAW1x-J48GAE-drnkYk-AjTmzZ-edTgKZ-eAUznq-baTiBF-GJhz3X-r4FDr8-baStsB-baSwtT-baT4ir-jm7pQx-2pKd1c6-4z25iW-9p2pgd-baSPfx-26m4Kye-5kQsMx-baSHPT-DMaUi-baThWk-5jBnc6-baTkYM-i3z1TL-2687GHs-baTfd4-HGuX1t-baSHd6-2igLdsu-RkQzz6-5CBV7J-baTzP4-2hoUoHp-3V1Nvm-baTqJk-cpS67Y
 - ok I'm just collecting yotes at this point https://www.flickr.com/photos/rustybadger/3745981583/in/photolist-HGuWKD-DMaKB-7Ajda3-pH9kbT-5d6do-DMasu-2oQvVhK-4db6KG-8U8Kh2-NReezA-7kg5GZ-HGv4y8-ccuAYE-HNRnQg-6H28Pn-HE6U6E-2qKC3vj-qr3Dar-qpsq6Y-2oSrFLF-e7BGen-F7XLn-p7PEdC-dv9V2H-Forxx8-2gHAstW-6p4L3J-7MwUh7-6RxuBW-2iqG1Uu-HNRqu4-7GTb8u-2nD9pnV-L8FGZX-coHjSS-coHm3E-2gHAsKH-2gHzJhW-2gHzJe9-dZe5dA-JkfgZz-2pRq3GP-Afeb1-6p6Wem-4RMz5p-25d33ak-7Mk4ix-2m4aZbB-pGV7xJ-eNo3Bn
+
+[8/02] thumbnails for recent 2018 disaster crew uploads:
+- heighthell
+- raaeeyah
+- morning-glories
+- pets
+- storyrefs
