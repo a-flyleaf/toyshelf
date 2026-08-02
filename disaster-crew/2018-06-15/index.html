@@ -6,28 +6,34 @@ title: 2018-06-15
 css: ".sc{text-transform:uppercase;} em.sc{font-style:normal;} /*should be in the site's main css tbfh*/
 	#content .wrap{max-width:100%; font-family:initial; padding:0;}
 	h1{margin-top:0; font-size:.65em; border:0; font-family:consolas,monospace; font-weight:normal;}
-	h1,.wrap>p{padding:0 1rem;}
-	.wrap>p+p{margin-bottom:1em;}
+	h1,#intro p,#back{padding:0 1rem;}
+	#intro p+p{margin-bottom:1em;}
 	section{padding:1rem; text-align:center;}
-	section:nth-of-type(odd){background:rgba(0,0,0,.05);}
+	.then{background:rgba(0,0,0,.05);}
 	h2{font-size:2em; padding:0; border:0; margin:.5em 0 1em; font-weight:normal;}
 	section>p:first-of-type{margin-top:0;}
+	summary{list-style:none; cursor:pointer; display:inline-block; border:0;} summary::marker,details>summary::-webkit-details-marker{display:none;}
 	figure img{display:inline;}
 	figure img,figcaption{border:1px solid #bfbfbf;}
 	figcaption{max-width:502px; margin:-.5em auto 0; padding:.5em;}
 	figure p{margin:0; line-height:1.25;} figure p+p{margin-top:1em;}
-	@media (prefers-color-scheme:dark){
-		section:nth-of-type(odd){background:rgba(0,0,0,.25);}
-		figure img,figcaption{border-color:#000;}
-	}
 	
 	.b{font-style:normal;}
 	big{font-size:1.5em;}
 	i .sc{font-style:italic;}
+	h3{font-weight:normal; margin:0 0 -.25em;}
+	.then2{background:rgba(0,0,0,.1);}
+	
+	@media (prefers-color-scheme:dark){
+		section:nth-of-type(odd){background:rgba(0,0,0,.25);}
+		figure img,figcaption{border-color:#000;}
+		.then2{background:rgba(0,0,0,.4);}
+	}
 "
 
 sec:
   - h2: "The Past."
+    class: then
     imgs:
       - num: "13"
         alt: |-
@@ -70,6 +76,9 @@ sec:
       - num: "12"
         alt: |-
           I&N: holy shit someone gets it
+  - h3: "[&nbsp;an entire scene happened here somehow&nbsp;]"
+    class: then
+    imgs:
       - num: "14"
         alt: |-
           Tara: k so we trust each other right  
@@ -105,6 +114,7 @@ sec:
           
           Tara, staring disgruntledly at food n shit: <i>(internally) <em class="sc">she drowned our cat shitlips</em></i>
   - h2: "The Present."
+    class: now
     imgs:
       - num: "01"
         alt: |-
@@ -137,6 +147,7 @@ sec:
         alt: |-
           Levi, to Vexus, who is not listening: bruh / bro friend me / bruh im so concerned
   - h2: "the theme, ig"
+    class: then
     imgs:
       - num: "23"
         alt: |-
@@ -162,6 +173,7 @@ sec:
       depression. the end
 
 #  - h2: ""
+#    class: "then/now"
 #    txt1: |-
 #      lorem
 #    imgs:
@@ -174,13 +186,16 @@ sec:
 #    txt2: |-
 #      ipsum
 ---
-<p>expanded <a href="{%include url.html%}/art/storybs">shitdoodle</a> nonsense. yes this page is kinda ugly on purpose &lt;3</p>
-<p>rearranged more or less chronologically. on paper the story itself would not be chronological at all, but this page has all the nonsense upfront.</p>
+<div id="intro">
+	<p>expanded <a href="{%include url.html%}/art/storybs">shitdoodle</a> nonsense. yes this page is kinda ugly on purpose &lt;3</p>
+	<p>rearranged more or less chronologically. on paper the story itself would not be chronological at all, but this page has all the nonsense upfront.</p>
+	<p>there are typed-out captions if you click the images, in case you cannot read the chickenscratch. i understand</p>
+</div>
 
-{%for sec in page.sec%}<section>{%if sec.h2%}<h2>{{sec.h2}}</h2>{%endif%}{%if sec.txt1%}{{sec.txt1|markdownify}}{%endif%}{%for i in sec.imgs%}<figure>
-	<img src="{{i.num}}.png" alt="">
+{%for sec in page.sec%}<section class="{{sec.class}}{%if sec.h3%} then2{%endif%}">{%if sec.h2%}<h2>{{sec.h2}}</h2>{%endif%}{%if sec.h3%}<h3>{{sec.h3}}</h3>{%endif%}{%if sec.txt1%}{{sec.txt1|markdownify}}{%endif%}{%for i in sec.imgs%}<figure><details>
+	<summary><img src="{{i.num}}.png" alt=""></summary>
 	<figcaption>{{i.alt|markdownify}}</figcaption>
-</figure>{%endfor%}{%if sec.txt2%}{{sec.txt2|markdownify}}{%endif%}
+</details></figure>{%endfor%}{%if sec.txt2%}{{sec.txt2|markdownify}}{%endif%}
 </section>{%endfor%}
 
-<p><a href="{%include url.html%}/disaster-crew">← back to disaster crew index</a></p>
+<p id="back"><a href="{%include url.html%}/disaster-crew">← back to disaster crew index</a></p>
