@@ -1,0 +1,121 @@
+---
+layout: 1
+title: 2018-06-15
+# nav: disaster-crew
+
+css: "/* .x{position:absolute; left:-999px; width:1px; height:1px; top:auto; overflow:hidden;} /*should be in the site's main css tbfh*/
+	#content .wrap{max-width:100%; font-family:initial; padding:0;}
+	h1{margin-top:0; font-size:.65em; border:0; font-family:consolas,monospace; font-weight:normal;}
+	h1,.wrap>p{padding:0 1rem;}
+	section{padding:1rem; text-align:center;}
+	section:nth-of-type(odd){background:rgba(0,0,0,.05);} @media (prefers-color-scheme:dark){section:nth-of-type(odd){background:rgba(0,0,0,.25);}}
+	section>p:first-of-type{margin-top:0;}
+	figure img{display:inline;}
+"
+
+sec:
+  - h2: ""
+    txt1: |-
+      lorem
+    imgs:
+      - num: "01"
+        alt: |-
+          ///
+      - num: "02"
+        alt: |-
+          ///
+      - num: "03"
+        alt: |-
+          ///
+      - num: "04"
+        alt: |-
+          ///
+      - num: "05"
+        alt: |-
+          ///
+      - num: "06"
+        alt: |-
+          ///
+      - num: "07"
+        alt: |-
+          ///
+      - num: "08"
+        alt: |-
+          ///
+      - num: "09"
+        alt: |-
+          ///
+      - num: "10"
+        alt: |-
+          ///
+      - num: "11"
+        alt: |-
+          ///
+      - num: "12"
+        alt: |-
+          ///
+      - num: "13"
+        alt: |-
+          ///
+      - num: "14"
+        alt: |-
+          ///
+      - num: "15"
+        alt: |-
+          ///
+      - num: "16"
+        alt: |-
+          ///
+      - num: "17"
+        alt: |-
+          ///
+      - num: "18"
+        alt: |-
+          ///
+      - num: "19"
+        alt: |-
+          ///
+      - num: "20"
+        alt: |-
+          ///
+      - num: "21"
+        alt: |-
+          ///
+      - num: "22"
+        alt: |-
+          ///
+      - num: "23"
+        alt: |-
+          ///
+      - num: "24"
+        alt: |-
+          ///
+      - num: "25"
+        alt: |-
+          ///
+      - num: "26"
+        alt: |-
+          ///
+    txt2: |-
+      ipsum
+
+#  - h2: ""
+#    txt1: |-
+#      lorem
+#    imgs:
+#      - num: "02"
+#        alt: |-
+#          ///
+#      - num: "02"
+#        alt: |-
+#          ///
+#    txt2: |-
+#      ipsum
+---
+<p>expanded <a href="{%include url.html%}/disaster-crew">disaster crew</a> nonsense. yes this page is kinda ugly on purpose &lt;3</p>
+
+{%for sec in page.sec%}<section>{%if sec.h2%}{{sec.h2}}{%endif%}{%if sec.txt1%}{{sec.txt1|markdownify}}{%endif%}{%for i in sec.imgs%}<figure>
+	<img src="{{i.num}}.png" alt="">
+	<figcaption class="x">{{i.alt}}</figcaption>
+</figure>{%endfor%}{%if sec.txt2%}{{sec.txt2|markdownify}}{%endif%}
+</section>{%endfor%}
