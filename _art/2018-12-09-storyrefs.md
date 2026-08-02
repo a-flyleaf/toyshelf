@@ -15,6 +15,6 @@ caption: >-
 ---
 Screwing around with base palettes on various palettes, and some story-relevant outfits. The scenes represented are significant; the specific looks haven't really been revisited.
 
-Last one of these is from the 10th. There's a [much more relevant upload]() for that day.
+<!--Last one of these is from the 10th. There's a [much more relevant upload]() from that day. //// aaaactually nah I'll keep that private for now-->
 
 <br><i>[If you're seeing this line, there are no thumbnails for this art. Will make & upload them later.]</i>
