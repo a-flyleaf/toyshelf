@@ -14,5 +14,7 @@ Main points of note:
 
 And that's it, that's all I got. The old pages are [still here](oldhell), but consider everything there indefinitely outdated.
 
++<b>2026 note</b>: [also this exists](https://a-flyleaf.github.io/shriblets/2026-07-04-vn)
+
 ## gallery
 <div id="gallery">{%for art in site.art%}{%if art.categories contains "newhell"%}<a href="{%include url.html%}{{art.url}}"><img src="{%include url.html%}/assets/img/art/{{art.date|date:"%F"}}-tn.jpg" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</div>
