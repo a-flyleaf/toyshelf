@@ -14,5 +14,3 @@ caption: |-
   - Levi waving a hand dismissively, saying "Puh-*lease.* *Aaanni-maay* isn't real."
 ---
 I thiiink these are the first drawings of these two? or at least the earliest "definitive" references.
-
-<br><i>[If you're seeing this line, there are no thumbnails for this art. Will make & upload them later.]</i>
