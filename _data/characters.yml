@@ -1,0 +1,112 @@
+# trying to normalize tag (and potentially other) info by putting everything in one place. am *NOT* worried about the ic details like full names or heights or w/e. years are iffy but at least ~objectively measurable so they can stay; species options are human,animal,humanoid
+
+- name: demon
+  group: misc
+  year: 2009
+#      ^idk tbh but it just needs to pre-date Everything
+
+- name: nightpath
+  group: misc
+  year: 2010
+#      ^idk Wolf-Haven joindate but prooobably preceded Slade? didn't start getting pictures until 2011 though
+
+- name: slade
+  group: misc
+  year: 2010
+#      ^'SoulsRPG forum join date in December
+
+- name: nico
+  group: cmyk
+  year: 2012
+
+- name: ivy
+  group: cmyk
+  year: 2012
+
+- name: zero
+  group: misc
+  year: 2012
+#      ^dA ref posted in August; N&I spawned from the CoroCoro leak in April
+  artfight: 1
+
+- name: roommates
+  group: misc
+  year: 2013
+#      ^pkmnXY release date
+
+- name: sawface
+  group: misc
+  year: 2016
+#      ^approximating
+  artfight: 1
+
+- name: ehr
+  group: misc
+  year: 2017
+
+- name: species
+  group: misc
+  year: 2018
+#      ^idfk, could've been before OR after the disaster crew expansion
+
+- name: ava
+  group: cmyk
+  year: 2018
+
+- name: tara
+  group: cmyk
+  year: 2018
+
+- name: vexus
+  group: cmyk
+  year: 2018
+
+- name: levi
+  group: cmyk
+  year: 2018
+
+- name: dodder
+  group: cmyk
+  year: 2018
+
+- name: sika
+  group: misc
+  year: 2018
+# need to double check the gdoc but i am Assuming this was after the disaster crew expansions
+
+- name: cringetober
+  group: misc
+  year: 2020
+
+- name: ena
+  group: misc
+  year: 2021
+
+- name: hellrabbit
+  group: misc
+  year: 2021
+
+- name: wolfskull
+  group: misc
+  year: 2021
+  artfight: 1
+
+- name: lucien
+  group: hl
+  year: 2022
+
+- name: holly
+  group: hl
+  year: 2022
+
+- name: judge
+  group: hl
+  year: 2022
+
+- name: bro
+  group: hl
+  year: 2022
+
+- name: brame
+  group: misc
+  year: 2023
