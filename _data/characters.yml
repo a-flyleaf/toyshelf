@@ -37,7 +37,6 @@
 - name: sawface
   group: misc
   year: 2016
-  yr-note: "approximate"
   artfight: 1
 
 - name: ehr
