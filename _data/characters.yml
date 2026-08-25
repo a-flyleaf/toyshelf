@@ -1,4 +1,8 @@
-# trying to normalize tag (and potentially other) info by putting everything in one place. am *NOT* worried about the ic details like full names or heights or w/e. years are iffy but at least ~objectively measurable so they can stay; species options are human,animal,humanoid
+# trying to normalize tag (and potentially other) info by putting everything in one place. am *NOT* worried about the ic details like full names or heights or w/e.
+# years are iffy but at least ~objectively measurable so they can stay
+# made the year notes actual data so they're quickly skimmable on the datacheck page
+# `page` is a boolean for whether the character has an individual page or not
+# `artfight` is also a boolean, but omitted if false
 
 - name: demon
   group: misc
