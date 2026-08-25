@@ -9,12 +9,12 @@ img:
   - nm: lucien
     dt: 2023-01-06
 ---
-A [Toyhou.se](https://toyhou.se/) knockoff site, for various characters without established story canons.
+A [Toyhou.se](https://toyhou.se/) knockoff site, for various characters without established story canons & art featuring them.
 
-<div id="gallery">{%for c in site.data.characters%}{%unless page.skip contains c.name%}<a href="{%include url.html%}/{%if c.group=='cmyk'%}disaster-crew/{{c.name}}{%elsif c.group=='hl'%}newhell{%else%}misc#{{c.name}}{%endif%}"><img src="{%include url.html%}/assets/img/art/{%assign c-first=site.art|where:"tags",c.name|first%}{{c-first.date|date:"%F"}}-tn{%if c-first.tags.size>1%}-{{c.name}}{%endif%}.jpg" alt=""></a>{%endunless%}{%endfor%}</div>
+<div id="gallery">{%for c in site.data.characters%}{%unless page.skip contains c.name%}<a href="{%include url.html%}/{%if c.group=='cmyk'%}disaster-crew/{{c.name}}{%elsif c.group=='hl'%}newhell{%else%}misc#{{c.name}}{%endif%}"><img src="{%include url.html%}/assets/img/art/{%assign c-first=site.art|where:"tags",c.name|first%}{{c-first.date|date:"%F"}}{%if c.name=='lucien'%}2022-11-21{%endif%}-tn{%if c-first.tags.size>1%}-{{c.name}}{%endif%}.jpg" alt=""></a>{%endunless%}{%endfor%}</div>
 
 - [super nifty About page]({%include url.html%}/about)
-- actual character pages:
+- character categories:
 	- [disaster crew]({%include url.html%}/disaster-crew)
 	- [miscellaneous randos]({%include url.html%}/misc)
 	- [new hell]({%include url.html%}/newhell)
