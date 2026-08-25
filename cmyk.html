@@ -2,54 +2,90 @@
 layout: none
 title: "untitled"
 hspan: >-
-  the "disaster duo," and their not-friends
+  about the "disaster duo," and their not-friends
 
-sections:
-  - h2: who
+ws-h2: "Five <i>W</i>s: an Overview"
+ws:
+  - h3: who
     txt: |-
       A loose cluster of interconnected dysfunction.
       
       [character thumbnails go here; nico-ivy-ava / tara / vexus-levi-dodder ?]
-  - h2: what
+  - h3: what
     txt: |-
       The in-character timeline is clear in my head; the hypothetical presentation, and its theoretical conclusion, much less so. I hesitate to call it an Established Story:tm:. It could probably turn into one, with more development and a defined endpoint. Until then (and I've made neither plans nor promises), various writeups and drawings about it get to live here.
-  - h2: where
+  - h3: where
     txt: |-
       It starts in a small American town, some no-name suburb not too far from a city that's cared about even less. By the runoff of oft-mowed lawns, summer is dotted with dandelions, and there's just enough woodland on the outskirts for stray kids and pets to get lost in. In the city, weeds slither through the pavement undeterred. There's a sense things could be better, a lot better---if someone could love it into shape.
       
       I've entertained the idea of setting the actual plotline on a cruise ship, one doomed to sink. More often I picture things taking place on the perfectly mundane, everyday soil and sidewalks of lives unperturbed. (mostly.)
-  - h2: when
+  - h3: when
     txt: |-
       <b>20XX.</b> It's a great season to grow. And grow and grow and grow, until the sun disappears behind creaking planks and inviting rapids. Time is running out. Four youth meet in the forest, no one hears, and the consequences echo til death rends them part.
       
       <b>201X, five years later.</b> All is settled; all is well. One can think that, anyway, by shutting the blinds and keeping certain remnants buried. A man wakes up from a coma with a joyous revelation about what comes next; a boy is less than enthused and seeks the truth. Either way, he'll never be alone. (She'll ensure it.)
-  - h2: why
+  - h3: why
     txt: |-
       Insofar as an undercooked idea can have a theme, this one has been built primarily around the jagged ebbs of close human relationships---and their lack, and deeply flawed attempts to attain them. Granted, I always like writing about fucked-up people who make irreversible mistakes; but there is no fantastical, metanarrative, or otherwise surreal element of removal in this storyline. There might be a ghost in it, but it's not about Ghost Lore. It's about death.
       
       The events of 20XX grew out of me futzing around with an existing narrative; the version presented here is divorced entirely from that context. I revisited the concept five real-life years later, with the vague idea of the post-timeskip events being, at least in some part, the unraveling of a mystery. What really happened back then; what can be made of it now?
       
       I don't have answers to that! But the thing continues to linger in my head anyway. It is not always as moody as the writing on this page may imply.
-additional: |-
-  [see existing page; also include the v1 index & character profiles, since the whole mood is changing here] [bullet list, two columns on widescreen?]
+  - h3: additional links
+    txt: |-
+      [see existing page; also include the v1 index & character profiles, since the whole mood is changing here] [bullet list, two columns on widescreen?]
+
+characters:
+  - h3: "nico"
+    fullnm: "Nico XXXXX Sylvester"
+    sex: "m"
+    bday: "April XX, 199X"
+    age: "19"
+    hgt: "5&apos;05&quot;"
+    wgt: "too little"
+    brief: |-
+      A haggard young man who spends his days at a screen behind a shut door. Hell only knows why he chooses to waste away; he was a fit kid, a spry kid. Said he was going for the lifeguard's tower, once. Jobless, since. Lives with his girlfriend in a small apartment.
+      
+      Spotted occasionally in recent weeks at the club, karaoke nights. Does stand-up if he's drunk enough. The girlfriend has to drag him back....
+    phys: |-
+      Scrawny. Gaunt. Sunken blue eyes and a slouched, sharp-edged demeanor. Voice pitches low, with a touch of gravel, but noticeably young---especially on the mic.
+      
+      Wears ratty old clothes that seem to drown him. Scruffy goatee and sideburns, shaved close to the skin. Dons asymmetrical ear studs. Dark shadows under the eyes.
+    history: |-
+      Born as an attempt to fix his parents' marriage. Loved his dad growing up, despite the increasing absence; rougher with mom, at first. Grew up well-off for the neighborhood. Spent most warm weekends outside and cooler weekends... also outside, if it made for a good bit. Best friends with a neighboring girl, Tara.
+      
+      Social interests veered towards local boys, going into adolescence. Tara disappeared suddenly when he was 14; his subsequent depression expedited his parents' divorce, with father Nathaniel's distance deemed unforgivable in light of his son's suffering. Nico softened to his mom after that. He later moved out with his only remaining friend, who he's continued to call <i>Ivy</i>.
+      
+      Continues to dabble in guitar, military first-person shooters, and making a fool of himself for ~~attention~~ public entertainment value.
 ---
 <!DOCTYPE html>
 <html><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>sleepless behavior.html</title>
+  <title>{{page.title}}</title>
   <style>
     *{box-sizing:border-box; font-size:100%; margin:0; padding:0;}
     .x{position:absolute; left:-999px; width:1px; height:1px; top:auto; overflow:hidden;}
     body{background:#101010; color:#fff; padding:1rem; font-family:courier,monospace;}
     header,main,section,footer{display:block;}
     img{max-width:100%; height:auto;}
+		.nob{font-weight:normal;}
     small{font-size:.75em;}
-    /*DELETE IF UNUSED*/summary{cursor:pointer;}
+		.up{text-transform:uppercase; letter-spacing:.05em;}
     a:focus,summary:focus{outline:/*DEFINE*/;}
 		
 		header,footer{text-align:center;}
+    summary{cursor:pointer;}
     section{background:#efefef; color:#000; margin:1em auto; padding:1em; max-width:50em;}
-    h2{text-transform:uppercase; letter-spacing:.05em; font-size:1.25em; font-weight:normal; color:#404040;}
+    h3{font-size:1.25em; color:#404040;}
     p{line-height:1.5;} p+p{margin-top:1em;}
+		
+		.floatbox{overflow:auto;}
+		ul{list-style-type:none;}
+		ul b{letter-spacing:initial !important;}
+		li{display:inline-block; border-left:2px solid; border-bottom:1px dashed; padding:.25em .75em 0 .75em; margin:.125em 0;}
+		h4{margin-top:2em; border-bottom:1px dashed;}
+		.wrap{max-width:40em; margin:0 auto;}
+		.desc{float:right; max-width:37.5em;}
+		/*temp?*/ .floatbox:last-of-type{padding-bottom:2em;}
     
     @media (prefers-color-scheme:dark){
       body{background:#000;}
@@ -67,51 +103,46 @@ additional: |-
   <hr>
 	
 	<main>
-		{%for s in page.sections%}<section>
-			<h2>{{s.h2}}</h2>
-			{{s.txt|markdownify}}
-		</section>{%endfor%}
-		<section>
-			<h2>additional links</h2>
-			{{page.additional|markdownify}}
-		</section>
+		<details>
+			<summary><h2 class="up">{{page.ws-h2}}</h2></summary>
+			{%for s in page.ws%}{%if s.h2 contains "additional"%}<hr>{%endif%}<section>
+				<h3 class="up nob">{{s.h3}}</h3>
+				{{s.txt|markdownify}}
+			</section>{%endfor%}
+		</details>
+		<hr>
+		<details id="dossier" OPEN>
+			<summary><h2 class="up">Dossier</h2></summary>
+			{%for c in page.characters%}<section>
+				<h3 class="up nob">{{c.h3}}</h3>
+				<ul><!-- <https://stackoverflow.com/questions/2628050/ignore-whitespace-in-html> >:( -->
+					<li><b class="up nob">Full Name</b>: {{c.fullnm}}</li><!--
+					--><li><b class="up nob">Sex</b>: {{c.sex|capitalize}}</li><!--
+					--><li><b class="up nob">D.O.B.</b>: {{c.bday}} (<b class="up nob">Age</b>: {{c.age}})</li><!--
+					--><li><b class="up nob">Height</b>: {{c.hgt}}</li><!--
+					--><li><b class="up nob">Weight</b>: {{c.wgt}}</li>
+				</ul>
+				
+				<!--this is repetitive but w/e, cba to fuss with the array-in-array thing rn-->
+				<div class="floatbox">
+					<h4 class="up nob"><div class="wrap">Brief</div></h4>
+					<div class="wrap"><div class="desc">{{c.brief|markdownify|replace:"…","..."}}</div></div>
+				</div><div class="floatbox">
+					<h4 class="up nob"><div class="wrap">Physical</div></h4>
+					<div class="wrap"><div class="desc">{{c.phys|markdownify|replace:"…","..."}}</div></div>
+				</div><div class="floatbox">
+					<h4 class="up nob"><div class="wrap">History</div></h4>
+					<div class="wrap"><div class="desc">{{c.history|markdownify|replace:"…","..."}}</div></div>
+				</div>
+					
+				<!--[selected gallery? trivia?? idk the random OC factoids don't really fit the Mood of this page]-->
+			</section>{%endfor%}
+		</details>
 	</main>
   
   <main>
-    
-    <hr><hr><hr>
-    
-    
-    <header><h1>dossier</h1>(include an "other" on the index for additional character designs!)</header>
     <section>(not writing this in HTML)
-      ## NICO
-      FULL NAME: Nico [???] Sylvester
-      SEX: M
-      D.O.B.: April XX, 199X (AGE: 19)
-      HEIGHT: []
-      WEIGHT: too little
-      
-      BRIEF
-      A haggard young man who spends his days at a screen behind a shut door. Hell only knows why he chooses to waste away; he was a fit kid, a spry kid. Said he was going for the lifeguard's tower, once. Jobless, since. Lives with his girlfriend in a small apartment.
-      
-      Spotted occasionally in recent weeks at the club, karaoke nights. Does stand-up if he's drunk enough. The girlfriend has to drag him back....
-      
-      
-      (detailed appearance/history under dropdowns; NO "WIP" SECTIONS if there's nothin there's nothin!! use the same tone throughout)
-      
-      PHYSICAL
-      Scrawny. Gaunt. Sunken blue eyes and a slouched, sharp-edged demeanor. Voice pitches low, with a touch of gravel, but noticeably young---especially on the mic.
-      
-      Wears ratty old clothes that seem to drown him. Scruffy goatee and sideburns, shaved close to the skin. Dons asymmetrical ear studs. Dark shadows under the eyes.
-      
       HISTORY
-      Born as an attempt to fix his parents' marriage. Loved his dad growing up, despite the increasing absence; rougher with mom, at first. Grew up well-off for the neighborhood. Spent most warm weekends outside and cooler weekends... also outside, if it made for a good bit. Best friends with a neighboring girl, Tara.
-      
-      Social interests veered towards local boys, going into adolescence. Tara disappeared suddenly when he was 14; his subsequent depression expedited his parents' divorce, with father Nathaniel's distance deemed unforgivable in light of his son's suffering. Nico softened to his mom after that. He later moved out with his only remaining friend, who he's continued to call /Ivy/.
-      
-      Continues to dabble in guitar, military first-person shooters, and making a fool of himself for ~~attention~~ public entertainment value.
-      
-      
       ## IVY
       (znas drill)
       WEIGHT: above average
