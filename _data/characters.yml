@@ -4,108 +4,120 @@
   group: misc
   year: 2009
   yr-note: "idk tbh but it just needs to pre-date Everything"
+  page: 0
 
 - name: nightpath
   group: misc
   year: 2010
   yr-note: "idk Wolf-Haven joindate but prooobably preceded Slade? didn't start getting pictures until 2011 though"
+  page: 0
 
 - name: slade
   group: misc
   year: 2010
   yr-note: "'SoulsRPG forum join date in December"
+  page: 1
 
 - name: nico
   group: cmyk
   year: 2012
-
+  page: 1
 - name: ivy
   group: cmyk
   year: 2012
+  page: 1
 
 - name: zero
   group: misc
   year: 2012
   yr-note: "dA ref posted in August; N&I spawned from the CoroCoro leak in April"
+  page: 1
   artfight: 1
 
 - name: roommates
   group: misc
   year: 2013
   yr-note: "pkmnXY release date"
+  page: 0
 
 - name: sawface
   group: misc
   year: 2016
   artfight: 1
+  page: 1
 
 - name: ehr
   group: misc
   year: 2017
+  page: 1
 
 - name: species
   group: misc
   year: 2018
   yr-note: "idfk, could've been before OR after the disaster crew expansion"
+  page: 0
 
 - name: ava
   group: cmyk
   year: 2018
-
+  page: 1
 - name: tara
   group: cmyk
   year: 2018
-
+  page: 1
 - name: vexus
   group: cmyk
   year: 2018
-
+  page: 1
 - name: levi
   group: cmyk
   year: 2018
-
+  page: 1
 - name: dodder
   group: cmyk
   year: 2018
+  page: 1
 
 - name: sika
   group: misc
   year: 2018
   yr-note: "need to double check the gdoc but i am Assuming this was after the disaster crew expansions"
+  page: 0
 
 - name: cringetober
   group: misc
   year: 2020
+  page: 0
 
 - name: ena
   group: misc
   year: 2021
+  page: 0
 
 - name: hellrabbit
   group: misc
   year: 2021
-
+  page: 0
 - name: wolfskull
   group: misc
   year: 2021
+  page: 0
   artfight: 1
 
 - name: lucien
   group: hl
   year: 2022
-
+  page: 0
 - name: holly
   group: hl
   year: 2022
-
+  page: 0
 - name: judge
   group: hl
   year: 2022
-
-- name: bro
-  group: hl
-  year: 2022
+  page: 0
 
 - name: brame
   group: misc
   year: 2023
+  page: 0

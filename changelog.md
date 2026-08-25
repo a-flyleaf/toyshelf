@@ -55,3 +55,4 @@ henceforth not noting copyedits & fixes unless substantial
 - June 29: individual page for [Slade&nbsp;Auctor]({%include url.html%}/misc/slade-auctor)
 - July 14: [WIP old-style Slade profile]({%include url.html%}/misc/slade-profile)
 - August 2: [disaster crew shitdoodle saga]({%include url.html%}/disaster-crew/2018-06-15)
+- August 24: character data is a thing now

@@ -36,12 +36,15 @@ layout: none
 			<th>group</th>
 			<th>year</th>
 			<th>yr-note</th>
+			<th>page*</th>
 		</tr></thead><tbody>{%for c in site.data.characters%}<tr class="{%cycle 'odd','even'%}">
 			<td>{{c.name}}</td>
 			<td>{{c.group}}</td>
 			<td>{{c.year}}</td>
 			<td class="{%if c.yr-note%}txt{%else%}empty{%endif%}">{{c.yr-note|markdownify}}</td>
+			<td{%if c.page==0%} class="empty"{%endif%}>{%if c.page==1%}yes{%else%}no{%endif%}</td>
 		</tr>{%endfor%}</tbody>
 	</table>
-
+	<p>*to be linked when I figure out how I actually want to handle these</p>
+	
 </body></html>
