@@ -3,17 +3,17 @@
 - name: demon
   group: misc
   year: 2009
-#      ^idk tbh but it just needs to pre-date Everything
+  yr-note: "idk tbh but it just needs to pre-date Everything"
 
 - name: nightpath
   group: misc
   year: 2010
-#      ^idk Wolf-Haven joindate but prooobably preceded Slade? didn't start getting pictures until 2011 though
+  yr-note: "idk Wolf-Haven joindate but prooobably preceded Slade? didn't start getting pictures until 2011 though"
 
 - name: slade
   group: misc
   year: 2010
-#      ^'SoulsRPG forum join date in December
+  yr-note: "'SoulsRPG forum join date in December"
 
 - name: nico
   group: cmyk
@@ -26,18 +26,18 @@
 - name: zero
   group: misc
   year: 2012
-#      ^dA ref posted in August; N&I spawned from the CoroCoro leak in April
+  yr-note: "dA ref posted in August; N&I spawned from the CoroCoro leak in April"
   artfight: 1
 
 - name: roommates
   group: misc
   year: 2013
-#      ^pkmnXY release date
+  yr-note: "pkmnXY release date"
 
 - name: sawface
   group: misc
   year: 2016
-#      ^approximating
+  yr-note: "approximate"
   artfight: 1
 
 - name: ehr
@@ -47,7 +47,7 @@
 - name: species
   group: misc
   year: 2018
-#      ^idfk, could've been before OR after the disaster crew expansion
+  yr-note: "idfk, could've been before OR after the disaster crew expansion"
 
 - name: ava
   group: cmyk
@@ -72,7 +72,7 @@
 - name: sika
   group: misc
   year: 2018
-# need to double check the gdoc but i am Assuming this was after the disaster crew expansions
+  yr-note: "need to double check the gdoc but i am Assuming this was after the disaster crew expansions"
 
 - name: cringetober
   group: misc

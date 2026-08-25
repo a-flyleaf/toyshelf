@@ -1,0 +1,46 @@
+---
+layout: none
+---
+<!doctype html><html lang="en">
+<head>
+	<meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>toyshelf/_data(check)</title>
+	<style>
+		h1,table{font-family:monospace;}
+		h1 a{background:#efefef; text-decoration:none; color:inherit;}
+		code{font-weight:bold;}
+		a:hover,a:active,a:focus{opacity:.5;}
+		
+		h2{margin:0;}
+		
+		table{border-collapse:collapse;}
+		th{text-align:left;}
+		th,td{padding:.5em; border:1px solid #efefef; vertical-align:top; max-width:200px;}
+		.odd{background:#f7f7f7;}
+		.empty{background:rgba(0,0,0,.15);}
+		.txt{font-family:sans-serif; font-size:.85em;}
+		.txt p{margin:0;}
+	</style>
+</head><body>
+
+	<h1><a href="{%include url.html%}">toyshelf</a>/_data(check)</h1>
+	<p>you know what the fuck it is… 2!!</p>
+	
+	<p><a href="{%include url.html%}/art/datacheck">art has its own page</a>, and will Stay there bc it is A Lot</p>
+	
+	<h2>characters.yml</h2>
+	<table>
+		<thead><tr>
+			<th>name</th>
+			<th>group</th>
+			<th>year</th>
+			<th>yr-note</th>
+		</tr></thead><tbody>{%for c in site.data.characters%}<tr class="{%cycle 'odd','even'%}">
+			<td>{{c.name}}</td>
+			<td>{{c.group}}</td>
+			<td>{{c.year}}</td>
+			<td class="{%if c.yr-note%}txt{%else%}empty{%endif%}">{{c.yr-note|markdownify}}</td>
+		</tr>{%endfor%}</tbody>
+	</table>
+
+</body></html>
