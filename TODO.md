@@ -2,11 +2,9 @@
 [1/06] disaster-crew extra pages (links, origin, timeline) can.. go... somewhere. eventually. maybe add a "journals" section (called smthn else) for text-based stuff like that
 	- /origin is already linked on the profile but still.
 
-[2/18] really *really* gotta futz with the tag system because the links are Not correct... maybe have some site data for generating gallery pages, and only link to those if the pages Exist? (see dragonotes dragon pages for the "check page for data in other array" thing.) much much MUCH easier than maintaining them all manually....
-
 # 2026
-[5/18] fuck it. ~~bring brame back. helldeer too.~~ [6/21+24: done and done.] syla & those ancient wolf designs (vex, alex+charlie, the mouse)?? finley grebe????? keep it consolidated to that one megapage
-	maybe like. idk sorted more by year than Character *unless* the character gets drawn enough. no year for the ~timeless/recurring guys like slade idk
+[5/18] bring back syla & those ancient wolf designs (vex, alex+charlie, the mouse)? keep it consolidated to that one megapage
+	[8/24] finley & tadashi got a Lil drawn but I am not too fussed about rp randos. the aforementioned ones could maaaaybe be here just bc they're my first Original Characters Do Not Steal:TM:
 
 ## brame bs [6/21]
 - insp, in no particular order:
@@ -25,7 +23,8 @@
 [7/13] god. ok. looking at toyhou.se again, it's divided into UNIQUELY: bulletins (like dA journals), characters (main focus), links (between characters), worlds (multiplayer thign), favorites (also socmed-esque); designs art & library compile everything, the latter seemingly where text-based articles can go.
 - main /art page can stay, other categorizations unnecessary
 - keep art tags **per-character** (no need to delete deprecated data, just don't show it in the layout); use either sitewide or gallery-page data to specify where the links go
-- new base character url that's just c/[character]? keep the <9 arts on the /misc page (c/misc?); redirects will be a hassle but *egh* it could be easier to manage moving forward
 
 [8/02] **heighthell thumbnails**
 also there is disaster-crew pet art. put that somewhere maybe. miscellaneous refs section with the parents? maaaybe mid-timeline designs??
+
+[8/24] hey didn't I want to put the sika concept doc here... also put a full image on the misc page instead of that one lonely thumbnail, like the cringetober duo
