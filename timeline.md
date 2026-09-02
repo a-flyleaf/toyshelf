@@ -8,6 +8,7 @@ Just for the heck of it, and also my own ease of reference.
 	- "them all" does not include imaginary friends and other characters from childhood series
 - pre-2011: [Nightpath]({%include url.html%}/misc#nightpath); first reference posted January this year
 	- I *know* she preceded Slade but don't have a date on it :T
+- 2010 September/October: various Furry-Paws "characters" who got like one picture and were never touched again, but who I remember vaguely anyway
 - 2010 December: [Slade Auctor]({%include url.html%}/misc#slade)
 	- <abbr title="if I remember correctly">iirc</abbr> I joined ’Souls and immediately went on vacation lmao, I associate him more with 2011. might not have had a Design™ until later anyway? ref was posted in October 2011
 - 2012: <b>disaster duo</b> via poké-protags [Alex/Nate/Nathan]({%include url.html%}/disaster-crew/nico) and [Ivy]({%include url.html%}/disaster-crew/ivy) (name never changed)
