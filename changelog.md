@@ -59,3 +59,4 @@ henceforth not noting copyedits & fixes unless substantial
 	- character data is a thing now
 	- added character thumbnails to the index
 - August 25: started cleanup on a catch-all "cmyk" page
+- October 18: made the index title less redundant

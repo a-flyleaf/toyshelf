@@ -8,6 +8,11 @@ img:
     dt: 2021-11-14
   - nm: lucien
     dt: 2023-01-06
+css: "
+	h1{opacity:0; height:0; overflow:hidden; margin:0;}
+	main{padding-top:0;}
+	header a{font-size:3em;} header{padding-top:2em;}
+"
 ---
 A [Toyhou.se](https://toyhou.se/) knockoff site, for art and info featuring various characters without established story canons.
 
