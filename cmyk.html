@@ -1,6 +1,6 @@
 ---
 layout: none
-title: "untitled"
+title: "[untitled]"
 hspan: >-
   about the "disaster duo," and their not-friends
 
@@ -10,7 +10,7 @@ ws:
     txt: |-
       A loose cluster of interconnected dysfunction.
       
-      [character thumbnails go here; nico-ivy-ava / tara / vexus-levi-dodder ?]
+      <!--[character thumbnails go here; nico-ivy-ava / tara / vexus-levi-dodder ?]-->
   - h3: what
     txt: |-
       The in-character timeline is clear in my head; the hypothetical presentation, and its theoretical conclusion, much less so. I hesitate to call it an Established Story:TM:. It could probably turn into one, with more development and a defined endpoint. Until then (and I've made neither plans nor promises), various writeups and drawings about it get to live here.
@@ -31,9 +31,9 @@ ws:
       The events of 20XX grew out of me futzing around with an existing narrative; the version presented here is divorced entirely from that context. I revisited the concept five real-life years later, with the vague idea of the post-timeskip events being, at least in some part, the unraveling of a mystery. What really happened back then; what can be made of it now?
       
       I don't have answers to that! But the thing continues to linger in my head anyway. It is not always as moody as the writing on this page may imply.
-  - h3: additional links
-    txt: |-
-      [see existing page; also include the v1 index & character profiles, since the whole mood is changing here] [bullet list, two columns on widescreen?]
+#  - h3: additional links
+#    txt: |-
+#      [see existing page; also include the v1 index & character profiles, since the whole mood is changing here] [bullet list, two columns on widescreen?]
 
 characters:
   - h3: "nico"
@@ -190,11 +190,11 @@ characters:
 ---
 <!DOCTYPE html>
 <html><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{page.title}}</title>
+  <title>{{page.title}} | {{site.name}}</title>
   <style>
     *{box-sizing:border-box; font-size:100%; margin:0; padding:0;}
     .x{position:absolute; left:-999px; width:1px; height:1px; top:auto; overflow:hidden;}
-    body{background:#101010; color:#fff; padding:1rem; font-family:"lucida console",courier,monospace;}
+    body{background:#101010; color:#bfbfbf; padding:1rem; font-family:"lucida console",courier,monospace;}
     header,main,section,footer{display:block;}
 		
 		::selection{background:#000; color:#fff;}
@@ -203,13 +203,24 @@ characters:
 		.nob{font-weight:normal;}
     small{font-size:.75em;}
 		.up{text-transform:uppercase; letter-spacing:.05em;}
-    a:focus,summary:focus{outline:/*DEFINE*/;}
+		a:focus,summary:focus{outline:.125rem dashed #bfbfbf;}
 		
-		header,footer{text-align:center;}
-    summary{cursor:pointer;}
+		header,footer{text-align:center; padding:1em 0;}
+		h1{font-size:1.5em; font-style:italic; color:#9f9f9f;}
+		header span{display:block; padding-top:.5em;}
+		hr{max-width:60em; margin:1em auto;}
+		
+		details{max-width:70em; margin:1em auto;}
+    summary{cursor:pointer; text-align:center; color:#808080; font-size:2em; padding:1em 0;}
+		summary h2{display:inline; color:#efefef;}
+		details[open] summary{color:#404040;} details[open] summary h2{color:#808080;}
+		h2 i{font-style:normal;}
     section{background:#efefef; color:#000; margin:1em auto; padding:1em; max-width:50em;}
     h3{font-size:1.25em; color:#404040;}
     p{line-height:1.5;} p+p{margin-top:1em;}
+		
+		#fivew h3{font-weight:bold; border-bottom:2px #808080 dashed; padding:0 0 .75em 0; margin-bottom:1em; text-align:center;}
+		#fivew section{margin-bottom:2em;}
 		
 		.floatbox{overflow:auto;}
 		.stats{list-style-type:none;}
@@ -247,6 +258,9 @@ characters:
 			#levi ul b{font-size:.85em;}
 			#levi p{font-size:.925em; line-height:1.625;}
 		#dodder .desc p{font-family:arial,sans-serif; font-size:.85em; line-height:1.65; color:#404040;}
+		
+		footer a{color:inherit; text-decoration:2px dotted #808080 underline;}
+		footer a:hover,footer a:active,footer a:focus{color:#fff;}
     
     @media (prefers-color-scheme:dark){
       body{background:#000;}
@@ -270,7 +284,7 @@ characters:
   <hr>
 	
 	<main>
-		<details OPEN>
+		<details id="fivew">
 			<summary><h2 class="up">{{page.ws-h2}}</h2></summary>
 			{%for s in page.ws%}{%if s.h2 contains "additional"%}<hr>{%endif%}<section>
 				<h3 class="up nob">{{s.h3}}</h3>
@@ -278,7 +292,7 @@ characters:
 			</section>{%endfor%}
 		</details>
 		<hr>
-		<details id="dossier" OPEN>
+		<details id="dossier">
 			<summary><h2 class="up">Dossier</h2></summary>
 			{%for c in page.characters%}<section id="{{c.h3}}"{%if c.h3=='ava' or c.h3=='tara'%} class="serif"{%endif%}>
 				<h3 class="up nob">{%if c.h3=="ivy" or c.h3=="dodder"%}“{{c.h3}}”{%else%}{{c.h3}}{%endif%}</h3>
@@ -303,13 +317,13 @@ characters:
 				</div>
 					
 				<!--[selected gallery? trivia?? idk the random OC factoids don't really fit the Mood of this page]-->
-			</section>{%endfor%}
+			</section>{%endfor%}<!--
 			<hr>
 			<section>
 				## ADDITIONAL
 				Art related to this setting, but not featuring any of the main characters.
 				[the pets!! also parents (nico/ivy/ava/caines), if I still like the art enough]
-			</section>
+			</section>-->
 		</details>
 	</main>
   
