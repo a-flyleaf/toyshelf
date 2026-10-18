@@ -14,3 +14,5 @@
 also there is disaster-crew pet art. put that somewhere maybe. miscellaneous refs section with the parents? maaaybe mid-timeline designs??
 
 [8/24] hey didn't I want to put the sika concept doc here... also put a full image on the misc page instead of that one lonely thumbnail, like the cringetober duo
+
+[10/4] brame inspwall is a shriblet now! link it there
